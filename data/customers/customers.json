@@ -1,0 +1,4502 @@
+[
+  {
+    "customer_id": "c1460cfc-5646-4d0b-b281-64ed7cc8a146",
+    "full_name": "Margot Allain",
+    "email": "unoel@example.com",
+    "phone": "+33 (0)4 99 48 05 29",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-22T05:36:42.757162"
+  },
+  {
+    "customer_id": "21ff5220-ff73-4631-b946-32295d82b825",
+    "full_name": "Clémence Hoareau-Leclercq",
+    "email": "aurelie69@example.net",
+    "phone": "05 53 91 11 37",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-01T03:36:27.004014"
+  },
+  {
+    "customer_id": "0c8677fc-0445-4e19-83a9-fd538f6b5dcd",
+    "full_name": "Susanne Weber",
+    "email": "rene77@example.net",
+    "phone": "+33 (0)3 26 72 81 91",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-04T07:25:00.526692"
+  },
+  {
+    "customer_id": "bcdbe578-f8f7-4118-aee7-6a87fa2acdab",
+    "full_name": "Rémy Guyot",
+    "email": "dupuycapucine@example.org",
+    "phone": "+33 (0)5 46 16 35 65",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-15T09:15:03.628053"
+  },
+  {
+    "customer_id": "6415abbd-5e55-4ec9-9ba4-b000f2b85e94",
+    "full_name": "Astrid Benoit",
+    "email": "brigittelacroix@example.net",
+    "phone": "02 47 26 18 24",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-20T02:26:40.583263"
+  },
+  {
+    "customer_id": "f1abc934-b9b1-49fa-a145-d46e60e37884",
+    "full_name": "Nathalie-Élise Briand",
+    "email": "guilletnath@example.net",
+    "phone": "+33 (0)3 21 98 87 42",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-04T20:10:10.514421"
+  },
+  {
+    "customer_id": "089b3bf5-a1a5-4885-bb3f-b3958069930e",
+    "full_name": "Nathalie Blin-Moulin",
+    "email": "utexier@example.com",
+    "phone": "+33 (0)8 01 04 33 92",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-25T09:10:50.331596"
+  },
+  {
+    "customer_id": "96f5f1cb-3d51-4542-ba2a-6e32117127a6",
+    "full_name": "Benjamin-Christophe Texier",
+    "email": "adrien20@example.net",
+    "phone": "01 44 54 49 75",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-17T14:51:40.237305"
+  },
+  {
+    "customer_id": "8728d0d1-1aec-448c-8ba8-809c9a281ee9",
+    "full_name": "Thibaut Lenoir du François",
+    "email": "bourgeoisjoseph@example.org",
+    "phone": "06 22 15 45 86",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-12T07:26:35.217397"
+  },
+  {
+    "customer_id": "ddcfd2df-2628-4e0b-9b1b-a91bb6bfaffd",
+    "full_name": "Jean-Guillaume Durand",
+    "email": "mahethierry@example.com",
+    "phone": "0673852008",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-30T16:36:34.213925"
+  },
+  {
+    "customer_id": "a7620099-4e9c-4216-b308-312cc6d5e9b4",
+    "full_name": "Gérard Roux",
+    "email": "ncarpentier@example.org",
+    "phone": "0579187094",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-19T01:54:48.747681"
+  },
+  {
+    "customer_id": "65f44ef8-e291-4284-8c2b-52de317fff56",
+    "full_name": "Geneviève Martel",
+    "email": "astrid45@example.org",
+    "phone": "+33 (0)6 37 04 71 05",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-03T01:52:43.610971"
+  },
+  {
+    "customer_id": "1ddf4a54-bf57-4212-a4f6-c016fb8783ba",
+    "full_name": "Constance Henry",
+    "email": "dupontluce@example.com",
+    "phone": "+33 (0)2 48 46 92 03",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-12T02:57:05.306965"
+  },
+  {
+    "customer_id": "ac5e7feb-98c5-4fd3-ad02-a07d79924407",
+    "full_name": "Célina Fleury-Grenier",
+    "email": "madeleineberger@example.com",
+    "phone": "+33 (0)1 81 56 00 78",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-11T02:06:31.921665"
+  },
+  {
+    "customer_id": "2d2e0257-a0ec-4561-ad5b-70e39088a1f1",
+    "full_name": "Paul Andre",
+    "email": "victorpasquier@example.net",
+    "phone": "+33 (0)5 08 89 03 46",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-25T00:11:01.553039"
+  },
+  {
+    "customer_id": "476cf809-3e1e-473d-8737-3f7369c28e01",
+    "full_name": "Lucy Blanchet",
+    "email": "odettelemoine@example.com",
+    "phone": "0139159579",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-01T03:06:04.533384"
+  },
+  {
+    "customer_id": "f2a06222-e984-44e4-8593-fe631ba81537",
+    "full_name": "Augustin-Éric Lévêque",
+    "email": "dbonneau@example.org",
+    "phone": "0457814185",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-12T20:11:54.030267"
+  },
+  {
+    "customer_id": "fc3fd487-244c-46e8-bf8a-d9d9d7c0fa2f",
+    "full_name": "Nicolas de Becker",
+    "email": "claudineboulanger@example.org",
+    "phone": "04 91 22 86 96",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-05T05:11:58.564402"
+  },
+  {
+    "customer_id": "486a111e-f379-4361-a3bc-c64ce27ff82c",
+    "full_name": "Nathalie Hamel",
+    "email": "margotleblanc@example.net",
+    "phone": "0632897694",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-02T22:12:45.147747"
+  },
+  {
+    "customer_id": "d7dc6f20-5724-4a7f-863b-b3505621ced9",
+    "full_name": "Amélie-Caroline Lévêque",
+    "email": "baroncharlotte@example.org",
+    "phone": "0634899163",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-20T05:44:46.899020"
+  },
+  {
+    "customer_id": "c576067b-09c0-4dd8-820f-44edbe04c8b4",
+    "full_name": "André Le Goff",
+    "email": "rollandalexandre@example.com",
+    "phone": "04 49 77 39 09",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-04T20:35:17.225916"
+  },
+  {
+    "customer_id": "e4df8508-2e51-4d89-80d1-bea506906a27",
+    "full_name": "Bertrand-Christophe Brun",
+    "email": "zperrot@example.org",
+    "phone": "+33 1 43 69 44 73",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-04T08:43:23.632018"
+  },
+  {
+    "customer_id": "43706fb1-f59c-4eb5-9a62-18d79233eea9",
+    "full_name": "Margot-Célina Leclerc",
+    "email": "tessiersuzanne@example.net",
+    "phone": "+33 1 78 69 11 69",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-17T16:03:07.404516"
+  },
+  {
+    "customer_id": "bc0644eb-563d-4084-8308-b47f47c195b4",
+    "full_name": "Pierre Hernandez",
+    "email": "carpentierfrederic@example.com",
+    "phone": "+33 (0)5 96 54 59 93",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-25T03:15:57.010041"
+  },
+  {
+    "customer_id": "a0bbc078-baf0-4618-9507-d74f445ba78b",
+    "full_name": "Henri Perrier",
+    "email": "frederic62@example.com",
+    "phone": "+33 4 83 09 88 78",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-03T23:57:26.635567"
+  },
+  {
+    "customer_id": "a6aaf61e-19cd-43cb-bb9b-61359f8c41a3",
+    "full_name": "Luc Germain",
+    "email": "alphonse08@example.net",
+    "phone": "+33 (0)3 70 50 40 50",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-06T10:37:43.036374"
+  },
+  {
+    "customer_id": "07af24f3-3bd6-4623-96b0-f3c594f5a371",
+    "full_name": "Antoine Ferreira de Brunel",
+    "email": "michaudsylvie@example.net",
+    "phone": "05 17 26 54 88",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-19T20:48:18.648086"
+  },
+  {
+    "customer_id": "f230a500-0b2a-4ad6-ab1b-af8ccab2fcf2",
+    "full_name": "Franck Lecoq",
+    "email": "alicejoseph@example.org",
+    "phone": "+33 (0)2 90 17 40 67",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-27T15:47:27.968427"
+  },
+  {
+    "customer_id": "06dc5f65-3be0-4d1b-a264-36d09bb0848e",
+    "full_name": "Paulette Deschamps",
+    "email": "sanchezphilippine@example.net",
+    "phone": "03 10 35 75 56",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-11T04:34:04.657430"
+  },
+  {
+    "customer_id": "9c40ebbf-503f-498a-acf6-427aa4c61cdc",
+    "full_name": "Olivie du Dupré",
+    "email": "aimeemartineau@example.net",
+    "phone": "05 34 52 84 44",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-08T01:29:19.279899"
+  },
+  {
+    "customer_id": "8463c2e0-1491-47f0-b9c1-810192213479",
+    "full_name": "Paulette-Chantal Moreau",
+    "email": "ycoste@example.org",
+    "phone": "+33 1 47 69 63 58",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-01T10:45:42.919530"
+  },
+  {
+    "customer_id": "74cb5397-f953-4c2c-95d7-25f7dcf76f69",
+    "full_name": "Agnès Letellier",
+    "email": "simoneberthelot@example.com",
+    "phone": "0497380059",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-19T12:53:00.746836"
+  },
+  {
+    "customer_id": "3d409829-d388-436d-8d6d-46f2a5ec5faf",
+    "full_name": "Martin Bodin",
+    "email": "gabriel81@example.com",
+    "phone": "06 85 96 66 55",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-09T09:01:14.352587"
+  },
+  {
+    "customer_id": "12b905b8-76c3-4de8-99fb-8e546670dbf3",
+    "full_name": "Grégoire du Neveu",
+    "email": "emmanuellefleury@example.com",
+    "phone": "+33 (0)3 73 18 63 90",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-26T04:28:27.673201"
+  },
+  {
+    "customer_id": "b48d738d-ed7a-4b66-bc47-32a5f7857bc6",
+    "full_name": "Aimé-Philippe Marty",
+    "email": "blinarthur@example.net",
+    "phone": "05 17 81 84 74",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-05T08:07:43.059509"
+  },
+  {
+    "customer_id": "7888f0d7-5687-4757-be9a-972769817082",
+    "full_name": "Rémy Leblanc de la Marion",
+    "email": "ppires@example.net",
+    "phone": "05 82 13 23 18",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-24T06:25:06.741157"
+  },
+  {
+    "customer_id": "ffb418d4-ada5-4a89-af11-420030cb1e40",
+    "full_name": "Constance Fournier",
+    "email": "jeannemarion@example.net",
+    "phone": "0238360074",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-18T03:00:54.118527"
+  },
+  {
+    "customer_id": "23d43995-79ba-4046-8fe8-c3bb9b96f1a3",
+    "full_name": "Grégoire Boulay de la Hoarau",
+    "email": "anastasiemunoz@example.org",
+    "phone": "+33 (0)5 35 02 10 48",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-16T19:06:39.829616"
+  },
+  {
+    "customer_id": "5e11360c-d236-4c00-b5d5-9d7beab47c9c",
+    "full_name": "Susanne Regnier",
+    "email": "wblot@example.net",
+    "phone": "+33 1 60 86 72 03",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-30T03:12:35.726701"
+  },
+  {
+    "customer_id": "baee123e-1561-4dd6-828f-46f96cc3417a",
+    "full_name": "Gérard Wagner",
+    "email": "mathildecharles@example.com",
+    "phone": "+33 3 80 29 30 98",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-28T13:49:23.539107"
+  },
+  {
+    "customer_id": "e81a983c-5456-4afa-bc35-17f0095aea88",
+    "full_name": "Richard Roy",
+    "email": "turpinroland@example.com",
+    "phone": "+33 5 65 09 28 77",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-07T08:56:33.050743"
+  },
+  {
+    "customer_id": "0b1f8e0c-5ed5-4fbd-8c6a-856ec359a97f",
+    "full_name": "Augustin Blin",
+    "email": "noemi88@example.net",
+    "phone": "+33 (0)1 49 61 84 35",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-19T15:31:12.279917"
+  },
+  {
+    "customer_id": "0644ab90-c24f-40ac-b570-1497f360e745",
+    "full_name": "Laurence Brunet-Cohen",
+    "email": "schneiderjacqueline@example.com",
+    "phone": "+33 5 57 92 87 23",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-27T03:11:34.777248"
+  },
+  {
+    "customer_id": "7c82d99d-2938-4c68-884f-06a9e91e5237",
+    "full_name": "Yves Vallet",
+    "email": "tlebon@example.org",
+    "phone": "03 81 12 22 77",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-03T00:21:24.108301"
+  },
+  {
+    "customer_id": "7633b19d-8878-4ffc-a51f-ae9caeb60a97",
+    "full_name": "Émilie Guichard",
+    "email": "grondincatherine@example.net",
+    "phone": "0238258138",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-19T01:44:13.243043"
+  },
+  {
+    "customer_id": "e32e6818-612d-40c6-9b53-ef8b4a060413",
+    "full_name": "Célina Rodriguez",
+    "email": "alexandrialemaire@example.net",
+    "phone": "0344681730",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-26T15:21:16.874939"
+  },
+  {
+    "customer_id": "43db0cbd-36aa-4565-aacc-fe9fc59c75e5",
+    "full_name": "Martin Gillet",
+    "email": "tbegue@example.org",
+    "phone": "+33 1 77 14 13 74",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-04T21:45:31.869417"
+  },
+  {
+    "customer_id": "dbed953c-f5eb-4da4-9015-e839a67b1606",
+    "full_name": "Jean Cohen",
+    "email": "torresalex@example.org",
+    "phone": "+33 (0)5 57 35 19 52",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-23T03:04:21.256599"
+  },
+  {
+    "customer_id": "ec6aeaa9-466a-4fe1-9a2c-07ad33be05da",
+    "full_name": "Gilbert Lagarde de la Pasquier",
+    "email": "alexandria40@example.org",
+    "phone": "+33 (0)6 95 13 48 76",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-06T09:25:45.607466"
+  },
+  {
+    "customer_id": "4e53aa71-f850-456f-913d-ee757a856282",
+    "full_name": "Philippine Delattre",
+    "email": "uboulay@example.org",
+    "phone": "+33 (0)4 84 10 34 31",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-24T06:03:06.992475"
+  },
+  {
+    "customer_id": "1c2fdaf2-8b34-4e82-b77b-83f9e66ffe99",
+    "full_name": "Véronique Wagner",
+    "email": "iverdier@example.org",
+    "phone": "0344170251",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-02T08:54:56.296522"
+  },
+  {
+    "customer_id": "e0b6c0ee-6c93-45e5-839e-76578c41f67f",
+    "full_name": "Camille Lecomte",
+    "email": "virginie44@example.net",
+    "phone": "+33 (0)5 33 32 16 73",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-22T13:55:26.631096"
+  },
+  {
+    "customer_id": "8ebfbed2-62c4-4eb0-9bb1-b6c02c786be8",
+    "full_name": "Patricia Seguin",
+    "email": "cecile72@example.com",
+    "phone": "+33 (0)4 68 35 28 42",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-02T05:31:48.394843"
+  },
+  {
+    "customer_id": "f2b28e31-81ae-4ecc-91c1-5475c1aa69dd",
+    "full_name": "Laure Normand-Dupuis",
+    "email": "pauletterousset@example.com",
+    "phone": "+33 (0)5 86 09 05 00",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-09T07:28:41.494843"
+  },
+  {
+    "customer_id": "d5f8f5bd-30ad-458c-9b9b-4cb66c059f29",
+    "full_name": "Marthe Poulain",
+    "email": "da-costarenee@example.org",
+    "phone": "+33 4 73 20 73 48",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-28T09:16:07.176580"
+  },
+  {
+    "customer_id": "5737beee-c03e-4fcf-b07d-55ca65ae7d64",
+    "full_name": "Emmanuel Nicolas",
+    "email": "luciemaury@example.org",
+    "phone": "0443933197",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-21T08:30:34.634276"
+  },
+  {
+    "customer_id": "9f36c10f-51e6-404b-847c-43b137859a8d",
+    "full_name": "Michèle Marchand",
+    "email": "veroniquelopes@example.net",
+    "phone": "+33 4 50 84 14 14",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-01T09:18:03.274875"
+  },
+  {
+    "customer_id": "92fd7326-c737-47c8-ad58-f85fc25d9af9",
+    "full_name": "Jacqueline Mahe",
+    "email": "nathalieferrand@example.org",
+    "phone": "0796731783",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-05T13:21:26.868664"
+  },
+  {
+    "customer_id": "b3fe2f9f-fe9b-4014-862e-80ebaf2a1425",
+    "full_name": "Richard Dos Santos",
+    "email": "perrotgilbert@example.org",
+    "phone": "+33 (0)1 53 24 47 13",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-23T00:41:06.104661"
+  },
+  {
+    "customer_id": "aac1d3a0-7316-44b3-9418-a86eb46152f6",
+    "full_name": "Marc Dubois",
+    "email": "bertrand17@example.org",
+    "phone": "03 25 26 56 92",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-23T10:17:14.262355"
+  },
+  {
+    "customer_id": "bd04505f-8dea-430e-9934-f94bfad1733e",
+    "full_name": "Éric Maillot",
+    "email": "antoinette32@example.com",
+    "phone": "03 70 46 94 81",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-27T03:43:48.404273"
+  },
+  {
+    "customer_id": "7aa939ba-1b0d-4e5a-bf38-8f05b9071c70",
+    "full_name": "Jacqueline Poirier",
+    "email": "petitmartin@example.org",
+    "phone": "0420745437",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-03T14:42:38.920223"
+  },
+  {
+    "customer_id": "2a82721f-31ba-49a6-a5f8-cd21989bdf92",
+    "full_name": "Jérôme Mercier-Leleu",
+    "email": "perezmadeleine@example.org",
+    "phone": "+33 (0)4 63 32 35 73",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-24T13:01:35.706709"
+  },
+  {
+    "customer_id": "f4217ccb-07ab-4893-9c29-a5aca8f8f9ae",
+    "full_name": "Nicole Maréchal",
+    "email": "richard87@example.com",
+    "phone": "0482099012",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-22T01:01:29.143054"
+  },
+  {
+    "customer_id": "15a2d5f8-65b5-43da-b835-30b9807746db",
+    "full_name": "Jacqueline Carre",
+    "email": "monniercolette@example.com",
+    "phone": "03 44 27 54 53",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-24T18:44:42.960013"
+  },
+  {
+    "customer_id": "90410242-b3e2-42ce-9f96-0a071460f846",
+    "full_name": "William Parent de la Becker",
+    "email": "anoukrossi@example.com",
+    "phone": "+33 (0)3 64 83 35 27",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-15T04:18:22.208640"
+  },
+  {
+    "customer_id": "601f723d-7fc9-49b1-adb7-05f0ffc90f2b",
+    "full_name": "Valentine Perrier",
+    "email": "maryse91@example.net",
+    "phone": "+33 (0)2 29 12 65 83",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-26T22:01:26.373746"
+  },
+  {
+    "customer_id": "9326e869-62b3-421e-87f5-a89b6716526d",
+    "full_name": "Michel Da Silva",
+    "email": "guilletmargaud@example.org",
+    "phone": "03 69 35 19 08",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-15T09:29:46.670147"
+  },
+  {
+    "customer_id": "395a7d69-66e8-4df7-938c-fa396592da50",
+    "full_name": "Isaac Martinez",
+    "email": "aurore22@example.com",
+    "phone": "06 26 22 72 00",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-02T13:25:19.302798"
+  },
+  {
+    "customer_id": "54945cf2-5bb3-43ce-b500-8b9eb3baf1bf",
+    "full_name": "Céline Goncalves",
+    "email": "omillet@example.org",
+    "phone": "0277800037",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-05T13:13:21.891950"
+  },
+  {
+    "customer_id": "c4f8ffd2-b625-4f09-8028-a65669977cf0",
+    "full_name": "Martine Muller",
+    "email": "aurore40@example.net",
+    "phone": "0156131686",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-05T00:39:24.752213"
+  },
+  {
+    "customer_id": "45012489-332d-4885-8f2a-4c5feb83be81",
+    "full_name": "Paul Chrétien",
+    "email": "catherinerenard@example.org",
+    "phone": "+33 6 01 88 02 67",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-03T21:47:47.737766"
+  },
+  {
+    "customer_id": "daf030c0-0132-4c2c-809a-c751f0c2f85a",
+    "full_name": "Alfred Bailly",
+    "email": "laurentpenelope@example.net",
+    "phone": "+33 (0)1 73 42 86 28",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-13T13:39:13.957561"
+  },
+  {
+    "customer_id": "27a311cb-4e78-41ae-8b61-a6356a15ae71",
+    "full_name": "Christine Blondel",
+    "email": "ebaudry@example.com",
+    "phone": "04 78 57 45 67",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-19T14:06:48.260481"
+  },
+  {
+    "customer_id": "407c6395-d00f-4468-a8c6-c27d4d42347f",
+    "full_name": "Auguste-Gilbert Foucher",
+    "email": "oceanepereira@example.org",
+    "phone": "0218629180",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-23T12:36:55.146889"
+  },
+  {
+    "customer_id": "99464daa-7ba3-43a1-8dc5-8eb32a039b25",
+    "full_name": "David Alexandre",
+    "email": "qcarlier@example.com",
+    "phone": "+33 4 30 63 59 76",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-14T15:08:11.048577"
+  },
+  {
+    "customer_id": "0d277c0d-bf9f-4ee4-8108-3e996ddaa6b2",
+    "full_name": "Nathalie Hamon",
+    "email": "bonnetpatricia@example.net",
+    "phone": "+33 4 89 71 72 45",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-08T15:25:14.160896"
+  },
+  {
+    "customer_id": "72d060b6-ba20-46ef-b5e9-82eeab677f3d",
+    "full_name": "Agnès David",
+    "email": "pelletierlaure@example.net",
+    "phone": "02 47 89 53 75",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-08T01:08:26.132487"
+  },
+  {
+    "customer_id": "ece1f1dd-bf2c-40d4-8035-aab966e78b99",
+    "full_name": "Aurélie Samson",
+    "email": "davidmaillard@example.net",
+    "phone": "+33 (0)7 34 88 33 17",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-30T00:41:25.904192"
+  },
+  {
+    "customer_id": "5971d7c6-e396-4a9d-ab1f-891e44208ec9",
+    "full_name": "Diane Leconte du Lebon",
+    "email": "susanne96@example.com",
+    "phone": "+33 (0)4 34 17 61 29",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-23T08:42:45.334811"
+  },
+  {
+    "customer_id": "487ac813-e1ad-4071-8ddf-34330723735c",
+    "full_name": "Sabine Perrin-De Sousa",
+    "email": "margotadam@example.net",
+    "phone": "01 83 88 86 08",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-19T06:38:15.357653"
+  },
+  {
+    "customer_id": "6283c8c9-dc65-439a-bd01-52728433ba90",
+    "full_name": "Manon Poirier",
+    "email": "margaud44@example.org",
+    "phone": "+33 3 26 08 54 73",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-15T06:24:51.653140"
+  },
+  {
+    "customer_id": "1080a8a5-6c16-41e8-9596-7bea4324beda",
+    "full_name": "Virginie Rocher",
+    "email": "claudinepayet@example.org",
+    "phone": "+33 (0)4 58 81 68 69",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-11T13:11:38.576119"
+  },
+  {
+    "customer_id": "4183d1b8-334d-44ca-bdf5-a4d7608fcee1",
+    "full_name": "Jeanne Munoz",
+    "email": "edith08@example.org",
+    "phone": "+33 4 65 50 47 19",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-08T15:16:48.978050"
+  },
+  {
+    "customer_id": "da2c5061-077a-470c-9f4a-a58c128f6707",
+    "full_name": "Roger Simon",
+    "email": "denise89@example.net",
+    "phone": "+33 5 47 14 56 69",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-19T09:57:44.322273"
+  },
+  {
+    "customer_id": "c6bca460-9a2b-4801-9940-3d35418b7038",
+    "full_name": "Philippe Marie-Vidal",
+    "email": "colasmargot@example.com",
+    "phone": "+33 (0)2 54 49 43 56",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-23T18:28:48.078404"
+  },
+  {
+    "customer_id": "037aa1ce-5e58-40bf-8318-58764d1a93ba",
+    "full_name": "Adrien Le Michel",
+    "email": "alainraymond@example.com",
+    "phone": "0558045620",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-01T09:24:04.963186"
+  },
+  {
+    "customer_id": "decaf2b4-a59c-4f28-9f5a-91a955b40098",
+    "full_name": "Susan-Lucy Marin",
+    "email": "rbertin@example.org",
+    "phone": "+33 (0)2 21 07 92 39",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-13T19:05:25.987867"
+  },
+  {
+    "customer_id": "401560ed-733e-4763-9fa6-54c2a8a38609",
+    "full_name": "Grégoire Gonzalez-Petit",
+    "email": "gboulay@example.org",
+    "phone": "+33 7 99 84 94 45",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-30T16:56:26.579563"
+  },
+  {
+    "customer_id": "2291b1af-c38c-4741-993a-27388f96fd96",
+    "full_name": "Élodie Charrier",
+    "email": "kriou@example.org",
+    "phone": "0375055130",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-10T01:09:01.181810"
+  },
+  {
+    "customer_id": "4076dc59-bd69-44ca-9987-8d0dce1871e0",
+    "full_name": "Gilles Philippe",
+    "email": "bmaurice@example.org",
+    "phone": "+33 (0)4 93 27 72 21",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-24T16:07:45.846802"
+  },
+  {
+    "customer_id": "c916cef9-b716-4c52-bc89-0646e0094c37",
+    "full_name": "Lorraine Meyer",
+    "email": "hcourtois@example.net",
+    "phone": "+33 2 46 11 14 78",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-01T07:39:10.258884"
+  },
+  {
+    "customer_id": "0b646722-e363-40a1-8111-f54f298956bd",
+    "full_name": "Constance-Henriette Rousset",
+    "email": "wlebon@example.org",
+    "phone": "0458715868",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-18T06:54:46.991778"
+  },
+  {
+    "customer_id": "6f882352-7b52-4406-9727-1f28d36a77aa",
+    "full_name": "David-Georges Morvan",
+    "email": "anoukmarion@example.org",
+    "phone": "0764270148",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-09T14:01:09.357778"
+  },
+  {
+    "customer_id": "7af0b21f-3c8c-4299-af58-85a93d6a6b74",
+    "full_name": "Odette-Christelle Le Roux",
+    "email": "alexandrebernard@example.com",
+    "phone": "+33 4 85 51 43 05",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-08T17:37:24.708846"
+  },
+  {
+    "customer_id": "01fbe1ca-0060-43eb-942b-669e87f2ca3e",
+    "full_name": "Vincent Reynaud",
+    "email": "xlopes@example.com",
+    "phone": "01 45 21 51 66",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-17T01:13:52.482326"
+  },
+  {
+    "customer_id": "262ba967-625a-45a9-abb2-c874f6f89371",
+    "full_name": "Margaret Grondin du Pereira",
+    "email": "emiliechauvin@example.com",
+    "phone": "+33 1 77 40 54 19",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-27T23:20:30.225554"
+  },
+  {
+    "customer_id": "8d7b7a2e-a689-48c7-9146-e338cf366c51",
+    "full_name": "Benoît de la Potier",
+    "email": "guillaume10@example.com",
+    "phone": "05 17 98 74 03",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-28T19:50:10.893486"
+  },
+  {
+    "customer_id": "f51c88b3-14ca-4a0e-b9fa-962c4cf54505",
+    "full_name": "Martin Bruneau",
+    "email": "jeanninesimon@example.net",
+    "phone": "+33 (0)4 74 13 18 75",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-12T10:22:42.559919"
+  },
+  {
+    "customer_id": "8b9b3232-8b89-4f0e-ae25-996373cc0209",
+    "full_name": "Benoît Roy",
+    "email": "susanpinto@example.net",
+    "phone": "+33 (0)2 76 53 59 44",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-04T18:17:16.622285"
+  },
+  {
+    "customer_id": "1643fd30-d394-49e7-be66-3c9551f3a986",
+    "full_name": "Rémy Delmas",
+    "email": "allaincharlotte@example.net",
+    "phone": "+33 (0)7 37 54 60 41",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-21T14:28:42.110718"
+  },
+  {
+    "customer_id": "863f9a99-330e-408c-80b5-53c8c2f55074",
+    "full_name": "Clémence Dumas",
+    "email": "claudine54@example.net",
+    "phone": "0629132640",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T02:58:40.156872"
+  },
+  {
+    "customer_id": "77612789-659c-4abc-bc35-096c9d22a00c",
+    "full_name": "Éléonore Morin",
+    "email": "augustegilles@example.net",
+    "phone": "0475209447",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-04T01:02:48.657606"
+  },
+  {
+    "customer_id": "e1c7b38f-9107-4cf2-bb7c-52ea1703872d",
+    "full_name": "Chantal Muller",
+    "email": "celinapetitjean@example.org",
+    "phone": "04 50 93 80 34",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-25T22:45:16.498052"
+  },
+  {
+    "customer_id": "cf002a11-4223-4ef5-b1ea-306e9c6010b8",
+    "full_name": "Chantal Chauveau de la Pottier",
+    "email": "bbarbier@example.org",
+    "phone": "+33 3 28 93 53 38",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-13T18:01:53.480123"
+  },
+  {
+    "customer_id": "7a3774c2-37cf-4ba0-ab14-f59e539bc099",
+    "full_name": "Nathalie Mary",
+    "email": "parentandre@example.net",
+    "phone": "+33 (0)2 52 04 35 34",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-24T06:17:21.371602"
+  },
+  {
+    "customer_id": "66c73778-2364-4c0e-a81d-c56df3f1b760",
+    "full_name": "Clémence Salmon-Gonzalez",
+    "email": "thardy@example.net",
+    "phone": "+33 (0)3 51 54 07 86",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-25T08:50:45.880137"
+  },
+  {
+    "customer_id": "a2692b88-e29a-456e-b430-24bc646d9620",
+    "full_name": "Christiane Léger",
+    "email": "matthieubernard@example.net",
+    "phone": "+33 3 85 65 63 97",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-05T02:08:35.306935"
+  },
+  {
+    "customer_id": "06d07f5d-d2e6-40c8-b366-88ef8b0f61f4",
+    "full_name": "Alphonse Torres",
+    "email": "rregnier@example.org",
+    "phone": "+33 2 99 91 92 47",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-08T14:58:37.683026"
+  },
+  {
+    "customer_id": "399f0521-5761-4bb3-ac91-d91ce5832c50",
+    "full_name": "Dominique Bodin",
+    "email": "olivier00@example.net",
+    "phone": "02 45 16 47 58",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-15T17:14:25.696723"
+  },
+  {
+    "customer_id": "3a4d422f-61b7-4b6c-a8db-f3a18b556aab",
+    "full_name": "Marc de la Guyot",
+    "email": "hthibault@example.com",
+    "phone": "06 88 86 72 81",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-14T23:18:39.904324"
+  },
+  {
+    "customer_id": "f7bc7445-88ad-4bb7-b2bc-779a03ff94ac",
+    "full_name": "Noémi Roche",
+    "email": "charlottemarty@example.org",
+    "phone": "+33 (0)2 79 28 05 20",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-03T13:36:44.073437"
+  },
+  {
+    "customer_id": "9d2d04d4-7b6e-4940-ad9a-0e2259d105c7",
+    "full_name": "Guy Nicolas",
+    "email": "ribeirofranck@example.net",
+    "phone": "+33 (0)5 81 80 30 68",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-31T09:37:28.699929"
+  },
+  {
+    "customer_id": "783e8d25-29bc-46b8-b440-9163a43eb0f2",
+    "full_name": "Simone Evrard",
+    "email": "guyotnath@example.com",
+    "phone": "+33 4 80 97 91 04",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-31T04:52:16.481783"
+  },
+  {
+    "customer_id": "390eec04-82e9-417f-9812-47e999984740",
+    "full_name": "Marianne Leroux",
+    "email": "uriviere@example.net",
+    "phone": "02 18 48 69 02",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-25T19:51:23.351971"
+  },
+  {
+    "customer_id": "a8fdd518-7973-4efa-9941-fa47583baad8",
+    "full_name": "Robert De Sousa",
+    "email": "hoareaujean@example.net",
+    "phone": "06 44 09 44 82",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-21T22:36:19.701540"
+  },
+  {
+    "customer_id": "52aba3a2-c640-45e2-acb0-6ee6be773b3c",
+    "full_name": "Daniel de Mary",
+    "email": "williamlenoir@example.org",
+    "phone": "06 28 16 53 72",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-05T05:42:39.994538"
+  },
+  {
+    "customer_id": "53b650b0-d20a-470d-9b83-b56687f9661a",
+    "full_name": "Valérie Collin-Ramos",
+    "email": "xgrondin@example.net",
+    "phone": "0499058480",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-18T08:41:46.776058"
+  },
+  {
+    "customer_id": "caf5c685-2e8b-4644-b2b9-9f42dac3a3f4",
+    "full_name": "Édith Hebert",
+    "email": "michelemarie@example.com",
+    "phone": "+33 4 93 17 41 01",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-09T14:27:49.788562"
+  },
+  {
+    "customer_id": "387e1a06-9dd8-499c-8c6e-43ebb5e7dea8",
+    "full_name": "Sabine de la Deschamps",
+    "email": "qgros@example.org",
+    "phone": "0698005564",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-21T00:11:24.704035"
+  },
+  {
+    "customer_id": "9bc1c16f-666b-41aa-9e22-0ee4e2438c91",
+    "full_name": "Paul Giraud",
+    "email": "lefevrezacharie@example.com",
+    "phone": "+33 (0)6 29 65 84 73",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-22T12:02:45.235711"
+  },
+  {
+    "customer_id": "343c04fb-02ad-4a23-86bb-479596d70a00",
+    "full_name": "Denis Briand",
+    "email": "lemaitrenathalie@example.org",
+    "phone": "02 31 53 82 13",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-06T07:15:17.904347"
+  },
+  {
+    "customer_id": "7617855e-e080-45b4-b93f-f04f56e22ef7",
+    "full_name": "Gérard Colin",
+    "email": "therese45@example.com",
+    "phone": "0427650861",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-25T11:19:33.410586"
+  },
+  {
+    "customer_id": "09d26c70-22fc-4b66-bc02-400ea7ba53c4",
+    "full_name": "Simone Antoine",
+    "email": "martinsmaurice@example.org",
+    "phone": "03 24 30 80 46",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-23T20:09:12.984754"
+  },
+  {
+    "customer_id": "a8e52447-a972-456a-942e-57d3917ad71c",
+    "full_name": "Marcelle de Bertin",
+    "email": "hernandezjoseph@example.com",
+    "phone": "0218358921",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-20T14:19:36.021452"
+  },
+  {
+    "customer_id": "8fe0fe05-6447-42eb-950c-ac8d15df242c",
+    "full_name": "Alain Renard",
+    "email": "mpichon@example.com",
+    "phone": "01 42 24 37 78",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-20T11:19:08.309204"
+  },
+  {
+    "customer_id": "18c3f192-7eee-40ca-ae9d-b3b4e08cf523",
+    "full_name": "Emmanuel-Roger Sanchez",
+    "email": "mblanc@example.net",
+    "phone": "+33 (0)5 08 06 55 13",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-20T06:09:39.444207"
+  },
+  {
+    "customer_id": "2c0be77d-5ac3-422c-b0d5-ca7187b6ef23",
+    "full_name": "Alexandria Bousquet",
+    "email": "acordier@example.net",
+    "phone": "+33 (0)3 39 40 50 73",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-27T03:35:27.122487"
+  },
+  {
+    "customer_id": "9af4ac03-d897-4c44-a206-c92713d285d4",
+    "full_name": "Alexandre Leblanc",
+    "email": "auguste41@example.net",
+    "phone": "06 40 00 89 80",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-23T20:49:55.803808"
+  },
+  {
+    "customer_id": "2728cc14-2e9e-43c7-93a8-e7702cb792b7",
+    "full_name": "Alexandre Fouquet",
+    "email": "henrietteparis@example.org",
+    "phone": "+33 4 80 17 32 74",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-29T11:48:36.452906"
+  },
+  {
+    "customer_id": "f329baaf-e121-4adb-a49f-75f05574a8db",
+    "full_name": "François Maillot",
+    "email": "ode-sousa@example.net",
+    "phone": "+33 (0)4 74 22 59 01",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-29T00:21:57.301260"
+  },
+  {
+    "customer_id": "00d9fc62-c891-4642-a7e8-90aa18ba84fa",
+    "full_name": "Élodie Aubry",
+    "email": "marchalalix@example.org",
+    "phone": "02 40 48 20 81",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-16T14:52:17.575723"
+  },
+  {
+    "customer_id": "d23fd2ae-f078-4931-9769-8518bf34bb0a",
+    "full_name": "Laurent Blondel",
+    "email": "blancchristiane@example.com",
+    "phone": "+33 3 23 92 52 69",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-01T16:58:48.531486"
+  },
+  {
+    "customer_id": "c59701e6-2fb0-4c1d-9b9c-46f599bf1b67",
+    "full_name": "Marthe Dumont",
+    "email": "denisepierre@example.com",
+    "phone": "05 32 68 26 46",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-17T21:53:54.582490"
+  },
+  {
+    "customer_id": "77e101a8-14c3-4378-8a8b-2607f2b1849a",
+    "full_name": "Robert du Fournier",
+    "email": "frederic48@example.com",
+    "phone": "0253623808",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-22T01:25:40.113291"
+  },
+  {
+    "customer_id": "18dc424e-2d17-420d-9b2b-5aa6bf573fa3",
+    "full_name": "Éléonore de Reynaud",
+    "email": "alexandria55@example.org",
+    "phone": "+33 1 47 10 44 88",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-13T11:13:49.275027"
+  },
+  {
+    "customer_id": "e864f8ea-783f-4e4c-8c27-91bde4989adf",
+    "full_name": "Roger de la Camus",
+    "email": "gregoirecamus@example.net",
+    "phone": "0411019583",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-13T21:09:38.029166"
+  },
+  {
+    "customer_id": "8d370cb8-2d18-4b3b-bc9e-ea868609bd68",
+    "full_name": "Madeleine Blanchard",
+    "email": "francoise89@example.net",
+    "phone": "+33 (0)5 86 32 88 92",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-17T16:38:30.191816"
+  },
+  {
+    "customer_id": "bed1a732-d5ac-4233-b4e7-6ca6444b7c70",
+    "full_name": "Valentine Traore de Collin",
+    "email": "wcharrier@example.com",
+    "phone": "07 65 83 04 37",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-31T23:40:20.852515"
+  },
+  {
+    "customer_id": "28075089-1f3a-4b08-aa6a-dc7277da9e15",
+    "full_name": "Henriette Pereira de la Bazin",
+    "email": "claudejean@example.com",
+    "phone": "+33 4 49 26 63 59",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-09T05:44:06.230633"
+  },
+  {
+    "customer_id": "0446ff0d-841c-478c-b57e-60e42e1d938f",
+    "full_name": "Matthieu Chevallier de la Cohen",
+    "email": "levymichele@example.com",
+    "phone": "+33 (0)4 83 19 41 92",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-10T03:23:32.718743"
+  },
+  {
+    "customer_id": "5ad0701e-d413-4462-873e-d130fea318b3",
+    "full_name": "Henri Vasseur",
+    "email": "dlanglois@example.com",
+    "phone": "08 07 23 68 27",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-01T20:28:10.452121"
+  },
+  {
+    "customer_id": "ad010518-0733-4fa5-8210-9e1a469481f2",
+    "full_name": "Jérôme Foucher du Besnard",
+    "email": "gabrielleevrard@example.net",
+    "phone": "+33 (0)3 24 80 52 40",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-11T16:29:28.532020"
+  },
+  {
+    "customer_id": "8427d0f2-3d66-44eb-90e3-6d9e13a2880e",
+    "full_name": "Lucas Moreno",
+    "email": "hamelgabriel@example.com",
+    "phone": "+33 5 47 54 74 05",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-04T17:12:25.631832"
+  },
+  {
+    "customer_id": "1792cac2-d6c3-4b9f-84f3-b61dd8abb7ae",
+    "full_name": "Alexandre Guyot",
+    "email": "patriciarocher@example.com",
+    "phone": "+33 1 80 19 82 36",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-24T02:01:42.183679"
+  },
+  {
+    "customer_id": "cce386ee-e5a1-420b-ad52-1f2579704e5c",
+    "full_name": "Stéphane Roy",
+    "email": "pguillou@example.net",
+    "phone": "0495998680",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-07T09:30:29.014158"
+  },
+  {
+    "customer_id": "906561ed-d290-4db7-a7e7-bc67d3667ce3",
+    "full_name": "Eugène Jourdan",
+    "email": "roussetlucas@example.org",
+    "phone": "0320590564",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-06T03:17:25.335001"
+  },
+  {
+    "customer_id": "c1ab37dd-c639-4063-abff-5a5c89bbee0b",
+    "full_name": "Danielle Joubert",
+    "email": "ycamus@example.com",
+    "phone": "+33 (0)4 50 00 65 43",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-03T12:37:25.347947"
+  },
+  {
+    "customer_id": "501f08aa-e4ca-4d00-ab46-f4c385210909",
+    "full_name": "Simone Allard",
+    "email": "slebreton@example.com",
+    "phone": "+33 4 79 20 41 84",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-27T20:34:21.963344"
+  },
+  {
+    "customer_id": "2583306e-75fc-41d1-ae58-16e9013e77fb",
+    "full_name": "Christiane Clerc",
+    "email": "remytraore@example.net",
+    "phone": "0498350127",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-11T01:21:02.802413"
+  },
+  {
+    "customer_id": "8f27aac7-c037-4c87-8ee4-1873edef6333",
+    "full_name": "Josette Blanchard",
+    "email": "mauger@example.org",
+    "phone": "+33 1 46 56 64 14",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-26T07:33:16.809603"
+  },
+  {
+    "customer_id": "ef25f0e5-485a-448b-a608-59a1fd228988",
+    "full_name": "Agathe Michaud",
+    "email": "ulabbe@example.org",
+    "phone": "+33 (0)1 43 65 53 81",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-06T07:26:30.771642"
+  },
+  {
+    "customer_id": "77053bb5-c091-453b-9f17-bb96d67868fa",
+    "full_name": "Patrick Arnaud",
+    "email": "ericbrunel@example.com",
+    "phone": "+33 (0)2 28 46 42 25",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-05T12:30:20.467704"
+  },
+  {
+    "customer_id": "690cd184-1434-4b70-a52d-145ecf091f69",
+    "full_name": "Thérèse-Margot Louis",
+    "email": "gosselinnicole@example.com",
+    "phone": "+33 (0)3 57 25 33 25",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-24T17:46:54.830343"
+  },
+  {
+    "customer_id": "d8394977-dc12-40d6-8f49-00deb3855730",
+    "full_name": "Roger-Frédéric Charpentier",
+    "email": "jmarchal@example.org",
+    "phone": "01 88 36 30 01",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-22T05:03:08.278865"
+  },
+  {
+    "customer_id": "4162280c-ac37-4185-8d1f-45e73a6ed4ba",
+    "full_name": "Aimée Bigot-Lesage",
+    "email": "rguilbert@example.org",
+    "phone": "+33 7 74 01 03 83",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-02T19:38:00.962900"
+  },
+  {
+    "customer_id": "c2354c82-c386-4810-9e20-8a7657a40818",
+    "full_name": "Geneviève Paris",
+    "email": "ymaillot@example.org",
+    "phone": "+33 5 63 72 76 08",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-14T01:27:42.497658"
+  },
+  {
+    "customer_id": "dcf5d0d6-5797-4c83-b910-faaa02737919",
+    "full_name": "Gilbert de la Wagner",
+    "email": "raymondmarie@example.com",
+    "phone": "04 65 52 04 96",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-17T17:37:30.251306"
+  },
+  {
+    "customer_id": "b079b9ae-fe92-4da2-bbb3-c39058e38ceb",
+    "full_name": "Rémy Bonneau de la Guyon",
+    "email": "vleroy@example.org",
+    "phone": "+33 3 60 36 24 17",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-26T22:49:57.352075"
+  },
+  {
+    "customer_id": "1459a7ff-7982-4671-8396-bd49f1e54914",
+    "full_name": "Rémy Huet",
+    "email": "gregoire25@example.net",
+    "phone": "+33 (0)5 86 50 45 09",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-24T15:53:56.326277"
+  },
+  {
+    "customer_id": "5a6486fa-f17c-4ed7-bdd8-7478e243539a",
+    "full_name": "Aurélie-Aurore Marion",
+    "email": "margot22@example.org",
+    "phone": "0475674865",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-24T09:28:35.845260"
+  },
+  {
+    "customer_id": "01c1f1aa-a05e-4783-aebc-4d6786deb8ff",
+    "full_name": "David-Matthieu Thibault",
+    "email": "zacharierossi@example.com",
+    "phone": "03 60 23 02 60",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-01T11:11:12.190716"
+  },
+  {
+    "customer_id": "2dad292d-3a5a-4764-9d8c-240feafec206",
+    "full_name": "Anouk Torres du Coste",
+    "email": "alexandria07@example.org",
+    "phone": "02 19 45 39 02",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-17T00:45:13.853169"
+  },
+  {
+    "customer_id": "ab8bd557-f907-429b-9f1d-edbabc0ac637",
+    "full_name": "Hugues Costa",
+    "email": "christopheregnier@example.com",
+    "phone": "0174834966",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-01T21:21:05.857116"
+  },
+  {
+    "customer_id": "27097fd7-ffdf-4bb9-a856-4367acf9f13b",
+    "full_name": "David Seguin",
+    "email": "wlemonnier@example.net",
+    "phone": "+33 (0)3 61 45 00 38",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-02T16:24:04.984804"
+  },
+  {
+    "customer_id": "07418cd8-13e3-4634-8e38-e3b7c7cb80b7",
+    "full_name": "Guillaume Teixeira",
+    "email": "kfouquet@example.org",
+    "phone": "+33 1 53 67 01 88",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-09T10:58:06.738081"
+  },
+  {
+    "customer_id": "effed73f-6016-4abc-801f-d14152536183",
+    "full_name": "Jules Michel",
+    "email": "alexandriecolin@example.org",
+    "phone": "0155753023",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-09T16:44:49.134438"
+  },
+  {
+    "customer_id": "eb22e7da-adc4-4dee-b11f-bde61006eb07",
+    "full_name": "Martin Maréchal de la Martineau",
+    "email": "malletsebastien@example.net",
+    "phone": "+33 4 57 79 18 40",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-23T21:13:58.607079"
+  },
+  {
+    "customer_id": "7b0347fa-b46e-4d87-805a-692343250e1b",
+    "full_name": "Théodore de Pineau",
+    "email": "cohenmarthe@example.com",
+    "phone": "+33 (0)2 44 46 49 38",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-08T19:40:13.441957"
+  },
+  {
+    "customer_id": "fc578c76-51d8-4432-86cf-240a3f78700e",
+    "full_name": "Jérôme Hoarau-Fischer",
+    "email": "tchauveau@example.org",
+    "phone": "+33 (0)2 28 15 27 43",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-06T03:21:14.873224"
+  },
+  {
+    "customer_id": "2c7fd95e-daa3-41fe-aa80-c140062e3c14",
+    "full_name": "Hugues Garcia",
+    "email": "genevievebailly@example.com",
+    "phone": "+33 2 33 54 65 39",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-10T17:10:06.790899"
+  },
+  {
+    "customer_id": "86607ad6-4d60-4231-9d28-e8049723e469",
+    "full_name": "Audrey Martel du Parent",
+    "email": "tchretien@example.net",
+    "phone": "04 97 79 64 44",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-24T12:21:26.791757"
+  },
+  {
+    "customer_id": "dc301fb6-eda3-4135-9d0f-49a01a25e2a9",
+    "full_name": "Nicolas Caron",
+    "email": "raymond20@example.org",
+    "phone": "+33 (0)4 34 82 40 17",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-27T17:47:21.453633"
+  },
+  {
+    "customer_id": "531543fc-a956-4712-ad26-8035500016fe",
+    "full_name": "Denis Le Gomes",
+    "email": "chauvinnath@example.net",
+    "phone": "+33 (0)4 90 08 65 48",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-08T06:19:20.488311"
+  },
+  {
+    "customer_id": "f5c8d856-dba1-4c00-b43c-386f29ca43ba",
+    "full_name": "William-Alain Raynaud",
+    "email": "michelle52@example.org",
+    "phone": "+33 (0)2 45 95 91 22",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-24T09:38:21.314533"
+  },
+  {
+    "customer_id": "1fadd3cc-265f-4b84-8306-c4f1b60a1cd3",
+    "full_name": "Michel Paul",
+    "email": "thibaultdelattre@example.net",
+    "phone": "03 62 28 62 88",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-20T05:10:54.907036"
+  },
+  {
+    "customer_id": "15bed8dd-f38b-440d-882b-4f4c69db46f6",
+    "full_name": "Gérard Becker-Evrard",
+    "email": "caronfrancois@example.org",
+    "phone": "+33 4 27 45 59 66",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-19T01:16:55.559702"
+  },
+  {
+    "customer_id": "85c31070-f71b-426d-b208-1d0949bcbb81",
+    "full_name": "Louis de la Marchal",
+    "email": "anne00@example.net",
+    "phone": "+33 (0)5 56 69 32 25",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-11T05:22:32.605882"
+  },
+  {
+    "customer_id": "eb98df1d-778c-41c3-b2c6-ab2efc8839d1",
+    "full_name": "Roland Michaud-Gilles",
+    "email": "allardines@example.net",
+    "phone": "0469634253",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-15T06:37:35.521415"
+  },
+  {
+    "customer_id": "682c4797-4bc8-4f02-a258-6e496951ab58",
+    "full_name": "Augustin Garnier",
+    "email": "ufontaine@example.org",
+    "phone": "+33 (0)5 32 60 77 25",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-04T20:19:04.202037"
+  },
+  {
+    "customer_id": "e658da2b-456d-4948-b29f-734769c8cd60",
+    "full_name": "Pauline Menard",
+    "email": "nbesnard@example.com",
+    "phone": "+33 2 55 77 65 01",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-06T21:42:00.141478"
+  },
+  {
+    "customer_id": "af3a794d-ffde-4778-8fcd-b175f85a70d8",
+    "full_name": "Jacqueline Coulon",
+    "email": "anne11@example.com",
+    "phone": "02 53 97 53 50",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-27T22:07:29.204460"
+  },
+  {
+    "customer_id": "2758fbed-f54d-448d-b049-8c1f2ac48942",
+    "full_name": "Noël Pasquier",
+    "email": "ines96@example.org",
+    "phone": "0413947832",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-16T21:34:53.538933"
+  },
+  {
+    "customer_id": "73a658da-efa5-4bad-af43-6d2781a76a1c",
+    "full_name": "Thierry Humbert",
+    "email": "celinechevalier@example.com",
+    "phone": "+33 5 61 16 02 35",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-18T18:51:45.354464"
+  },
+  {
+    "customer_id": "2f326849-a136-42e5-9067-b9a86441e588",
+    "full_name": "Sébastien Hoareau",
+    "email": "bonneauastrid@example.com",
+    "phone": "+33 4 76 09 30 87",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-11T17:08:16.495392"
+  },
+  {
+    "customer_id": "80068d34-fe99-4299-b6ac-07ebbe0d4aa7",
+    "full_name": "Maggie Jacques-Aubert",
+    "email": "henriette34@example.com",
+    "phone": "0497532126",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-08T10:31:48.072255"
+  },
+  {
+    "customer_id": "d34cacaf-9944-45a8-936a-c5e36bfe3bc1",
+    "full_name": "Éric Guillet",
+    "email": "costedominique@example.org",
+    "phone": "0296339560",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-30T22:26:14.968304"
+  },
+  {
+    "customer_id": "f8f5ca63-e18d-4f9d-9d1e-27f0a15e6a10",
+    "full_name": "Maryse Benard",
+    "email": "adelelefort@example.org",
+    "phone": "+33 3 79 41 13 14",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-13T10:08:13.958286"
+  },
+  {
+    "customer_id": "56ef2245-e4f0-40df-8e62-624f8575f8e0",
+    "full_name": "Georges Gonzalez",
+    "email": "maurice10@example.org",
+    "phone": "+33 (0)1 55 14 94 74",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-21T07:12:24.985749"
+  },
+  {
+    "customer_id": "251fb7dc-35e6-46f8-99ff-5fb684531f0b",
+    "full_name": "Noël-Benoît Germain",
+    "email": "zmarty@example.com",
+    "phone": "03 55 69 13 68",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-22T17:30:40.788041"
+  },
+  {
+    "customer_id": "5c56a460-d386-451a-97a8-8d7020be2101",
+    "full_name": "Adélaïde Da Costa",
+    "email": "remy16@example.net",
+    "phone": "02 33 78 50 11",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-04T19:54:08.548910"
+  },
+  {
+    "customer_id": "0799ac24-fb2f-4d51-9abb-69ecf00ba33d",
+    "full_name": "Eugène Bazin",
+    "email": "lucdelmas@example.org",
+    "phone": "0310421455",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-25T01:11:15.534522"
+  },
+  {
+    "customer_id": "8453f58c-0e53-45be-a27e-d54a9ebb8969",
+    "full_name": "Martin Robin",
+    "email": "william58@example.net",
+    "phone": "+33 1 41 20 22 81",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-14T03:34:13.284755"
+  },
+  {
+    "customer_id": "5d1e3175-255a-4d27-aad6-bc1de32d9b06",
+    "full_name": "Jérôme Guibert",
+    "email": "ycarre@example.org",
+    "phone": "04 72 38 16 41",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-09T06:15:12.107703"
+  },
+  {
+    "customer_id": "b2b7e015-6079-4bc0-8d3a-dfc63caa0055",
+    "full_name": "Tristan Adam",
+    "email": "georges43@example.org",
+    "phone": "+33 2 78 50 85 23",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-23T20:59:47.839684"
+  },
+  {
+    "customer_id": "50b18976-0ae9-451d-9665-47c8d13a7f83",
+    "full_name": "Suzanne Fischer-Paul",
+    "email": "texierandre@example.org",
+    "phone": "0533601575",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-05T19:49:02.348739"
+  },
+  {
+    "customer_id": "3d98eb54-2f1f-41af-8fab-addd444bb3f7",
+    "full_name": "Grégoire Berger-Lagarde",
+    "email": "margaud54@example.com",
+    "phone": "+33 (0)2 22 48 14 53",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-01T17:37:14.935196"
+  },
+  {
+    "customer_id": "4552a0ec-5e91-4f37-8693-22b7d6a77c7e",
+    "full_name": "Stéphane Chauvin",
+    "email": "marie35@example.org",
+    "phone": "+33 5 82 49 98 96",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-02T06:46:52.674944"
+  },
+  {
+    "customer_id": "962b4b65-cba1-41c2-898c-5fbd91ef2b3d",
+    "full_name": "Étienne Ledoux",
+    "email": "hugues72@example.net",
+    "phone": "+33 2 28 23 89 30",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-26T22:15:01.884998"
+  },
+  {
+    "customer_id": "23393f3e-b08d-42d8-9e98-97e3e5f7f585",
+    "full_name": "Philippine Salmon",
+    "email": "uchevalier@example.org",
+    "phone": "03 70 38 32 14",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-17T10:37:04.853788"
+  },
+  {
+    "customer_id": "1a669c33-3ae3-45c0-a0c0-d0638e969bc0",
+    "full_name": "Thibault Moreau",
+    "email": "margauxhoareau@example.net",
+    "phone": "0477915961",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-28T06:51:22.964670"
+  },
+  {
+    "customer_id": "27132b67-4850-4336-ad83-f661219a9e3e",
+    "full_name": "Éric Le Merle",
+    "email": "laurencegillet@example.org",
+    "phone": "+33 (0)3 26 21 71 64",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-07T08:13:20.829929"
+  },
+  {
+    "customer_id": "1e088d4b-b78d-4c3b-8453-1a1384101979",
+    "full_name": "Agathe Legendre",
+    "email": "uschneider@example.com",
+    "phone": "02 50 06 99 49",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-20T01:44:54.456451"
+  },
+  {
+    "customer_id": "47930d88-e38a-4674-a23a-65acef6db80a",
+    "full_name": "Marthe Ribeiro",
+    "email": "sbenoit@example.com",
+    "phone": "+33 3 24 97 47 71",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-28T18:29:06.083017"
+  },
+  {
+    "customer_id": "9db58b5c-e84d-45e4-b8ab-698fcd3e1c46",
+    "full_name": "Suzanne-Aimée Leconte",
+    "email": "bernardpruvost@example.net",
+    "phone": "+33 (0)7 87 28 34 93",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-01T13:02:44.925989"
+  },
+  {
+    "customer_id": "c14d2f2b-d400-4da1-8e73-153cedcf2d04",
+    "full_name": "Charles Blin",
+    "email": "bousquetmargaud@example.org",
+    "phone": "+33 (0)4 84 39 22 48",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-27T23:08:01.012872"
+  },
+  {
+    "customer_id": "4f861404-a6ae-4da4-8999-562ad2b2f1f0",
+    "full_name": "Luce Ramos",
+    "email": "gilbertfleury@example.net",
+    "phone": "+33 (0)4 88 13 41 51",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-20T20:39:58.505301"
+  },
+  {
+    "customer_id": "ec605387-c753-4b38-be4e-065e6e1193fc",
+    "full_name": "Victoire Poirier",
+    "email": "ncarre@example.org",
+    "phone": "+33 (0)1 49 05 70 38",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-22T20:43:26.636377"
+  },
+  {
+    "customer_id": "f44d2c16-9739-4645-9534-e7fa4dcf179f",
+    "full_name": "Clémence Nicolas de la Berger",
+    "email": "marchandsuzanne@example.com",
+    "phone": "+33 (0)6 69 43 45 71",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-29T14:58:13.360152"
+  },
+  {
+    "customer_id": "0be613a7-6a96-4a8a-8369-9469ca91e870",
+    "full_name": "Hortense Lecomte-Jacquet",
+    "email": "maurice82@example.org",
+    "phone": "0634936548",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-11T06:27:26.363714"
+  },
+  {
+    "customer_id": "95452af6-b7ec-4fbc-b359-64c9359c1904",
+    "full_name": "Caroline Rodrigues",
+    "email": "teixeiramarguerite@example.net",
+    "phone": "+33 3 52 45 43 25",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-21T19:25:22.654380"
+  },
+  {
+    "customer_id": "bf7b24e4-0a77-4e33-a915-1ffb10a35169",
+    "full_name": "Léon Aubert",
+    "email": "lorraine77@example.net",
+    "phone": "+33 (0)2 47 53 24 73",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-23T14:51:08.644299"
+  },
+  {
+    "customer_id": "09ea3e88-89db-4cb7-9fb4-cdc8496d4ba7",
+    "full_name": "Manon Jacquet-Rolland",
+    "email": "briandcatherine@example.com",
+    "phone": "02 47 84 36 16",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-19T06:33:22.927136"
+  },
+  {
+    "customer_id": "c05d8984-cca0-4a3e-bdc1-00e6816777d4",
+    "full_name": "Odette de Denis",
+    "email": "theophile18@example.net",
+    "phone": "05 65 51 10 17",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-19T22:05:16.858105"
+  },
+  {
+    "customer_id": "cbbbc556-3a4c-4dfb-a533-1b3842151ada",
+    "full_name": "Thibault Morel",
+    "email": "william09@example.org",
+    "phone": "+33 2 46 17 05 73",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T03:57:57.985660"
+  },
+  {
+    "customer_id": "f0df7fd9-9d58-4b5b-b279-774afe5a2915",
+    "full_name": "Philippe Chauvet",
+    "email": "chauveaupaulette@example.org",
+    "phone": "+33 3 54 01 94 15",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-23T22:29:51.615809"
+  },
+  {
+    "customer_id": "18cb9122-f94d-4a1d-a0ce-626c2280c15e",
+    "full_name": "Marine Marie",
+    "email": "njacquet@example.com",
+    "phone": "+33 (0)5 35 35 18 10",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-01T12:31:06.659228"
+  },
+  {
+    "customer_id": "66b4de21-882f-43d3-9326-7e7a9bb40398",
+    "full_name": "Luce Leclerc",
+    "email": "luciewagner@example.net",
+    "phone": "02 40 26 87 56",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-08T17:56:13.596596"
+  },
+  {
+    "customer_id": "3732f417-0614-4499-80cc-6118efb528ef",
+    "full_name": "Pauline Foucher",
+    "email": "ilenoir@example.org",
+    "phone": "+33 (0)1 77 29 48 02",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-28T03:52:44.384225"
+  },
+  {
+    "customer_id": "9fdcab31-440f-450e-87e5-490acb3c4cf4",
+    "full_name": "Daniel du Pruvost",
+    "email": "jlemaire@example.org",
+    "phone": "+33 2 69 91 69 98",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-15T10:41:32.529513"
+  },
+  {
+    "customer_id": "e948cb3e-1c85-4daf-9d61-604871299c59",
+    "full_name": "Adèle Joseph",
+    "email": "leclercolivier@example.org",
+    "phone": "07 32 34 81 15",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-07T04:52:28.287791"
+  },
+  {
+    "customer_id": "0b3510b0-6e0d-4147-8944-aa8aa9850a45",
+    "full_name": "Pauline du Poulain",
+    "email": "andreedupont@example.org",
+    "phone": "+33 (0)3 55 22 60 47",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-22T18:38:01.699648"
+  },
+  {
+    "customer_id": "b7f3443c-000d-4fcb-b1d2-0f5ae09f0435",
+    "full_name": "Étienne Fernandez",
+    "email": "juliette73@example.com",
+    "phone": "+33 6 76 34 82 40",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-31T01:22:49.007067"
+  },
+  {
+    "customer_id": "37da1840-87c6-44a6-9cd6-0b7a48ca90e1",
+    "full_name": "Agathe Lagarde",
+    "email": "benoitvictoire@example.net",
+    "phone": "+33 5 55 46 40 74",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-08T11:10:54.582263"
+  },
+  {
+    "customer_id": "c82f8f91-791f-467e-b427-4496384cb8d9",
+    "full_name": "Suzanne-Constance Bouvier",
+    "email": "oceanerolland@example.org",
+    "phone": "+33 (0)4 63 55 77 81",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-23T22:25:09.289677"
+  },
+  {
+    "customer_id": "836b3ef2-a7d6-4426-8bca-c55eaa9c6f01",
+    "full_name": "Pénélope du Ledoux",
+    "email": "guyletellier@example.net",
+    "phone": "+33 3 86 48 80 83",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-02T04:29:50.621162"
+  },
+  {
+    "customer_id": "6a6306e9-6e67-4d49-9a13-0036df281cd0",
+    "full_name": "Maryse Da Silva de la Philippe",
+    "email": "chevallierhonore@example.net",
+    "phone": "0170703015",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-03T17:24:00.340980"
+  },
+  {
+    "customer_id": "5110d39c-4158-4960-9155-c8d719fbfed7",
+    "full_name": "Arnaude Bouvet-Pelletier",
+    "email": "pbruneau@example.org",
+    "phone": "+33 (0)4 74 92 81 52",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-17T04:09:37.811516"
+  },
+  {
+    "customer_id": "39018263-6a15-412a-a715-537fdfde7cc2",
+    "full_name": "Gérard Carlier",
+    "email": "bdupre@example.net",
+    "phone": "06 22 70 18 45",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-28T02:12:02.463514"
+  },
+  {
+    "customer_id": "654ceac7-ccea-40b7-8fff-dbcd033daab8",
+    "full_name": "Isabelle-Laurence Lucas",
+    "email": "stephanie64@example.net",
+    "phone": "+33 4 58 88 33 88",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-02T21:22:32.008091"
+  },
+  {
+    "customer_id": "581a1d29-ca02-47c4-a36c-1436d79880ea",
+    "full_name": "Franck-Patrick Le Gall",
+    "email": "constanceda-silva@example.net",
+    "phone": "+33 (0)6 36 11 39 26",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-10T10:35:27.324149"
+  },
+  {
+    "customer_id": "cec7169d-88bd-43cd-a5a1-28b730508433",
+    "full_name": "Patricia-Nathalie Guibert",
+    "email": "francoisleclercq@example.com",
+    "phone": "+33 (0)4 86 71 96 18",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-01T02:56:23.729513"
+  },
+  {
+    "customer_id": "0426be5d-42f6-4cf8-9c71-eef200c9087b",
+    "full_name": "Tristan de la Gillet",
+    "email": "ilouis@example.org",
+    "phone": "04 69 01 38 18",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-31T02:18:47.852523"
+  },
+  {
+    "customer_id": "6d22f7d9-b404-49d3-8a35-f9e13f464f52",
+    "full_name": "Paulette Lefebvre",
+    "email": "audrey64@example.org",
+    "phone": "+33 (0)4 44 17 26 19",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-30T02:16:18.939358"
+  },
+  {
+    "customer_id": "82419453-db60-4a4b-9b76-086a3d4f7258",
+    "full_name": "Agathe-Laure Fontaine",
+    "email": "honore86@example.net",
+    "phone": "03 58 18 59 87",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-22T02:49:51.889144"
+  },
+  {
+    "customer_id": "c84eb788-ac96-4ec9-b602-bbfe14f63fe7",
+    "full_name": "Antoine de Schneider",
+    "email": "colletmarc@example.org",
+    "phone": "+33 4 43 04 83 14",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-26T02:03:18.528561"
+  },
+  {
+    "customer_id": "2cda3aa2-264e-4a9e-bb90-e0710e31d378",
+    "full_name": "Benjamin Le Delattre",
+    "email": "yarnaud@example.net",
+    "phone": "02 23 70 29 72",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-17T03:48:45.334219"
+  },
+  {
+    "customer_id": "8c91ac78-1532-47fe-b6bf-d7e0c47dc64c",
+    "full_name": "Victoire Pottier",
+    "email": "guillaume02@example.org",
+    "phone": "0339608537",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-31T09:36:50.334912"
+  },
+  {
+    "customer_id": "12f4d0a8-a2a5-44fb-80d9-9832bb012c9e",
+    "full_name": "Alain du Ramos",
+    "email": "didierbrigitte@example.net",
+    "phone": "+33 (0)2 29 18 18 97",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-25T09:58:55.299374"
+  },
+  {
+    "customer_id": "63739840-8c0f-472e-94df-c810eb1255bb",
+    "full_name": "Isaac Vidal",
+    "email": "matthieu35@example.com",
+    "phone": "0321869892",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-27T04:01:49.079956"
+  },
+  {
+    "customer_id": "3be24fb8-49d8-4b6f-8102-daa49e5f9fc3",
+    "full_name": "Martin de la Carre",
+    "email": "constance64@example.org",
+    "phone": "+33 (0)2 14 95 33 34",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-28T19:59:44.664033"
+  },
+  {
+    "customer_id": "4c2ab6d5-dbde-4028-b03c-18d47ef06e8e",
+    "full_name": "Roger Marin",
+    "email": "veroniquemarques@example.net",
+    "phone": "05 46 79 27 87",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-07T21:37:56.256608"
+  },
+  {
+    "customer_id": "cddd3094-9d65-4dbb-ba12-122cf24203e9",
+    "full_name": "Isaac Jacquot",
+    "email": "micheleschmitt@example.org",
+    "phone": "0386963775",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-02T19:28:02.780875"
+  },
+  {
+    "customer_id": "3822fef3-2207-43f0-99f0-81344093b3a2",
+    "full_name": "Augustin Rodriguez",
+    "email": "louislefort@example.org",
+    "phone": "01 40 01 84 86",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-04T12:48:17.089396"
+  },
+  {
+    "customer_id": "1285b923-2845-47bb-b71f-950ad6602ee9",
+    "full_name": "Alix Bigot",
+    "email": "tdescamps@example.org",
+    "phone": "+33 5 31 33 29 64",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-04T05:50:05.547111"
+  },
+  {
+    "customer_id": "7334ddca-f9ba-4007-94a0-7f3554a1a006",
+    "full_name": "Marcel Blanc",
+    "email": "qalexandre@example.com",
+    "phone": "02 50 17 83 20",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-05T19:08:39.624120"
+  },
+  {
+    "customer_id": "9a505007-d5b7-49b7-95e2-bf7bdad2a399",
+    "full_name": "Claire de la Loiseau",
+    "email": "luc60@example.net",
+    "phone": "05 62 60 31 30",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-03T12:15:15.458617"
+  },
+  {
+    "customer_id": "55c4c317-9a43-40cd-a7a8-cd7d426a8705",
+    "full_name": "Rémy Morvan",
+    "email": "kturpin@example.org",
+    "phone": "+33 5 53 22 61 99",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-28T20:54:03.403137"
+  },
+  {
+    "customer_id": "2ab481bc-4f46-4478-bc78-42c3420bb0ba",
+    "full_name": "Henri Gomez",
+    "email": "giraudjulien@example.net",
+    "phone": "0390741668",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-14T03:52:05.352449"
+  },
+  {
+    "customer_id": "2bd12849-fa49-4696-9d78-051ef9e7f950",
+    "full_name": "Corinne Humbert",
+    "email": "jmarion@example.net",
+    "phone": "04 71 00 54 15",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-10T00:18:23.876434"
+  },
+  {
+    "customer_id": "10aae6f3-8b63-4699-908e-cdedb534ea9c",
+    "full_name": "Louis Mathieu",
+    "email": "igimenez@example.net",
+    "phone": "+33 5 18 80 08 97",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-07T22:27:22.009499"
+  },
+  {
+    "customer_id": "da144cc3-ddaf-4389-969c-64905844f478",
+    "full_name": "Lorraine-Édith Bouvier",
+    "email": "elise40@example.org",
+    "phone": "02 55 18 44 43",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-18T13:41:50.330621"
+  },
+  {
+    "customer_id": "4cbb7d98-fb54-402c-a546-5068623476fd",
+    "full_name": "Nath Mercier",
+    "email": "dorotheepons@example.org",
+    "phone": "+33 (0)4 92 91 93 27",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-12T23:49:09.682357"
+  },
+  {
+    "customer_id": "ca80ec54-17fa-4704-a8a6-d0a18d6df44b",
+    "full_name": "Pénélope François",
+    "email": "erenault@example.org",
+    "phone": "01 80 31 02 96",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-02T01:07:47.720035"
+  },
+  {
+    "customer_id": "399cfd26-f74e-4265-8e24-e687b8c14bcb",
+    "full_name": "Simone Adam-Bourdon",
+    "email": "meyergilbert@example.org",
+    "phone": "04 91 89 97 26",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-15T06:15:25.635380"
+  },
+  {
+    "customer_id": "752f25ff-6f0c-4943-ac62-d1285cd6a1f1",
+    "full_name": "Thomas Bailly de Goncalves",
+    "email": "gregoire73@example.com",
+    "phone": "+33 4 79 13 19 67",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-19T09:38:52.999216"
+  },
+  {
+    "customer_id": "34034c74-1613-4cd6-93ae-6764d4c588ee",
+    "full_name": "Jean-Olivier Cordier",
+    "email": "claude72@example.org",
+    "phone": "02 62 96 38 60",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-06T18:07:34.310782"
+  },
+  {
+    "customer_id": "090e8429-1cd8-4f0b-b5dc-2866b9e69924",
+    "full_name": "Roger Delorme de Perret",
+    "email": "gaillardalexandre@example.com",
+    "phone": "04 86 27 02 03",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-06T07:42:42.229065"
+  },
+  {
+    "customer_id": "52672b1c-d363-4a3a-bb9b-80689215aff8",
+    "full_name": "Suzanne Lévêque",
+    "email": "lherve@example.org",
+    "phone": "+33 (0)3 57 34 50 28",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-05T14:44:42.222908"
+  },
+  {
+    "customer_id": "b0df2f17-a0df-43ac-adb2-17bc6ce378f5",
+    "full_name": "Zacharie Hubert",
+    "email": "zcharpentier@example.net",
+    "phone": "0490447605",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-15T08:53:33.047763"
+  },
+  {
+    "customer_id": "e2240884-c4d4-4c31-8c58-011d2b48d003",
+    "full_name": "Adrienne-Élisabeth Adam",
+    "email": "francoismartinez@example.com",
+    "phone": "0178363102",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-15T23:51:26.778358"
+  },
+  {
+    "customer_id": "c56828f7-dd74-45da-8d7e-729d6996cbae",
+    "full_name": "Julien Sauvage",
+    "email": "suzannelambert@example.com",
+    "phone": "+33 (0)2 49 06 62 60",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-11T23:52:31.797645"
+  },
+  {
+    "customer_id": "7708619c-d5b7-4e76-baa7-0b75c2e8b7ce",
+    "full_name": "Marguerite Alexandre",
+    "email": "galletjuliette@example.net",
+    "phone": "01 64 53 95 84",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-09T20:24:08.527479"
+  },
+  {
+    "customer_id": "ebdd01dd-e526-4e1f-a4eb-419dfc3789d0",
+    "full_name": "Léon Cohen-Techer",
+    "email": "voisinjacqueline@example.org",
+    "phone": "02 78 03 88 95",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-17T13:49:39.733780"
+  },
+  {
+    "customer_id": "da9fb76c-998b-45ec-934b-802c2108dcd7",
+    "full_name": "Julien Blanc",
+    "email": "hmeyer@example.com",
+    "phone": "07 98 72 91 56",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-13T00:56:31.894013"
+  },
+  {
+    "customer_id": "acc17932-42ea-49f4-b937-939b06b4f51f",
+    "full_name": "Henriette Carre",
+    "email": "simonetanguy@example.net",
+    "phone": "+33 (0)5 96 80 05 77",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-08T20:03:26.721918"
+  },
+  {
+    "customer_id": "5cf1da2c-7de5-4828-9af1-cf0f1f031653",
+    "full_name": "Daniel Le Lacombe",
+    "email": "wclement@example.net",
+    "phone": "+33 (0)3 63 28 34 72",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-21T15:59:22.590649"
+  },
+  {
+    "customer_id": "280da24d-00d1-4aeb-be6d-d1f9b7429dac",
+    "full_name": "Thomas Le Nguyen",
+    "email": "martyaime@example.org",
+    "phone": "+33 5 64 54 53 48",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-23T08:55:10.613319"
+  },
+  {
+    "customer_id": "ee87d6ae-a990-46dd-a605-ef42b5fe2b71",
+    "full_name": "Théodore Valette",
+    "email": "julesdupuis@example.com",
+    "phone": "0389715826",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-24T16:25:13.597995"
+  },
+  {
+    "customer_id": "cb3e9aed-0fcc-4329-8be1-eaaafec64b86",
+    "full_name": "Mathilde Normand du Pruvost",
+    "email": "kmorin@example.org",
+    "phone": "02 99 69 85 66",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-22T03:23:40.342342"
+  },
+  {
+    "customer_id": "4151a38b-c7ca-4218-9434-7e4ef203410a",
+    "full_name": "Adèle Samson Le Normand",
+    "email": "isaacrobin@example.net",
+    "phone": "0241263422",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T15:43:40.746354"
+  },
+  {
+    "customer_id": "213f6886-1bf3-4871-9b58-406668d8d0d9",
+    "full_name": "William Breton",
+    "email": "louisbernard@example.com",
+    "phone": "+33 4 34 76 67 78",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-07T09:33:42.759145"
+  },
+  {
+    "customer_id": "7a57664e-7132-4455-80d2-941e634ac611",
+    "full_name": "Paul Pons",
+    "email": "gtexier@example.net",
+    "phone": "+33 2 38 99 21 83",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-03T20:53:57.487072"
+  },
+  {
+    "customer_id": "566da978-d16c-46a8-91b6-f500e0e059dc",
+    "full_name": "Robert de Chartier",
+    "email": "guillaume12@example.net",
+    "phone": "+33 (0)2 61 60 17 29",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-09T14:26:03.943393"
+  },
+  {
+    "customer_id": "c0d1dfd4-e0cb-4ec0-a015-c037910eef7f",
+    "full_name": "Gabrielle Le Laine",
+    "email": "gerard57@example.com",
+    "phone": "0554162599",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-23T23:26:00.735881"
+  },
+  {
+    "customer_id": "39bd92e4-7402-4da7-935d-943572f0c461",
+    "full_name": "Lucas Lebreton-Klein",
+    "email": "ucouturier@example.org",
+    "phone": "06 81 79 42 76",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-03T09:11:29.622925"
+  },
+  {
+    "customer_id": "82494bdc-3139-4a3c-9c44-c42ffd970d1b",
+    "full_name": "Marguerite-Susan Pruvost",
+    "email": "julienpereira@example.com",
+    "phone": "+33 4 27 02 82 57",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-18T09:42:27.151061"
+  },
+  {
+    "customer_id": "4c9e554c-fe39-460b-9aa3-babd1c8a9c53",
+    "full_name": "Éléonore Lemaître",
+    "email": "aime49@example.net",
+    "phone": "0178129541",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T20:21:14.882390"
+  },
+  {
+    "customer_id": "d08b1413-a4ff-4021-9808-1ab1781b2184",
+    "full_name": "François-Olivier Sauvage",
+    "email": "morenomatthieu@example.org",
+    "phone": "0637178007",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-13T21:23:42.312230"
+  },
+  {
+    "customer_id": "17502115-f95d-47c6-94e9-31e4db5b8d37",
+    "full_name": "Noël Rossi",
+    "email": "leclercqclaudine@example.net",
+    "phone": "0457706932",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-27T05:59:28.965145"
+  },
+  {
+    "customer_id": "5db699cd-dce0-4f3b-a74a-249443c6c5ff",
+    "full_name": "Frédérique Rey",
+    "email": "hervepierre@example.com",
+    "phone": "04 82 87 52 73",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-16T08:24:23.657162"
+  },
+  {
+    "customer_id": "8791227d-52f6-42e3-8a4d-c383c7847e35",
+    "full_name": "Danielle-Agathe Pires",
+    "email": "agros@example.org",
+    "phone": "0174674220",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-06T12:45:03.519439"
+  },
+  {
+    "customer_id": "c4c668b4-4581-492c-8b51-783285309efe",
+    "full_name": "Lucas Laroche",
+    "email": "louise32@example.net",
+    "phone": "04 78 63 52 09",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-23T00:34:56.650990"
+  },
+  {
+    "customer_id": "c879ee8e-1722-41fb-8da3-db2c0c04f236",
+    "full_name": "Valérie Chrétien",
+    "email": "zduhamel@example.org",
+    "phone": "03 29 66 43 76",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-16T16:13:50.052507"
+  },
+  {
+    "customer_id": "889bf3b4-cce5-4269-b29b-7f5829ef1afc",
+    "full_name": "Josette Alves Le Rey",
+    "email": "alphonse31@example.net",
+    "phone": "+33 3 52 09 88 42",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-27T12:01:26.225743"
+  },
+  {
+    "customer_id": "585593a9-6075-47a9-b0b3-9505377384f3",
+    "full_name": "Alain Ollivier",
+    "email": "schneidermichelle@example.net",
+    "phone": "0533188169",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-20T20:33:17.919191"
+  },
+  {
+    "customer_id": "2ac28d0a-6f50-422a-b6ce-08e5438188e7",
+    "full_name": "Sébastien Roche-Da Costa",
+    "email": "aurelie80@example.com",
+    "phone": "+33 3 58 46 85 49",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-01T22:14:00.806576"
+  },
+  {
+    "customer_id": "860e8b9c-64e7-4286-99a6-9fa3fb919d79",
+    "full_name": "Camille-Élisabeth Bazin",
+    "email": "eleonorecollet@example.net",
+    "phone": "+33 (0)3 23 15 38 42",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-27T14:40:19.901828"
+  },
+  {
+    "customer_id": "f57660ae-5667-44d9-b7cc-1c34516fd253",
+    "full_name": "Jeannine Vincent Le Guyon",
+    "email": "ngerard@example.com",
+    "phone": "0228642760",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-21T21:59:23.894897"
+  },
+  {
+    "customer_id": "75cda9db-d1be-4ebd-8a32-11a19c4bd24e",
+    "full_name": "Gabriel Joly",
+    "email": "louise50@example.com",
+    "phone": "0387504719",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-19T11:43:51.458805"
+  },
+  {
+    "customer_id": "e73f2962-e437-4e96-8731-49f15c317e17",
+    "full_name": "Stéphane Texier",
+    "email": "allainchantal@example.org",
+    "phone": "+33 3 82 12 03 66",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-18T23:32:46.996412"
+  },
+  {
+    "customer_id": "7538ea95-9880-485c-9aca-c8f6c43f354c",
+    "full_name": "Joséphine Royer-Pages",
+    "email": "wgilles@example.org",
+    "phone": "04 87 32 09 40",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-09T20:04:52.777113"
+  },
+  {
+    "customer_id": "5c948d66-b4e7-48f0-9866-5c2a4a9c9c01",
+    "full_name": "Léon Masson",
+    "email": "francoispetitjean@example.org",
+    "phone": "+33 4 32 02 53 22",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-06T19:36:47.642251"
+  },
+  {
+    "customer_id": "b17eb187-1508-4b70-b981-799fe3223fcd",
+    "full_name": "Marcel de la Labbé",
+    "email": "turpinjules@example.com",
+    "phone": "0383686019",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-23T04:22:02.605776"
+  },
+  {
+    "customer_id": "d25c08e6-0abb-42a5-93d8-c33d5d0839fe",
+    "full_name": "Benoît-Guillaume Marie",
+    "email": "michelelaunay@example.org",
+    "phone": "06 81 04 82 36",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-03T05:02:30.949612"
+  },
+  {
+    "customer_id": "1063c2b0-bc89-4ae7-b465-cb101e248581",
+    "full_name": "Corinne Raynaud-Renard",
+    "email": "timotheeleclercq@example.net",
+    "phone": "+33 (0)1 70 93 99 81",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-04T07:04:22.896740"
+  },
+  {
+    "customer_id": "8663de61-2217-4f80-8522-12c2ae78263f",
+    "full_name": "Patrick Michaud-Foucher",
+    "email": "robertsalmon@example.net",
+    "phone": "+33 5 61 83 55 80",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-02T00:41:26.967160"
+  },
+  {
+    "customer_id": "5bda6cf8-28a6-4c89-b7ce-d6b425cb7bcf",
+    "full_name": "Constance Leclerc de Chartier",
+    "email": "madeleinecouturier@example.org",
+    "phone": "0144829029",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-26T09:43:07.476547"
+  },
+  {
+    "customer_id": "40972939-feaa-4335-886f-c9cbbd958b14",
+    "full_name": "Cécile de Bouvier",
+    "email": "sabinemarin@example.com",
+    "phone": "+33 (0)5 32 21 03 85",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-14T00:59:19.562598"
+  },
+  {
+    "customer_id": "d422ecee-431f-48bb-8e03-78769a822a22",
+    "full_name": "Hortense Renaud",
+    "email": "le-rouxmatthieu@example.com",
+    "phone": "0614059823",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-13T21:04:19.994735"
+  },
+  {
+    "customer_id": "d7f0262e-fe79-47c7-bdc5-a4a81a2c6a3d",
+    "full_name": "Gérard Marie-Richard",
+    "email": "rperrot@example.com",
+    "phone": "+33 5 53 13 21 67",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-28T13:30:15.740656"
+  },
+  {
+    "customer_id": "a551c997-9103-4b90-8916-1b5ec439c52c",
+    "full_name": "Alexandre-William Maury",
+    "email": "prevostmanon@example.com",
+    "phone": "+33 4 85 30 92 17",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-24T11:19:29.577441"
+  },
+  {
+    "customer_id": "431d3fba-ca1a-4314-bbde-890c3ee68ecd",
+    "full_name": "Élise Le Godard",
+    "email": "robert80@example.org",
+    "phone": "0236286663",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-31T12:26:26.003401"
+  },
+  {
+    "customer_id": "eae4165a-fe52-4b53-a3eb-157c8539293f",
+    "full_name": "Julie Garcia",
+    "email": "bouchetamelie@example.org",
+    "phone": "0554734805",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-18T08:20:27.352997"
+  },
+  {
+    "customer_id": "b685ede7-1b46-441d-99ad-10b8b63a7c41",
+    "full_name": "Bernard Albert",
+    "email": "rollandmatthieu@example.net",
+    "phone": "+33 2 69 36 37 91",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-18T14:38:47.515463"
+  },
+  {
+    "customer_id": "a8d68e97-d22b-4df1-bb35-85ffc3e4d5ea",
+    "full_name": "Henri Aubert de la Devaux",
+    "email": "nathrenault@example.net",
+    "phone": "+33 3 24 56 10 62",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-21T01:17:47.331401"
+  },
+  {
+    "customer_id": "e81c0a74-b809-41c3-aa8b-349950c1bdca",
+    "full_name": "Aurélie-Adèle Guibert",
+    "email": "dumasjeanne@example.net",
+    "phone": "0438670031",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-18T15:01:39.659271"
+  },
+  {
+    "customer_id": "161b6cf3-b8a4-4be6-a1a1-9d8e917294b2",
+    "full_name": "Philippe de la Roche",
+    "email": "marcelleboutin@example.net",
+    "phone": "+33 3 10 74 87 94",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-26T22:07:30.080947"
+  },
+  {
+    "customer_id": "3a7a6f54-fc07-4c80-b531-0877da766c03",
+    "full_name": "Geneviève-Henriette Gautier",
+    "email": "mariematthieu@example.org",
+    "phone": "07 65 31 18 35",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-01T23:01:20.339617"
+  },
+  {
+    "customer_id": "a01d74c7-6cec-4190-97da-3651197a8fc4",
+    "full_name": "Luc Allain",
+    "email": "salmonjules@example.com",
+    "phone": "06 89 76 41 08",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-25T05:27:52.736936"
+  },
+  {
+    "customer_id": "5831bf53-0665-4b96-8186-56d1b3b0cb43",
+    "full_name": "Joseph Leclercq",
+    "email": "yves99@example.com",
+    "phone": "04 34 35 43 78",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-18T06:53:06.670548"
+  },
+  {
+    "customer_id": "77586003-a830-480e-a77e-c99fd47c6dbb",
+    "full_name": "Raymond Pierre-Allain",
+    "email": "nicole19@example.org",
+    "phone": "+33 (0)3 26 52 66 56",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-04T23:58:27.070112"
+  },
+  {
+    "customer_id": "58d6e5d0-5d4e-48ce-87b8-0d9e07d37370",
+    "full_name": "Denise Robin",
+    "email": "clemenceramos@example.org",
+    "phone": "0567701824",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-12T20:49:37.816271"
+  },
+  {
+    "customer_id": "f0a95adf-c148-426f-8d00-e6fd1d4ef1cc",
+    "full_name": "Margaux-Danielle Giraud",
+    "email": "brunmarc@example.com",
+    "phone": "+33 1 78 43 29 07",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-21T04:10:38.993894"
+  },
+  {
+    "customer_id": "c9175bee-a816-4dfe-a37a-740a1c7c22e4",
+    "full_name": "Margot Rey",
+    "email": "fpaul@example.com",
+    "phone": "02 96 71 81 57",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-12T16:27:42.341409"
+  },
+  {
+    "customer_id": "cfaf556b-b9d6-4d12-b739-de0fb6b85e35",
+    "full_name": "René Gay",
+    "email": "adrien77@example.net",
+    "phone": "02 76 13 65 89",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-26T06:26:35.449358"
+  },
+  {
+    "customer_id": "ad8c5499-e9b0-4f91-adf8-27cb732a723b",
+    "full_name": "Daniel Bouvier",
+    "email": "vlevy@example.com",
+    "phone": "+33 (0)3 26 23 55 79",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-10T04:24:38.993655"
+  },
+  {
+    "customer_id": "d539d742-2d0d-42de-9449-ee09b4cd80d4",
+    "full_name": "Jeannine Munoz",
+    "email": "cordiervincent@example.org",
+    "phone": "+33 (0)8 08 46 56 83",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-26T01:22:29.215337"
+  },
+  {
+    "customer_id": "e7433228-f633-4727-a046-a41faf883f9c",
+    "full_name": "Éric Fournier",
+    "email": "loiseaulouis@example.com",
+    "phone": "+33 4 83 37 07 49",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-10T18:41:03.332233"
+  },
+  {
+    "customer_id": "ea535f96-7948-4168-9f9a-b8c5454809ef",
+    "full_name": "Antoine Da Costa de la Lecomte",
+    "email": "louisdelaunay@example.org",
+    "phone": "02 77 33 97 94",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-08T15:18:53.707153"
+  },
+  {
+    "customer_id": "5bf1e632-5c42-4a48-a726-9b818a43162d",
+    "full_name": "Antoine Petit",
+    "email": "zacharie39@example.org",
+    "phone": "+33 4 81 39 53 70",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-10T00:52:07.537936"
+  },
+  {
+    "customer_id": "683ca9ed-9e35-41f1-aa39-7c80c91a6c07",
+    "full_name": "Claudine Delattre-Maillet",
+    "email": "launaysusan@example.com",
+    "phone": "02 32 72 73 50",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-11T12:33:37.699348"
+  },
+  {
+    "customer_id": "0d6fd75a-f021-46fa-8948-314c53b3fa4a",
+    "full_name": "Alain Boulay",
+    "email": "elisegimenez@example.com",
+    "phone": "04 34 61 71 71",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-22T00:05:06.675396"
+  },
+  {
+    "customer_id": "e82e773b-61f7-46ec-817e-39c68031de6f",
+    "full_name": "Margaux Normand",
+    "email": "pbonneau@example.net",
+    "phone": "0140552053",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-09T22:47:20.779311"
+  },
+  {
+    "customer_id": "f29a45ce-e0a6-4e0e-bee5-7040cb016e25",
+    "full_name": "Anouk Parent",
+    "email": "margaudaubry@example.org",
+    "phone": "+33 (0)6 23 39 33 45",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-05T10:34:32.671675"
+  },
+  {
+    "customer_id": "a4d2b892-009c-4a9e-9f52-be1aba021738",
+    "full_name": "Tristan Diaz-Goncalves",
+    "email": "colinclemence@example.net",
+    "phone": "+33 (0)1 77 64 48 82",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-09T09:30:49.191938"
+  },
+  {
+    "customer_id": "1c70cf56-a251-4f42-a655-489c7e9813ca",
+    "full_name": "Margaud Colas",
+    "email": "julie06@example.net",
+    "phone": "04 32 99 13 99",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-13T12:44:50.263331"
+  },
+  {
+    "customer_id": "d7fe0687-c723-491e-990d-f3acf6aeb88f",
+    "full_name": "Suzanne Guillaume",
+    "email": "ferreiralaure@example.org",
+    "phone": "+33 6 30 31 95 99",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-28T04:47:04.354590"
+  },
+  {
+    "customer_id": "15ac87e7-229c-4314-b453-2031e185c1aa",
+    "full_name": "Roland Dijoux",
+    "email": "lorraine33@example.net",
+    "phone": "+33 (0)1 48 83 45 72",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-22T13:34:50.881297"
+  },
+  {
+    "customer_id": "5eed616f-c07e-4e14-8487-f107cad28ace",
+    "full_name": "Anne De Oliveira",
+    "email": "aimenoel@example.net",
+    "phone": "+33 2 34 84 29 53",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-23T15:04:14.991327"
+  },
+  {
+    "customer_id": "940124ca-9dbb-454d-ad09-6e8963a3baeb",
+    "full_name": "Théophile Germain",
+    "email": "dmoulin@example.net",
+    "phone": "0567842074",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-13T09:33:53.502061"
+  },
+  {
+    "customer_id": "2c25494a-39f4-4f6e-b4a2-5c2ed60555a7",
+    "full_name": "Arthur Clerc-Millet",
+    "email": "thibaultroyer@example.net",
+    "phone": "03 58 71 52 37",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-09T22:29:08.319467"
+  },
+  {
+    "customer_id": "a4f4b4b5-3f37-49c5-a154-93159bd328a2",
+    "full_name": "Agathe Chrétien-Sanchez",
+    "email": "levyhonore@example.org",
+    "phone": "0247417811",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-11T20:26:42.764923"
+  },
+  {
+    "customer_id": "f0516b7a-6050-433c-b6da-842822365e35",
+    "full_name": "Théophile Bourgeois",
+    "email": "margaretpinto@example.net",
+    "phone": "0255621841",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-05T17:25:08.833688"
+  },
+  {
+    "customer_id": "d5881de5-3de1-46c7-ae99-32985d477af9",
+    "full_name": "Gabrielle Vasseur-Chartier",
+    "email": "carliergabriel@example.com",
+    "phone": "+33 (0)5 45 72 50 04",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-29T15:40:28.472646"
+  },
+  {
+    "customer_id": "e78a3520-63e8-4201-8eed-507c1dde2d25",
+    "full_name": "Victoire Roche de Huet",
+    "email": "edith13@example.net",
+    "phone": "0630339913",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-09T19:19:12.343477"
+  },
+  {
+    "customer_id": "c0cb32d5-2887-4996-988b-795061cfad92",
+    "full_name": "Édouard-Alexandre Lelièvre",
+    "email": "jmeunier@example.org",
+    "phone": "05 19 29 11 78",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-22T00:55:27.031084"
+  },
+  {
+    "customer_id": "3f16c008-b031-4899-8ce9-8a2c7eb1bb18",
+    "full_name": "Simone Faure",
+    "email": "marcellesamson@example.net",
+    "phone": "02 44 95 66 94",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-10T17:08:31.570686"
+  },
+  {
+    "customer_id": "a82aedd9-e2fb-41b9-b3c6-fc1a12ec2261",
+    "full_name": "Hugues Bouchet Le Étienne",
+    "email": "de-oliveiraalain@example.org",
+    "phone": "0762251851",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-11T11:41:39.128844"
+  },
+  {
+    "customer_id": "a1650004-7187-41e7-9c38-7312b012aa6b",
+    "full_name": "Théodore-Bertrand Moreau",
+    "email": "jeansamson@example.com",
+    "phone": "+33 4 58 16 95 92",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-12T05:41:15.519040"
+  },
+  {
+    "customer_id": "13e1ea75-fc0a-4e79-a1d8-a76af2219e73",
+    "full_name": "Dominique De Sousa",
+    "email": "therese48@example.org",
+    "phone": "+33 (0)3 25 11 73 52",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-04T22:59:28.442076"
+  },
+  {
+    "customer_id": "3fcc4ef6-f30f-460a-b997-8fa177467168",
+    "full_name": "Léon Perrier",
+    "email": "dominiqueweiss@example.net",
+    "phone": "03 75 28 82 57",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-30T19:42:03.527552"
+  },
+  {
+    "customer_id": "7e74ff70-0773-43f5-b39b-b004a67969d6",
+    "full_name": "Bernadette Vallet du Bonneau",
+    "email": "michelsusan@example.net",
+    "phone": "0297578059",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-23T18:30:34.398254"
+  },
+  {
+    "customer_id": "59fe4ebf-0e5a-4498-9c96-99715a35298c",
+    "full_name": "Antoine-Alfred Fernandes",
+    "email": "alexandria60@example.org",
+    "phone": "+33 4 87 27 11 99",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-20T19:29:40.873489"
+  },
+  {
+    "customer_id": "a19ea965-0287-4d60-8814-acc086f6a5a2",
+    "full_name": "André Guyot",
+    "email": "kboutin@example.com",
+    "phone": "+33 (0)2 21 59 05 98",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-01T21:52:56.746585"
+  },
+  {
+    "customer_id": "d8b5d782-7758-45ca-a06e-cd10a4fa8138",
+    "full_name": "Augustin Lebon Le Evrard",
+    "email": "perretrenee@example.net",
+    "phone": "0783411213",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-01T07:48:47.820112"
+  },
+  {
+    "customer_id": "6827fe90-b294-4461-a700-09fb5f051270",
+    "full_name": "Caroline Vallet",
+    "email": "julien07@example.net",
+    "phone": "0478615885",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-08T00:52:51.543195"
+  },
+  {
+    "customer_id": "75c8f660-4287-45e1-95d6-f504b63c6e87",
+    "full_name": "Luce Gilbert-Labbé",
+    "email": "teixeiramargaret@example.com",
+    "phone": "05 64 91 70 35",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-29T07:24:29.894754"
+  },
+  {
+    "customer_id": "b2a11254-addd-4868-9871-62d8eeb373d5",
+    "full_name": "Charles Bouvier",
+    "email": "martine14@example.com",
+    "phone": "+33 4 34 27 34 47",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-10T18:34:46.855214"
+  },
+  {
+    "customer_id": "abe55bb1-963b-420c-ba71-f1f9562e8963",
+    "full_name": "Andrée Morvan-Hardy",
+    "email": "wcoulon@example.org",
+    "phone": "+33 (0)4 30 19 93 29",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-08T23:30:49.100936"
+  },
+  {
+    "customer_id": "ef0bfb11-c975-4a22-89b2-490f1a3ac374",
+    "full_name": "Émile de Chevallier",
+    "email": "xblondel@example.net",
+    "phone": "+33 (0)3 25 16 01 82",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-26T13:22:39.160673"
+  },
+  {
+    "customer_id": "2d3ded26-f888-4227-ab43-90747a961663",
+    "full_name": "Noël Legendre",
+    "email": "hoareaualix@example.org",
+    "phone": "0549226336",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-22T20:48:33.020439"
+  },
+  {
+    "customer_id": "2b1fafe0-c966-4c4e-a0dd-b8cda7dd2f9f",
+    "full_name": "Michel Thomas de Gaudin",
+    "email": "udurand@example.net",
+    "phone": "+33 (0)7 45 86 56 28",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-14T16:22:06.736929"
+  },
+  {
+    "customer_id": "de1d6ca0-7f7b-4df9-aa60-80c54c08651d",
+    "full_name": "Édouard Rey",
+    "email": "elodie84@example.net",
+    "phone": "+33 (0)3 24 36 79 87",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-09T14:28:37.674801"
+  },
+  {
+    "customer_id": "944f9ee3-050d-4650-af24-85371b8ff40a",
+    "full_name": "Étienne Voisin",
+    "email": "gregoire29@example.net",
+    "phone": "+33 5 08 71 75 51",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-18T01:02:24.869508"
+  },
+  {
+    "customer_id": "f99fd494-d027-4b70-8c70-7568e4616ba7",
+    "full_name": "Charles Poulain",
+    "email": "chantalhenry@example.org",
+    "phone": "+33 (0)1 72 36 50 59",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-02T00:13:59.368154"
+  },
+  {
+    "customer_id": "6f33d1f4-523b-4f12-a5b6-ab500c5884ea",
+    "full_name": "Franck Lebreton Le Dupré",
+    "email": "gilbert90@example.com",
+    "phone": "+33 (0)4 15 39 73 64",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-05T11:58:25.553745"
+  },
+  {
+    "customer_id": "3ed0e139-574b-41ff-a561-9964da544c62",
+    "full_name": "Capucine Pinto",
+    "email": "tguyot@example.org",
+    "phone": "+33 5 54 08 80 31",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-18T23:50:22.138667"
+  },
+  {
+    "customer_id": "74f999ef-58f6-4df9-9aec-985c7488bfa8",
+    "full_name": "Guy Le Perrier",
+    "email": "dufourfrancois@example.com",
+    "phone": "+33 (0)2 23 84 45 72",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-10T09:00:40.329043"
+  },
+  {
+    "customer_id": "e54610be-b0f2-4795-a032-f7aa7810da64",
+    "full_name": "Patrick Pruvost",
+    "email": "amaillot@example.org",
+    "phone": "+33 2 61 76 47 17",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-29T18:40:08.134892"
+  },
+  {
+    "customer_id": "4030503d-fff1-4ec8-be62-ff2ce198e1f6",
+    "full_name": "Franck Chevallier de la Gillet",
+    "email": "susanne46@example.net",
+    "phone": "+33 (0)3 73 82 22 98",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-26T04:59:07.714483"
+  },
+  {
+    "customer_id": "7e037f7e-0c3d-4f96-a103-6f7381c5391e",
+    "full_name": "Nathalie Roy",
+    "email": "riviereanouk@example.net",
+    "phone": "+33 (0)7 42 23 61 12",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-12T16:36:16.935790"
+  },
+  {
+    "customer_id": "fd6e13c7-2fc9-4d8c-b676-ab45e9d064ff",
+    "full_name": "Pénélope Sauvage",
+    "email": "yvespottier@example.net",
+    "phone": "+33 3 53 36 25 54",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-26T23:41:49.624503"
+  },
+  {
+    "customer_id": "869e3de0-e1bc-4e61-82cd-76515129d5bc",
+    "full_name": "Léon Perret",
+    "email": "henriettelegendre@example.net",
+    "phone": "+33 3 63 08 84 14",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-02T17:31:10.926954"
+  },
+  {
+    "customer_id": "3c5de1ec-c70c-4a97-8c15-1630dfeec5ea",
+    "full_name": "Manon Diallo",
+    "email": "michelepaul@example.org",
+    "phone": "+33 (0)3 54 17 50 77",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-24T13:17:54.351076"
+  },
+  {
+    "customer_id": "fee019a4-a026-41aa-aa85-037a981e0386",
+    "full_name": "Margaret Delattre",
+    "email": "jdufour@example.org",
+    "phone": "0490204577",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-04T01:22:08.520268"
+  },
+  {
+    "customer_id": "60350764-0fcb-4fbc-8859-e76046751a00",
+    "full_name": "Bertrand Fontaine",
+    "email": "payetclemence@example.com",
+    "phone": "0579507173",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-11T08:08:28.670982"
+  },
+  {
+    "customer_id": "94850d89-1d4c-4e2f-8a36-bca51dde98f3",
+    "full_name": "Renée Caron de la Marin",
+    "email": "adrien01@example.org",
+    "phone": "+33 (0)5 65 99 40 00",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-06T06:11:25.018714"
+  },
+  {
+    "customer_id": "d03629e4-53eb-495b-a1e7-e07eb7fb5f7e",
+    "full_name": "Roland Morin",
+    "email": "carolinepoirier@example.net",
+    "phone": "0228333282",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-01T08:39:49.337967"
+  },
+  {
+    "customer_id": "00ebdf55-e787-4b52-8888-1a99de024f91",
+    "full_name": "Claire Dubois",
+    "email": "martinde-oliveira@example.org",
+    "phone": "0236771188",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-29T11:25:47.169467"
+  },
+  {
+    "customer_id": "ef1e9d7a-4244-43d8-855d-f6d4cacd7e92",
+    "full_name": "Olivier Dumont",
+    "email": "patrick17@example.org",
+    "phone": "+33 (0)6 16 63 89 62",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-12T09:59:20.855659"
+  },
+  {
+    "customer_id": "cacf1cc8-5f66-423a-adc5-3dab5a1fe4ed",
+    "full_name": "Aimé Dupuis",
+    "email": "foucherines@example.org",
+    "phone": "02 69 35 90 36",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-09T16:41:49.120857"
+  },
+  {
+    "customer_id": "8aa9a4ac-f10f-4450-aaf1-d4ba7a6a8643",
+    "full_name": "Jacques Millet-Philippe",
+    "email": "chantal59@example.com",
+    "phone": "0422686188",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-18T08:39:49.963705"
+  },
+  {
+    "customer_id": "74a8dfdc-a56a-48f4-a624-64d01b24e02b",
+    "full_name": "Julien Jacquet",
+    "email": "rlevy@example.org",
+    "phone": "+33 (0)4 63 74 77 28",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-03T20:54:44.342097"
+  },
+  {
+    "customer_id": "6565ee14-92cb-4ba5-9204-2b3ad2e7073c",
+    "full_name": "Nathalie Legrand",
+    "email": "mauriceda-silva@example.org",
+    "phone": "+33 4 75 66 89 24",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-09T15:44:47.481499"
+  },
+  {
+    "customer_id": "76397ece-a5a7-4ff7-b0c6-886ef1772372",
+    "full_name": "Aimée Lefort",
+    "email": "spruvost@example.net",
+    "phone": "06 40 28 14 41",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-11T20:20:16.530562"
+  },
+  {
+    "customer_id": "c1671762-42e5-4587-b7fb-b4fbc518997c",
+    "full_name": "Guillaume Buisson",
+    "email": "emmanuelgomez@example.com",
+    "phone": "05 62 80 85 66",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-28T20:10:53.367877"
+  },
+  {
+    "customer_id": "fef9f1bf-d1d0-4de0-b90b-bcad1d26611e",
+    "full_name": "Yves Briand-Mercier",
+    "email": "ksauvage@example.org",
+    "phone": "+33 5 59 90 73 27",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-09T17:19:48.032485"
+  },
+  {
+    "customer_id": "498f791d-3a9b-480b-aadb-515e16dc6991",
+    "full_name": "David Clerc",
+    "email": "vincentdufour@example.net",
+    "phone": "04 72 30 29 71",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-07T08:30:13.018750"
+  },
+  {
+    "customer_id": "337c9675-d3da-4eb8-ad42-ecef8660bde4",
+    "full_name": "Suzanne Clément",
+    "email": "lelievreadele@example.org",
+    "phone": "02 21 44 85 90",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-27T09:52:00.877453"
+  },
+  {
+    "customer_id": "fa51f879-ff8f-4454-831f-4c7f8e81f252",
+    "full_name": "Martin Cohen",
+    "email": "adelaide75@example.net",
+    "phone": "0269671849",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-19T02:50:49.372412"
+  },
+  {
+    "customer_id": "9606fbb1-656d-4032-8149-400aa710ce2f",
+    "full_name": "Théophile Blot-Lombard",
+    "email": "poulainmichel@example.org",
+    "phone": "+33 (0)1 76 13 68 88",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-31T09:59:29.261618"
+  },
+  {
+    "customer_id": "685f3c35-d53a-4b6c-80a2-73194653ea3e",
+    "full_name": "Pénélope Carre-Lenoir",
+    "email": "thibaultcaron@example.net",
+    "phone": "+33 (0)3 85 36 94 75",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-14T23:21:52.672830"
+  },
+  {
+    "customer_id": "74b4d2ae-cc82-4d65-946a-53eb5393deb5",
+    "full_name": "Xavier Olivier",
+    "email": "bertrand17@example.com",
+    "phone": "06 98 89 73 19",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-17T14:42:07.661169"
+  },
+  {
+    "customer_id": "9063e4d9-d7c2-4790-ae6f-b4a0ce7739a4",
+    "full_name": "Maryse du Descamps",
+    "email": "paulclement@example.org",
+    "phone": "+33 5 59 57 12 46",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-23T08:32:48.153213"
+  },
+  {
+    "customer_id": "2d5275a9-0658-4e6f-81dd-7af3a91dd1a5",
+    "full_name": "Claudine Perret",
+    "email": "rcousin@example.com",
+    "phone": "+33 5 17 83 43 94",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-12T10:54:47.417518"
+  },
+  {
+    "customer_id": "ca1b24a4-8a55-4a6a-8d71-bad81c24b45c",
+    "full_name": "Louis-Grégoire Descamps",
+    "email": "clercdenis@example.org",
+    "phone": "0458251749",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-22T04:55:42.189082"
+  },
+  {
+    "customer_id": "13768150-71f4-4502-b9b4-95a28a2eddf5",
+    "full_name": "Dorothée Bruneau-Ruiz",
+    "email": "maillotmarcel@example.com",
+    "phone": "+33 1 45 42 30 63",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-06T22:44:15.832089"
+  },
+  {
+    "customer_id": "9d086a91-ff1c-40cb-ae85-511aad9f8c5b",
+    "full_name": "Alix Lucas",
+    "email": "evalentin@example.net",
+    "phone": "+33 (0)1 75 81 32 82",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-19T19:34:23.536094"
+  },
+  {
+    "customer_id": "c890fd51-fc0a-437e-8104-ce390dc206d7",
+    "full_name": "Julien Brunet",
+    "email": "lefortroland@example.net",
+    "phone": "0156566958",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-30T17:27:49.612703"
+  },
+  {
+    "customer_id": "3d4f79a2-5d9e-451b-8e1f-fc1543515620",
+    "full_name": "Nicole Colas",
+    "email": "cboulanger@example.com",
+    "phone": "+33 4 92 77 12 80",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-29T07:09:32.273730"
+  },
+  {
+    "customer_id": "f5b52109-cc5e-4820-b2e2-491c7fefd851",
+    "full_name": "Lucy Costa",
+    "email": "henri53@example.net",
+    "phone": "0558130970",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-01T06:39:18.235638"
+  },
+  {
+    "customer_id": "ab82dfa7-a2cc-4ccd-9714-2e2ee168e031",
+    "full_name": "Raymond Le Delorme",
+    "email": "alexandriamorel@example.com",
+    "phone": "03 45 96 39 54",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-20T16:18:31.183235"
+  },
+  {
+    "customer_id": "b306b702-41d8-41b7-8152-d24799ab9d67",
+    "full_name": "Jean Vidal",
+    "email": "olivier76@example.org",
+    "phone": "05 49 14 02 66",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-06T06:05:34.092194"
+  },
+  {
+    "customer_id": "8d22a837-dd10-4ed3-b022-b5bc74611da2",
+    "full_name": "Victor Bailly",
+    "email": "antoinebarbe@example.com",
+    "phone": "0298398235",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-11T20:40:21.774395"
+  },
+  {
+    "customer_id": "4a771671-1a52-440d-9016-a6b392a6adb5",
+    "full_name": "Gilles-Arthur Prévost",
+    "email": "jacqueshamel@example.org",
+    "phone": "06 26 72 45 56",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-23T02:55:10.818719"
+  },
+  {
+    "customer_id": "d0f7b6a4-78bd-49b4-a943-f932390c46f7",
+    "full_name": "Gilbert Lefebvre Le Da Costa",
+    "email": "eugene85@example.net",
+    "phone": "04 63 58 16 22",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-16T23:43:57.340199"
+  },
+  {
+    "customer_id": "839a9d5b-62fe-46a2-80a9-078c9a975771",
+    "full_name": "Martin Le Ledoux",
+    "email": "joseph79@example.org",
+    "phone": "0555928921",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-16T10:36:17.239298"
+  },
+  {
+    "customer_id": "6a0c3eb8-ce6c-4f62-b3d9-f3ff5b961bab",
+    "full_name": "Audrey Vallet",
+    "email": "gerardmaillet@example.net",
+    "phone": "+33 2 46 78 77 70",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-27T03:14:12.486200"
+  },
+  {
+    "customer_id": "83e30e66-890b-46fd-a9f3-aa1631fc8f15",
+    "full_name": "Adrien Valette",
+    "email": "perezmarthe@example.org",
+    "phone": "+33 1 34 72 27 74",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-03T09:31:51.847486"
+  },
+  {
+    "customer_id": "3d705601-38e6-46fb-bc58-a6a390bf4278",
+    "full_name": "Martin Fouquet",
+    "email": "georges51@example.org",
+    "phone": "+33 (0)1 70 16 54 68",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-06T06:10:58.629219"
+  },
+  {
+    "customer_id": "62813bed-7a04-4edc-9b8c-39df5ade2506",
+    "full_name": "Adélaïde de la Colin",
+    "email": "jourdantherese@example.net",
+    "phone": "01 55 43 03 07",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-18T19:51:54.519547"
+  },
+  {
+    "customer_id": "b38bf7dd-88de-47e1-9097-b27676cd76d2",
+    "full_name": "Nathalie Legrand-Leleu",
+    "email": "paulbigot@example.org",
+    "phone": "0478646665",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-22T10:24:49.654772"
+  },
+  {
+    "customer_id": "8092ef17-0f29-4b65-ab51-70c47f675fc0",
+    "full_name": "Célina Baron de la Laroche",
+    "email": "claire86@example.org",
+    "phone": "+33 (0)6 34 07 49 64",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-10T13:36:16.067093"
+  },
+  {
+    "customer_id": "a260151c-0ecd-4959-9603-70b0b970abf0",
+    "full_name": "Tristan Moreau",
+    "email": "briandolivie@example.net",
+    "phone": "0385187358",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-04T16:05:16.139105"
+  },
+  {
+    "customer_id": "53ce5c88-d16a-46e5-bcf5-15091b045e4e",
+    "full_name": "Bernadette Rousset",
+    "email": "patrickhumbert@example.org",
+    "phone": "+33 (0)3 23 13 24 76",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-16T04:13:44.945960"
+  },
+  {
+    "customer_id": "e11b1120-c3fb-4e97-b4da-e1d2f1605644",
+    "full_name": "Agathe Fischer",
+    "email": "tperrin@example.com",
+    "phone": "0371278933",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-09T19:30:14.041367"
+  },
+  {
+    "customer_id": "056c53ce-ad49-40c9-bba0-ffe78b04eae8",
+    "full_name": "Gabriel Raynaud de la Thomas",
+    "email": "denisroger@example.net",
+    "phone": "+33 (0)3 73 95 42 80",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-28T01:20:51.025072"
+  },
+  {
+    "customer_id": "7c508e98-fc04-49a2-a760-d4ca635c55e4",
+    "full_name": "Lorraine Moreno",
+    "email": "marchandagnes@example.com",
+    "phone": "+33 6 51 10 86 91",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-20T17:44:39.428506"
+  },
+  {
+    "customer_id": "025be6f2-e94d-4d72-bdf1-e28d584d9f5f",
+    "full_name": "Nicole Besson",
+    "email": "jcosta@example.com",
+    "phone": "+33 (0)1 42 72 30 98",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-06T08:57:32.183526"
+  },
+  {
+    "customer_id": "f460837b-c62b-48e5-a5e7-a1a759e1f9af",
+    "full_name": "Olivier-Gabriel Morin",
+    "email": "suzanne91@example.net",
+    "phone": "06 89 16 74 17",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-28T10:58:52.663722"
+  },
+  {
+    "customer_id": "2eb64817-66bc-4c3c-9a35-4e917dd527f2",
+    "full_name": "Zacharie-Auguste Normand",
+    "email": "imbertjules@example.net",
+    "phone": "06 69 02 64 08",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-11T16:41:16.956376"
+  },
+  {
+    "customer_id": "73f4ce09-74f7-4ae0-abb7-66cf89c83bfb",
+    "full_name": "Auguste Lombard Le Bouchet",
+    "email": "ttessier@example.net",
+    "phone": "+33 (0)3 51 31 77 82",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-09T01:34:56.211052"
+  },
+  {
+    "customer_id": "d7754ac2-d3d4-4d7b-b559-6eedec1d3c11",
+    "full_name": "Denise Marques",
+    "email": "zcolin@example.net",
+    "phone": "05 59 70 85 18",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-24T16:36:03.399607"
+  },
+  {
+    "customer_id": "605301af-8a0c-4229-a2d5-6a636b9876ca",
+    "full_name": "Paulette Lefebvre de la Chauveau",
+    "email": "williamlebreton@example.net",
+    "phone": "+33 3 22 13 62 83",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-11T06:56:52.795272"
+  },
+  {
+    "customer_id": "2c20e0f0-17a8-4d74-87c6-436f756e69d8",
+    "full_name": "Josette Marchand",
+    "email": "edouard17@example.org",
+    "phone": "0442643411",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-16T21:34:22.303018"
+  },
+  {
+    "customer_id": "40f9fd18-09d4-41aa-a980-904c3a34ffa2",
+    "full_name": "Emmanuel Labbé",
+    "email": "ameliejoubert@example.org",
+    "phone": "+33 (0)3 88 97 80 20",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-04T02:49:36.763520"
+  },
+  {
+    "customer_id": "f848212f-b8af-4cbc-ba39-da1767c683e8",
+    "full_name": "Françoise du Sanchez",
+    "email": "bernadetteroussel@example.net",
+    "phone": "+33 3 59 30 88 40",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-06T23:45:39.049322"
+  },
+  {
+    "customer_id": "8d0b93ef-1b3f-4641-be40-7d5d51ad4bcc",
+    "full_name": "Alphonse Weber",
+    "email": "mariesuzanne@example.com",
+    "phone": "0324403890",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-25T08:33:20.430440"
+  },
+  {
+    "customer_id": "31190f0f-ba07-4c12-bd8c-dda6ae6621c4",
+    "full_name": "Margaux Guyon-Rivière",
+    "email": "bessonlouise@example.net",
+    "phone": "05 34 62 66 27",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-19T14:55:06.834286"
+  },
+  {
+    "customer_id": "ffafceae-64f3-4a9a-b247-54db9796327d",
+    "full_name": "Élisabeth Gomes-Mallet",
+    "email": "constancelaunay@example.org",
+    "phone": "+33 (0)7 47 72 79 92",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T10:41:21.428130"
+  },
+  {
+    "customer_id": "5d43d01d-c071-4dcc-ac5d-2f682f14fa39",
+    "full_name": "Clémence Delorme Le Breton",
+    "email": "reneeweiss@example.com",
+    "phone": "03 89 40 29 36",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-19T12:37:40.132763"
+  },
+  {
+    "customer_id": "e53137b4-e70b-4e88-9162-92c4be849ad5",
+    "full_name": "Margaret Roche-Costa",
+    "email": "bgarcia@example.com",
+    "phone": "03 45 78 77 02",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-04T07:41:45.845911"
+  },
+  {
+    "customer_id": "4b6d5cc0-9bfc-4206-8353-786f1ecffd8c",
+    "full_name": "Margaux Allard",
+    "email": "noelcharrier@example.net",
+    "phone": "+33 (0)2 18 27 45 96",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-05T18:19:16.583644"
+  },
+  {
+    "customer_id": "38980fcf-1962-4b0a-9da5-27969fe1cbc2",
+    "full_name": "Olivier Roger",
+    "email": "margot20@example.com",
+    "phone": "+33 3 51 52 58 58",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-20T08:45:39.920775"
+  },
+  {
+    "customer_id": "1ea45ef0-690f-49b8-86ed-bce0b15e380c",
+    "full_name": "Théophile Vincent-Antoine",
+    "email": "orey@example.com",
+    "phone": "0379827244",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-04-08T09:19:55.675944"
+  },
+  {
+    "customer_id": "0632da77-afa8-427a-89d0-3ac81d7d1ce0",
+    "full_name": "Claude Techer",
+    "email": "nguyenhelene@example.org",
+    "phone": "0432426833",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-05T00:39:26.962590"
+  },
+  {
+    "customer_id": "21893f95-1d12-439e-828c-ec725fe7f739",
+    "full_name": "Lucas Olivier de Meunier",
+    "email": "jeannineruiz@example.net",
+    "phone": "+33 (0)4 56 55 25 45",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-04T12:50:36.351942"
+  },
+  {
+    "customer_id": "71803f6b-4ff5-4e39-82e9-041ab04a047d",
+    "full_name": "Arnaude Duval",
+    "email": "wbaron@example.net",
+    "phone": "+33 5 19 77 04 04",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-13T13:25:25.026261"
+  },
+  {
+    "customer_id": "3bd87286-7b07-4841-afb4-c9c5ed856707",
+    "full_name": "Isaac Rousset",
+    "email": "jschneider@example.com",
+    "phone": "0188112117",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-03T07:51:42.268903"
+  },
+  {
+    "customer_id": "2fb5073f-a479-4e55-ac7b-e1bf72e7381b",
+    "full_name": "Pénélope Becker",
+    "email": "zmillet@example.org",
+    "phone": "+33 1 43 21 66 77",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-06T17:31:12.068043"
+  },
+  {
+    "customer_id": "077baeb6-05fa-42b6-a64f-f4ee4d5dce20",
+    "full_name": "Marianne Paris",
+    "email": "robertlejeune@example.com",
+    "phone": "+33 1 72 02 38 62",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-04T23:59:00.371466"
+  },
+  {
+    "customer_id": "223c73e5-c69b-4c54-b3d3-099cc44e56eb",
+    "full_name": "Claire-Corinne Lebrun",
+    "email": "margaudsauvage@example.com",
+    "phone": "01 34 69 34 32",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-23T00:48:25.343158"
+  },
+  {
+    "customer_id": "125fd489-7f67-4810-afaf-aec8f3c67ee7",
+    "full_name": "Manon Daniel",
+    "email": "louise15@example.org",
+    "phone": "0175111979",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-02T00:46:49.545150"
+  },
+  {
+    "customer_id": "733e70f8-9d4b-4a48-a3ce-09c3f3647321",
+    "full_name": "Richard du Lejeune",
+    "email": "therese05@example.com",
+    "phone": "+33 2 52 30 32 52",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-24T22:01:39.046992"
+  },
+  {
+    "customer_id": "04efb544-9a86-448c-9015-b52e5f24f33a",
+    "full_name": "Michel Dufour-Bonnin",
+    "email": "delannoyzoe@example.com",
+    "phone": "0218642434",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-19T23:11:19.104636"
+  },
+  {
+    "customer_id": "5bc901ef-cd65-48b3-bf4f-41544fa65178",
+    "full_name": "Michelle Da Silva",
+    "email": "vgrondin@example.net",
+    "phone": "+33 3 87 37 69 23",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-01T13:54:00.933198"
+  },
+  {
+    "customer_id": "0899ec8e-6a80-4030-9714-cbb2a719f9ba",
+    "full_name": "Daniel Didier de Guilbert",
+    "email": "theresecarlier@example.net",
+    "phone": "+33 7 78 57 30 42",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-09T14:04:05.449732"
+  },
+  {
+    "customer_id": "29b8ed1b-22c2-4fd0-b463-1384903796e9",
+    "full_name": "Colette Pelletier",
+    "email": "fabreaimee@example.org",
+    "phone": "+33 (0)3 52 97 71 41",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-06T14:54:46.235217"
+  },
+  {
+    "customer_id": "2a284cd7-e3bb-441a-8a8e-6c9b99879459",
+    "full_name": "Alfred-Jacques Evrard",
+    "email": "veroniquehumbert@example.org",
+    "phone": "+33 1 42 36 78 97",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-17T00:38:36.025489"
+  },
+  {
+    "customer_id": "e81b85ed-9cac-4350-af8b-21aaaffaa959",
+    "full_name": "Marine Pichon",
+    "email": "antoinebigot@example.net",
+    "phone": "+33 (0)4 70 66 93 55",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-17T22:32:28.516551"
+  },
+  {
+    "customer_id": "cfaddaca-e301-4af7-9cd4-ad40bcff8113",
+    "full_name": "Thérèse Hubert",
+    "email": "marechalaimee@example.com",
+    "phone": "0456280425",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-04-03T13:13:59.571921"
+  },
+  {
+    "customer_id": "1cbea535-e180-4ce4-aacd-45bea0443b7e",
+    "full_name": "Dominique Maillet",
+    "email": "eleonoremuller@example.net",
+    "phone": "+33 (0)3 64 04 62 97",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-10T14:51:34.954855"
+  },
+  {
+    "customer_id": "6590064e-3e64-4a8c-bc2a-d741ee2ee083",
+    "full_name": "Stéphanie Briand",
+    "email": "dbaron@example.net",
+    "phone": "+33 1 88 60 31 59",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-26T18:00:08.671106"
+  },
+  {
+    "customer_id": "296cae2a-0f31-4691-8003-d27341342985",
+    "full_name": "Chantal Lelièvre",
+    "email": "pcohen@example.net",
+    "phone": "0366397578",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-17T23:24:31.714204"
+  },
+  {
+    "customer_id": "3c74d4d0-baa1-4ecd-813a-279be16b0beb",
+    "full_name": "Susan Masson",
+    "email": "josephinebaudry@example.org",
+    "phone": "+33 (0)5 36 40 53 09",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-30T16:49:29.340811"
+  },
+  {
+    "customer_id": "6f14b632-b788-45e2-8fed-43ba69990123",
+    "full_name": "Christophe Seguin de la Dufour",
+    "email": "adelaideblanchet@example.net",
+    "phone": "0456582551",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-27T11:12:44.108491"
+  },
+  {
+    "customer_id": "a83e1939-5bc1-42e2-89dc-bd7939226676",
+    "full_name": "Gilles Seguin de la Merle",
+    "email": "ybertin@example.org",
+    "phone": "03 79 17 89 14",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-02T07:36:56.165969"
+  },
+  {
+    "customer_id": "b1b89447-36e7-4bdc-b1b8-0b459a10484c",
+    "full_name": "Nathalie Lévêque de Duhamel",
+    "email": "patrick52@example.com",
+    "phone": "01 64 27 75 69",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-11T11:40:29.253731"
+  },
+  {
+    "customer_id": "1b0201fa-98f7-4381-b8c0-5be665b0a53b",
+    "full_name": "Anastasie-Alex Pascal",
+    "email": "hamelemile@example.com",
+    "phone": "05 64 37 58 41",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-24T07:14:11.066630"
+  },
+  {
+    "customer_id": "c48b7962-e6c3-4562-8c16-16f428d69755",
+    "full_name": "Raymond Le Bigot",
+    "email": "francois18@example.com",
+    "phone": "+33 2 56 37 33 55",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-18T06:09:43.025239"
+  },
+  {
+    "customer_id": "64c6b29c-ebd0-45b9-836b-d6dd50e8e282",
+    "full_name": "Stéphane Turpin",
+    "email": "aurelieneveu@example.com",
+    "phone": "+33 3 26 66 38 31",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-23T20:28:49.418900"
+  },
+  {
+    "customer_id": "cb2a807e-cd7a-4c28-8d59-1188daa09530",
+    "full_name": "Christine Dias-De Oliveira",
+    "email": "thibaultmenard@example.org",
+    "phone": "02 32 03 97 48",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-04-05T20:40:41.640651"
+  },
+  {
+    "customer_id": "07012e61-445a-47a7-a41a-95cde8f766e3",
+    "full_name": "Léon du Lecomte",
+    "email": "roland30@example.org",
+    "phone": "05 45 42 79 37",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-27T07:14:51.393208"
+  },
+  {
+    "customer_id": "dd43e34f-e31b-43da-9f74-1068954e376c",
+    "full_name": "Sabine Lelièvre",
+    "email": "bruneaudenis@example.com",
+    "phone": "0797117607",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-01T07:26:03.466361"
+  },
+  {
+    "customer_id": "0b25d592-c518-452e-931f-9ad67e539558",
+    "full_name": "Philippine-Claudine Grenier",
+    "email": "jmaillard@example.net",
+    "phone": "+33 2 31 86 59 77",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-10T07:10:34.432577"
+  },
+  {
+    "customer_id": "ed835cad-15c0-4377-b2f9-b947d1900fea",
+    "full_name": "Pierre Bernard",
+    "email": "lemaitrejean@example.com",
+    "phone": "+33 3 56 61 57 81",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-13T15:54:23.327953"
+  },
+  {
+    "customer_id": "ca131db5-18fc-43ff-9944-f9011e18c837",
+    "full_name": "Marcel Potier",
+    "email": "schauvet@example.com",
+    "phone": "+33 4 56 52 57 14",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-18T02:06:24.089726"
+  },
+  {
+    "customer_id": "a1c5ef37-fe81-4013-b2f3-3ec5d89e6a70",
+    "full_name": "Luc Laine",
+    "email": "frederiquelacroix@example.net",
+    "phone": "+33 (0)5 61 76 76 25",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-27T21:16:17.821671"
+  },
+  {
+    "customer_id": "417cd29b-4b75-40a5-98f6-0e436c00ecfe",
+    "full_name": "Sylvie-Lucy Cordier",
+    "email": "paul64@example.org",
+    "phone": "+33 4 86 70 24 29",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-09T02:38:33.691673"
+  },
+  {
+    "customer_id": "d57c1f23-dbc9-4a13-be01-762f720cb606",
+    "full_name": "Alain-Étienne Lemonnier",
+    "email": "jourdanmaggie@example.com",
+    "phone": "0756383721",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-22T08:21:14.825912"
+  },
+  {
+    "customer_id": "7a5e29b6-00dc-4dac-a545-2f6515880a76",
+    "full_name": "Renée Le Goff-Gilbert",
+    "email": "cousinvincent@example.net",
+    "phone": "02 34 74 78 09",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-15T13:22:03.581683"
+  },
+  {
+    "customer_id": "cc4e2363-4179-41a8-b887-6c184eecc5d0",
+    "full_name": "Adrien Vallée",
+    "email": "georges54@example.net",
+    "phone": "0234539753",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-17T00:50:02.365367"
+  },
+  {
+    "customer_id": "f5ec08a5-c721-47ac-9622-4011508f6907",
+    "full_name": "Juliette Lemoine du Guyon",
+    "email": "martinedupuy@example.org",
+    "phone": "+33 3 21 93 83 37",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-06T04:47:18.057453"
+  },
+  {
+    "customer_id": "e65f160b-99aa-4542-90d8-7e5096aa4736",
+    "full_name": "Théodore Vasseur",
+    "email": "grenieraimee@example.net",
+    "phone": "+33 (0)7 37 90 37 24",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-10T11:43:27.050299"
+  },
+  {
+    "customer_id": "13018a78-dee0-4f29-87e8-d5c3eacea371",
+    "full_name": "Roger Carpentier",
+    "email": "nathaliepruvost@example.org",
+    "phone": "05 82 35 82 88",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-20T18:01:08.078140"
+  },
+  {
+    "customer_id": "d4e3c4ce-9a2c-4164-b731-15c2ccf531e4",
+    "full_name": "Étienne Le Boulay",
+    "email": "valettedanielle@example.net",
+    "phone": "0423325334",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-23T22:26:47.037521"
+  },
+  {
+    "customer_id": "1cdeadc5-83d0-4caf-acb5-9d3581ec6e0f",
+    "full_name": "Claudine-Noémi Delaunay",
+    "email": "ydelmas@example.net",
+    "phone": "03 75 26 10 34",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-04T22:45:14.341869"
+  },
+  {
+    "customer_id": "65fb7e6d-491f-46c7-b004-e153f796313e",
+    "full_name": "Vincent Perez",
+    "email": "bernardjacob@example.net",
+    "phone": "0609632778",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-09T02:07:44.086333"
+  },
+  {
+    "customer_id": "664ebf95-4a0b-4a07-84ad-48bf2397e922",
+    "full_name": "Martine Le Bouvet",
+    "email": "qgiraud@example.org",
+    "phone": "+33 5 64 58 73 38",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-02T02:55:18.270040"
+  },
+  {
+    "customer_id": "f060c535-6a50-4471-88e8-f9dc10632bb2",
+    "full_name": "Charlotte-Jeannine Becker",
+    "email": "dominiquegimenez@example.org",
+    "phone": "+33 (0)3 64 25 81 56",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T11:31:39.489932"
+  },
+  {
+    "customer_id": "52aa9cc7-fa9a-43e4-a11a-dd4755b8a23c",
+    "full_name": "Nathalie Guyon",
+    "email": "de-oliveirasebastien@example.net",
+    "phone": "+33 (0)2 96 01 66 65",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-17T09:58:14.773437"
+  },
+  {
+    "customer_id": "bd6ad085-18cc-4a7b-b58e-dcfc3c6c7451",
+    "full_name": "Lucas de la Barbier",
+    "email": "emoreno@example.net",
+    "phone": "07 44 77 54 77",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-19T10:12:34.816551"
+  },
+  {
+    "customer_id": "81c9d551-83c4-44d9-8c5d-63f605226683",
+    "full_name": "Denise Lecoq",
+    "email": "marc58@example.com",
+    "phone": "02 96 76 65 26",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-17T16:15:32.861475"
+  },
+  {
+    "customer_id": "fd5cdfdf-61a0-4f61-863e-29000f687fab",
+    "full_name": "Jean Perez",
+    "email": "hpaul@example.com",
+    "phone": "0269107747",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-01T22:01:07.742853"
+  },
+  {
+    "customer_id": "94dacbfd-85a5-4e58-a884-250fa422e1d9",
+    "full_name": "Margot Paris",
+    "email": "anne23@example.net",
+    "phone": "01 82 67 40 47",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-19T12:37:27.789900"
+  },
+  {
+    "customer_id": "2767620b-4e16-4798-be99-164ae932a08e",
+    "full_name": "Nicolas Da Costa",
+    "email": "benjamin82@example.net",
+    "phone": "04 27 69 08 30",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-07T18:34:28.821007"
+  },
+  {
+    "customer_id": "d8b3a29d-21d3-4b6a-8465-31f6b4ede95a",
+    "full_name": "Franck Pinto",
+    "email": "alexdiaz@example.com",
+    "phone": "03 88 48 51 25",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-04T15:46:44.249333"
+  },
+  {
+    "customer_id": "0cf7f087-81c3-4fb1-b8d6-ed6ff34196e8",
+    "full_name": "Michèle-Susanne Rousseau",
+    "email": "jeannine85@example.com",
+    "phone": "0631145661",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-31T14:00:11.223225"
+  },
+  {
+    "customer_id": "d2b0d45c-352f-40ea-a0b3-e83c46af787e",
+    "full_name": "Anastasie Ollivier",
+    "email": "danielelisabeth@example.org",
+    "phone": "+33 2 22 58 22 33",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-28T02:32:51.736602"
+  },
+  {
+    "customer_id": "40d1f59b-999b-4ea8-b92b-68f76bf582dc",
+    "full_name": "Victor Diaz",
+    "email": "inavarro@example.net",
+    "phone": "0386482578",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-16T14:39:50.845536"
+  },
+  {
+    "customer_id": "e2621386-8d72-43b7-946a-89a387b17466",
+    "full_name": "Susanne-Alexandria Perrin",
+    "email": "julienlombard@example.net",
+    "phone": "0352160813",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-03-17T16:22:06.212347"
+  },
+  {
+    "customer_id": "6bc6d02e-8303-4486-80ea-a7363e84bb13",
+    "full_name": "Bertrand du Lebreton",
+    "email": "david53@example.net",
+    "phone": "+33 2 31 83 44 66",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-02-07T22:37:51.978387"
+  },
+  {
+    "customer_id": "77d7cd0a-d47b-4e46-8c2c-d9f1d1f9c4f0",
+    "full_name": "Marcelle Noël",
+    "email": "robertleclerc@example.org",
+    "phone": "+33 (0)1 74 64 74 06",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-29T12:11:43.598124"
+  },
+  {
+    "customer_id": "5696917f-3016-4d83-9ec4-76a8c45e9bdd",
+    "full_name": "Thierry Hoareau",
+    "email": "brigitteperret@example.org",
+    "phone": "+33 6 03 53 25 87",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-12T08:03:08.528796"
+  },
+  {
+    "customer_id": "01631eaa-6b3e-437e-9b4a-6a58a944c9b1",
+    "full_name": "Thomas Vidal",
+    "email": "gjacquot@example.net",
+    "phone": "0356093793",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-02T07:06:34.225060"
+  },
+  {
+    "customer_id": "ecb6bf9f-9d25-4213-80d2-a1b76be7f201",
+    "full_name": "Maggie Perrier-Pascal",
+    "email": "lleveque@example.net",
+    "phone": "+33 1 46 71 94 33",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-02T04:26:42.122935"
+  },
+  {
+    "customer_id": "03d4c0a4-aba5-4aa0-814c-6da004217bf9",
+    "full_name": "Denis Tanguy-Moulin",
+    "email": "ferreirafrederique@example.org",
+    "phone": "0450007202",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-10T13:49:06.203653"
+  },
+  {
+    "customer_id": "757db88a-b3be-4d7e-b79a-e7e749dc873d",
+    "full_name": "Anne-Margaud Dupuy",
+    "email": "fcordier@example.org",
+    "phone": "0276580996",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-31T17:00:13.225205"
+  },
+  {
+    "customer_id": "33c5ceed-c5c4-415b-9429-2e28952ad4b7",
+    "full_name": "Frédéric-Thibaut Fischer",
+    "email": "massonemmanuelle@example.com",
+    "phone": "0586713595",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-05T20:34:04.463906"
+  },
+  {
+    "customer_id": "ad4c2c88-0485-4a51-9a95-b970fe38a16d",
+    "full_name": "Roland Gaudin",
+    "email": "bonninhugues@example.com",
+    "phone": "0322156949",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-31T03:52:07.938632"
+  },
+  {
+    "customer_id": "6a8afeb4-2faf-4974-90df-f7732dfa3a06",
+    "full_name": "Dorothée Briand-Mary",
+    "email": "robertbernier@example.com",
+    "phone": "+33 (0)5 46 83 28 81",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-01-14T06:17:33.692108"
+  },
+  {
+    "customer_id": "52a703a1-d260-4b42-be67-b34da5edf7e5",
+    "full_name": "Marianne Simon de la Mallet",
+    "email": "gbourdon@example.net",
+    "phone": "+33 3 80 76 07 54",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-19T14:45:42.002407"
+  },
+  {
+    "customer_id": "ed3a0e56-1dc5-49df-973d-a35fbe46bac6",
+    "full_name": "Margaux-Margaud Leleu",
+    "email": "dvallee@example.org",
+    "phone": "+33 (0)4 88 15 76 19",
+    "kyc_status": "rejected",
+    "is_deleted": false,
+    "created_at": "2026-02-18T23:37:23.421161"
+  },
+  {
+    "customer_id": "cd5eb953-be54-43d6-87d5-639d7a7607d0",
+    "full_name": "Alice Legendre",
+    "email": "perezbernadette@example.com",
+    "phone": "0188548778",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-03-20T05:37:02.012442"
+  },
+  {
+    "customer_id": "ceca4ef8-110d-43b5-9a0a-45a5c2594b46",
+    "full_name": "Colette du Olivier",
+    "email": "jeannine28@example.com",
+    "phone": "02 18 78 39 25",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-17T08:50:53.240566"
+  },
+  {
+    "customer_id": "3de44c6f-4007-4ea3-a64a-d2529e765ee5",
+    "full_name": "Marc Leclerc",
+    "email": "ypereira@example.com",
+    "phone": "+33 1 48 71 46 76",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-01-06T04:06:47.832640"
+  },
+  {
+    "customer_id": "8d26dd28-dfe9-4f6a-9180-3b10313f5e6f",
+    "full_name": "Bernard Chauvet",
+    "email": "ines09@example.net",
+    "phone": "0457816446",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-02-03T21:47:23.562508"
+  },
+  {
+    "customer_id": "a64aba1f-0a12-4440-b2b7-afc37c6f7317",
+    "full_name": "Robert Vaillant",
+    "email": "jmichaud@example.com",
+    "phone": "+33 (0)2 96 02 38 08",
+    "kyc_status": "pending",
+    "is_deleted": false,
+    "created_at": "2026-03-23T17:41:44.943249"
+  },
+  {
+    "customer_id": "0a941640-73f0-4046-941d-bd6b7e79aa9f",
+    "full_name": "Margaud Laine de Lenoir",
+    "email": "thierry70@example.net",
+    "phone": "+33 (0)2 35 35 17 12",
+    "kyc_status": "verified",
+    "is_deleted": false,
+    "created_at": "2026-01-13T07:16:05.049301"
+  }
+]

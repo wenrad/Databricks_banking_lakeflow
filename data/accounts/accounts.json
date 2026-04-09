@@ -1,0 +1,4502 @@
+[
+  {
+    "account_id": "35d8c855-aa07-4eff-a53a-d8ad702faacc",
+    "customer_id": "c1460cfc-5646-4d0b-b281-64ed7cc8a146",
+    "account_type": "savings",
+    "balance": 20240.77,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-31T06:03:14.350002"
+  },
+  {
+    "account_id": "4a1827e8-17e8-4232-a5eb-1b9cf6c66523",
+    "customer_id": "21ff5220-ff73-4631-b946-32295d82b825",
+    "account_type": "business",
+    "balance": 19818.17,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-05T06:22:30.358860"
+  },
+  {
+    "account_id": "78ff4a6b-e7f2-4480-b81f-09d66722c442",
+    "customer_id": "0c8677fc-0445-4e19-83a9-fd538f6b5dcd",
+    "account_type": "savings",
+    "balance": 31753.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-25T22:13:44.871839"
+  },
+  {
+    "account_id": "83b688a2-7e2d-4595-9192-2451dccddc8e",
+    "customer_id": "bcdbe578-f8f7-4118-aee7-6a87fa2acdab",
+    "account_type": "savings",
+    "balance": 4032.53,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-10T04:47:55.036519"
+  },
+  {
+    "account_id": "abbf1675-36c6-4baa-8c2d-8e5dedc62e21",
+    "customer_id": "6415abbd-5e55-4ec9-9ba4-b000f2b85e94",
+    "account_type": "savings",
+    "balance": 26162.38,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-21T14:14:11.578563"
+  },
+  {
+    "account_id": "f3392586-2c58-40da-b89f-37753715cb72",
+    "customer_id": "f1abc934-b9b1-49fa-a145-d46e60e37884",
+    "account_type": "checking",
+    "balance": 7196.06,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-10T01:26:41.016810"
+  },
+  {
+    "account_id": "b6353c1c-40e3-41a7-8b4e-c97cfbd09e51",
+    "customer_id": "089b3bf5-a1a5-4885-bb3f-b3958069930e",
+    "account_type": "checking",
+    "balance": 6678.28,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-06T10:31:51.807175"
+  },
+  {
+    "account_id": "5fd26fd9-f76b-4ca5-acd5-b91705b14229",
+    "customer_id": "96f5f1cb-3d51-4542-ba2a-6e32117127a6",
+    "account_type": "business",
+    "balance": 41177.72,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T08:17:38.599412"
+  },
+  {
+    "account_id": "ca848827-4d62-461e-a9c6-e2298ff39fe2",
+    "customer_id": "8728d0d1-1aec-448c-8ba8-809c9a281ee9",
+    "account_type": "savings",
+    "balance": 31202.8,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-19T08:15:06.152442"
+  },
+  {
+    "account_id": "8efae7f4-604b-4fce-96d3-7b7cfdc1ba34",
+    "customer_id": "ddcfd2df-2628-4e0b-9b1b-a91bb6bfaffd",
+    "account_type": "savings",
+    "balance": 48643.74,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-02T05:43:12.316626"
+  },
+  {
+    "account_id": "e52ed6da-a8f3-45fb-8d37-56555a71e030",
+    "customer_id": "a7620099-4e9c-4216-b308-312cc6d5e9b4",
+    "account_type": "savings",
+    "balance": 11041.26,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-10T07:29:48.501387"
+  },
+  {
+    "account_id": "f8bd4dbc-0277-4e7c-a609-c1d8f7ef4e5a",
+    "customer_id": "65f44ef8-e291-4284-8c2b-52de317fff56",
+    "account_type": "savings",
+    "balance": 28436.88,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-07T01:00:03.755082"
+  },
+  {
+    "account_id": "fb13b519-26c6-42af-8c25-8ad74f9264f1",
+    "customer_id": "1ddf4a54-bf57-4212-a4f6-c016fb8783ba",
+    "account_type": "checking",
+    "balance": 49497.86,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-04T07:57:03.588761"
+  },
+  {
+    "account_id": "68281b8f-8bcb-4da2-8b1a-5649ee59ce0c",
+    "customer_id": "ac5e7feb-98c5-4fd3-ad02-a07d79924407",
+    "account_type": "checking",
+    "balance": 17251.29,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-15T09:40:34.186114"
+  },
+  {
+    "account_id": "340c9003-0539-4792-b1f3-5597362adb5f",
+    "customer_id": "2d2e0257-a0ec-4561-ad5b-70e39088a1f1",
+    "account_type": "business",
+    "balance": 14300.58,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-07T02:11:54.759100"
+  },
+  {
+    "account_id": "1cc99ed5-48ad-4e92-aac4-4398c31b0da1",
+    "customer_id": "476cf809-3e1e-473d-8737-3f7369c28e01",
+    "account_type": "checking",
+    "balance": 30461.46,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-28T23:58:59.038958"
+  },
+  {
+    "account_id": "7bd462af-b698-4091-a9f8-fc4d95eb0296",
+    "customer_id": "f2a06222-e984-44e4-8593-fe631ba81537",
+    "account_type": "checking",
+    "balance": 3323.14,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-05T01:51:22.958979"
+  },
+  {
+    "account_id": "edfb2d0f-3e7f-4554-a218-7a84b1028087",
+    "customer_id": "fc3fd487-244c-46e8-bf8a-d9d9d7c0fa2f",
+    "account_type": "business",
+    "balance": 16897.97,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-25T23:28:07.878751"
+  },
+  {
+    "account_id": "d40e67a8-dc6e-45fe-bbd1-fa42eff9daa2",
+    "customer_id": "486a111e-f379-4361-a3bc-c64ce27ff82c",
+    "account_type": "business",
+    "balance": 32441.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-26T18:20:04.031188"
+  },
+  {
+    "account_id": "c742893d-0f15-40bc-8e77-0704107beb35",
+    "customer_id": "d7dc6f20-5724-4a7f-863b-b3505621ced9",
+    "account_type": "business",
+    "balance": 48760.93,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-11T13:30:24.469968"
+  },
+  {
+    "account_id": "aa29eabc-b15b-4489-94e3-d18e6fd98704",
+    "customer_id": "c576067b-09c0-4dd8-820f-44edbe04c8b4",
+    "account_type": "savings",
+    "balance": 23614.83,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-13T08:51:12.170855"
+  },
+  {
+    "account_id": "dd8ef23a-de21-476b-a71f-b0c58cd8f9c3",
+    "customer_id": "e4df8508-2e51-4d89-80d1-bea506906a27",
+    "account_type": "checking",
+    "balance": 7434.43,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-17T03:14:31.963808"
+  },
+  {
+    "account_id": "fe3ef8c2-c34c-4f89-a37c-8faba133aa8c",
+    "customer_id": "43706fb1-f59c-4eb5-9a62-18d79233eea9",
+    "account_type": "savings",
+    "balance": 24755.95,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-26T06:22:11.464395"
+  },
+  {
+    "account_id": "a0ff1c37-2c24-47e0-9a97-7641d5232ff3",
+    "customer_id": "bc0644eb-563d-4084-8308-b47f47c195b4",
+    "account_type": "savings",
+    "balance": 5386.08,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-26T02:12:30.036109"
+  },
+  {
+    "account_id": "1ec99b82-95f6-4cb9-ba70-3d71181ae344",
+    "customer_id": "a0bbc078-baf0-4618-9507-d74f445ba78b",
+    "account_type": "savings",
+    "balance": 25844.49,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-08T10:01:41.059012"
+  },
+  {
+    "account_id": "74c5a9fa-9ace-4f10-a4fe-47387d81f597",
+    "customer_id": "a6aaf61e-19cd-43cb-bb9b-61359f8c41a3",
+    "account_type": "checking",
+    "balance": 6268.99,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-26T01:57:31.539566"
+  },
+  {
+    "account_id": "f2efc9e9-7d45-4aee-bdeb-6819d6d4d392",
+    "customer_id": "07af24f3-3bd6-4623-96b0-f3c594f5a371",
+    "account_type": "business",
+    "balance": 15821.93,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-07T23:01:47.683266"
+  },
+  {
+    "account_id": "6b97f767-0db2-432e-9596-455c0738864c",
+    "customer_id": "f230a500-0b2a-4ad6-ab1b-af8ccab2fcf2",
+    "account_type": "business",
+    "balance": 3610.76,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-10T22:49:25.965014"
+  },
+  {
+    "account_id": "bbd33190-7c1a-4c2c-abfe-80994334569e",
+    "customer_id": "06dc5f65-3be0-4d1b-a264-36d09bb0848e",
+    "account_type": "savings",
+    "balance": 1606.2,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-31T10:23:18.492516"
+  },
+  {
+    "account_id": "41106e99-b516-4304-bee1-f69e6df2faf0",
+    "customer_id": "9c40ebbf-503f-498a-acf6-427aa4c61cdc",
+    "account_type": "business",
+    "balance": 17519.51,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-03T01:36:57.657465"
+  },
+  {
+    "account_id": "e71ca332-1d41-4599-ae45-5d7f09348c07",
+    "customer_id": "8463c2e0-1491-47f0-b9c1-810192213479",
+    "account_type": "checking",
+    "balance": 47864.5,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-17T06:13:11.683997"
+  },
+  {
+    "account_id": "1d54849e-d27c-4cb7-80c4-7c430ba84b3d",
+    "customer_id": "74cb5397-f953-4c2c-95d7-25f7dcf76f69",
+    "account_type": "savings",
+    "balance": 48656.07,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T09:41:17.720828"
+  },
+  {
+    "account_id": "a0bfb0b8-3262-4279-8f72-5d51f6a28fcd",
+    "customer_id": "3d409829-d388-436d-8d6d-46f2a5ec5faf",
+    "account_type": "business",
+    "balance": 46472.99,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-24T00:49:34.267551"
+  },
+  {
+    "account_id": "ae848507-33ef-4f74-8246-73b473ede263",
+    "customer_id": "12b905b8-76c3-4de8-99fb-8e546670dbf3",
+    "account_type": "savings",
+    "balance": 18911.07,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-07T11:59:44.107055"
+  },
+  {
+    "account_id": "92d02976-e16a-494b-9384-8d897e8a8435",
+    "customer_id": "b48d738d-ed7a-4b66-bc47-32a5f7857bc6",
+    "account_type": "checking",
+    "balance": 12515.29,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-28T16:38:54.987385"
+  },
+  {
+    "account_id": "5cf8a86b-6f64-4811-a844-8a03cf5cfc3a",
+    "customer_id": "7888f0d7-5687-4757-be9a-972769817082",
+    "account_type": "savings",
+    "balance": 2430.73,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-22T16:12:05.897971"
+  },
+  {
+    "account_id": "9ca26dfa-d3a5-4f04-bf6d-4fc2c0355324",
+    "customer_id": "ffb418d4-ada5-4a89-af11-420030cb1e40",
+    "account_type": "business",
+    "balance": 49672.28,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-18T02:25:25.605170"
+  },
+  {
+    "account_id": "5275ab77-e632-409e-8870-00a739c46fd8",
+    "customer_id": "23d43995-79ba-4046-8fe8-c3bb9b96f1a3",
+    "account_type": "checking",
+    "balance": 44381.62,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-04T18:59:03.805246"
+  },
+  {
+    "account_id": "797515df-d5be-4988-ba4b-f2f76feed5c6",
+    "customer_id": "5e11360c-d236-4c00-b5d5-9d7beab47c9c",
+    "account_type": "checking",
+    "balance": 8098.73,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-16T23:54:20.526166"
+  },
+  {
+    "account_id": "10e7d8e7-dffd-4e8a-8d99-2c2267fff62d",
+    "customer_id": "baee123e-1561-4dd6-828f-46f96cc3417a",
+    "account_type": "savings",
+    "balance": 21663.23,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-13T14:16:46.195509"
+  },
+  {
+    "account_id": "9fbf2663-80a6-40f9-90f1-a987baad52b9",
+    "customer_id": "e81a983c-5456-4afa-bc35-17f0095aea88",
+    "account_type": "business",
+    "balance": 18479.03,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-26T14:37:47.675368"
+  },
+  {
+    "account_id": "c55571f5-e30a-4e1d-961d-8d812ffe93c9",
+    "customer_id": "0b1f8e0c-5ed5-4fbd-8c6a-856ec359a97f",
+    "account_type": "checking",
+    "balance": 48.61,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-09T23:05:23.684075"
+  },
+  {
+    "account_id": "77456ed1-11b3-4212-9df8-06862c03411f",
+    "customer_id": "0644ab90-c24f-40ac-b570-1497f360e745",
+    "account_type": "savings",
+    "balance": 15550.24,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T23:18:46.008415"
+  },
+  {
+    "account_id": "7b2fff56-8459-428a-bb22-3c7afb208298",
+    "customer_id": "7c82d99d-2938-4c68-884f-06a9e91e5237",
+    "account_type": "checking",
+    "balance": 32362.93,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T15:36:02.479288"
+  },
+  {
+    "account_id": "748e36a9-feb4-44a0-9da3-f6bf809a75c4",
+    "customer_id": "7633b19d-8878-4ffc-a51f-ae9caeb60a97",
+    "account_type": "checking",
+    "balance": 19010.13,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-15T15:18:27.882043"
+  },
+  {
+    "account_id": "7ed228b6-06fc-4edd-9895-48727b69a6e2",
+    "customer_id": "e32e6818-612d-40c6-9b53-ef8b4a060413",
+    "account_type": "checking",
+    "balance": 14838.51,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-23T17:15:26.823773"
+  },
+  {
+    "account_id": "8d3ee3c9-f464-48cd-8570-1519c88a0ebd",
+    "customer_id": "43db0cbd-36aa-4565-aacc-fe9fc59c75e5",
+    "account_type": "business",
+    "balance": 9684.72,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-08T04:06:57.406062"
+  },
+  {
+    "account_id": "22a5aad3-5996-41db-82ac-c905b7558be8",
+    "customer_id": "dbed953c-f5eb-4da4-9015-e839a67b1606",
+    "account_type": "checking",
+    "balance": 4772.04,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-02T06:09:46.968885"
+  },
+  {
+    "account_id": "6b17b807-48ba-4b43-a0e5-69fcc061a9aa",
+    "customer_id": "ec6aeaa9-466a-4fe1-9a2c-07ad33be05da",
+    "account_type": "checking",
+    "balance": 5982.69,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-02T02:10:26.730255"
+  },
+  {
+    "account_id": "1e0695e5-d2d9-4fde-88d6-e84bd56a8948",
+    "customer_id": "4e53aa71-f850-456f-913d-ee757a856282",
+    "account_type": "business",
+    "balance": 33483.64,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-12T22:42:40.759697"
+  },
+  {
+    "account_id": "f3693554-4455-4c11-9a54-d56a51fe343c",
+    "customer_id": "1c2fdaf2-8b34-4e82-b77b-83f9e66ffe99",
+    "account_type": "checking",
+    "balance": 40763.25,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-24T03:49:10.155114"
+  },
+  {
+    "account_id": "f5bcbe24-d565-4f74-8aca-bd3d8c7dae20",
+    "customer_id": "e0b6c0ee-6c93-45e5-839e-76578c41f67f",
+    "account_type": "checking",
+    "balance": 17392.86,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-26T20:55:05.057359"
+  },
+  {
+    "account_id": "5c77e6ee-9a55-438e-b1c7-10531cccc43f",
+    "customer_id": "8ebfbed2-62c4-4eb0-9bb1-b6c02c786be8",
+    "account_type": "checking",
+    "balance": 46331.1,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-08T03:29:17.559323"
+  },
+  {
+    "account_id": "5469dcfc-7fe0-4113-8e28-1bf71e3f2753",
+    "customer_id": "f2b28e31-81ae-4ecc-91c1-5475c1aa69dd",
+    "account_type": "business",
+    "balance": 21918.42,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-05T12:22:27.200201"
+  },
+  {
+    "account_id": "d106b34c-0b7c-4dbc-8cad-9d2b3dc52ec1",
+    "customer_id": "d5f8f5bd-30ad-458c-9b9b-4cb66c059f29",
+    "account_type": "business",
+    "balance": 18517.12,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-19T07:59:16.961518"
+  },
+  {
+    "account_id": "3b9c0325-b311-4534-82f9-4713256c851e",
+    "customer_id": "5737beee-c03e-4fcf-b07d-55ca65ae7d64",
+    "account_type": "checking",
+    "balance": 32611.55,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-14T09:51:18.473430"
+  },
+  {
+    "account_id": "ef2ea40d-967f-412c-b0f4-e6adde1782dd",
+    "customer_id": "9f36c10f-51e6-404b-847c-43b137859a8d",
+    "account_type": "savings",
+    "balance": 6540.14,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-14T08:16:32.172562"
+  },
+  {
+    "account_id": "d6ce8710-e350-40af-91e8-7e72ec96f668",
+    "customer_id": "92fd7326-c737-47c8-ad58-f85fc25d9af9",
+    "account_type": "business",
+    "balance": 17993.97,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-02T20:50:58.277403"
+  },
+  {
+    "account_id": "4471094f-a769-4144-8847-b36d68844c57",
+    "customer_id": "b3fe2f9f-fe9b-4014-862e-80ebaf2a1425",
+    "account_type": "savings",
+    "balance": 13551.27,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-20T16:14:21.176117"
+  },
+  {
+    "account_id": "3b3c8ffe-ebc6-4b1b-bc6b-92791b8945fe",
+    "customer_id": "aac1d3a0-7316-44b3-9418-a86eb46152f6",
+    "account_type": "checking",
+    "balance": 46610.39,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T08:48:03.983817"
+  },
+  {
+    "account_id": "bb749a06-7500-490f-a0d0-29436ba891df",
+    "customer_id": "bd04505f-8dea-430e-9934-f94bfad1733e",
+    "account_type": "checking",
+    "balance": 44137.15,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-20T09:05:53.753217"
+  },
+  {
+    "account_id": "0c0fe63d-3df5-444c-9ad0-5fe8a5a2dc4e",
+    "customer_id": "7aa939ba-1b0d-4e5a-bf38-8f05b9071c70",
+    "account_type": "checking",
+    "balance": 31343.37,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-14T09:00:46.306199"
+  },
+  {
+    "account_id": "7285250a-9a13-47cf-8df5-568e759bb704",
+    "customer_id": "2a82721f-31ba-49a6-a5f8-cd21989bdf92",
+    "account_type": "checking",
+    "balance": 21153.77,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-29T03:32:33.324503"
+  },
+  {
+    "account_id": "805f37fa-616a-4ce4-ad90-989a6b0a367d",
+    "customer_id": "f4217ccb-07ab-4893-9c29-a5aca8f8f9ae",
+    "account_type": "checking",
+    "balance": 11781.35,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-24T02:33:41.792525"
+  },
+  {
+    "account_id": "95f9a96e-7554-4751-83c3-02b0bb833e20",
+    "customer_id": "15a2d5f8-65b5-43da-b835-30b9807746db",
+    "account_type": "savings",
+    "balance": 6903.46,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-09T13:04:22.573042"
+  },
+  {
+    "account_id": "5e485994-6400-4a84-b7fd-531c3a84fb20",
+    "customer_id": "90410242-b3e2-42ce-9f96-0a071460f846",
+    "account_type": "checking",
+    "balance": 29043.3,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-16T10:35:45.750466"
+  },
+  {
+    "account_id": "574625a6-98d3-4569-b688-0dfa5ae2b10c",
+    "customer_id": "601f723d-7fc9-49b1-adb7-05f0ffc90f2b",
+    "account_type": "business",
+    "balance": 11092.52,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-14T10:55:56.847680"
+  },
+  {
+    "account_id": "7953ba8f-5e19-42ae-9e7b-ede599b05ffe",
+    "customer_id": "9326e869-62b3-421e-87f5-a89b6716526d",
+    "account_type": "business",
+    "balance": 40567.67,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-11T08:51:37.594144"
+  },
+  {
+    "account_id": "5d4da4d6-4ef3-4665-a354-d903958492c8",
+    "customer_id": "395a7d69-66e8-4df7-938c-fa396592da50",
+    "account_type": "checking",
+    "balance": 32591.59,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-25T12:47:29.580186"
+  },
+  {
+    "account_id": "5b85f0ad-cd42-46b4-9624-a7cebc508941",
+    "customer_id": "54945cf2-5bb3-43ce-b500-8b9eb3baf1bf",
+    "account_type": "savings",
+    "balance": 32622.29,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-02T23:08:59.024766"
+  },
+  {
+    "account_id": "4db5070a-3e02-47fd-b17e-5e8d69dbc630",
+    "customer_id": "c4f8ffd2-b625-4f09-8028-a65669977cf0",
+    "account_type": "savings",
+    "balance": 47227.89,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-02T05:01:24.062715"
+  },
+  {
+    "account_id": "5ce42e82-e238-49fe-a257-58c7b2c9ea45",
+    "customer_id": "45012489-332d-4885-8f2a-4c5feb83be81",
+    "account_type": "business",
+    "balance": 40620.62,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-01T13:58:29.715629"
+  },
+  {
+    "account_id": "31856c2d-dc50-45b4-aa97-1259a068f3f6",
+    "customer_id": "daf030c0-0132-4c2c-809a-c751f0c2f85a",
+    "account_type": "checking",
+    "balance": 3750.52,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-03T01:16:49.033347"
+  },
+  {
+    "account_id": "60c1302e-2adb-4ff9-846f-a66141edff97",
+    "customer_id": "27a311cb-4e78-41ae-8b61-a6356a15ae71",
+    "account_type": "business",
+    "balance": 8308.1,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-12T08:38:12.220282"
+  },
+  {
+    "account_id": "04884ee2-5dca-41ac-952e-22142e57c1bc",
+    "customer_id": "407c6395-d00f-4468-a8c6-c27d4d42347f",
+    "account_type": "savings",
+    "balance": 41244.56,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-21T08:57:30.208249"
+  },
+  {
+    "account_id": "7836c47a-194d-48e7-9ba1-d4721e6d0c20",
+    "customer_id": "99464daa-7ba3-43a1-8dc5-8eb32a039b25",
+    "account_type": "business",
+    "balance": 28491.77,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T10:33:54.376196"
+  },
+  {
+    "account_id": "32978836-ee70-4657-aba9-b1a5e5121e43",
+    "customer_id": "0d277c0d-bf9f-4ee4-8108-3e996ddaa6b2",
+    "account_type": "business",
+    "balance": 31770.0,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-05T06:01:41.268360"
+  },
+  {
+    "account_id": "4cba9823-4094-45b9-b952-c1d68e4243c7",
+    "customer_id": "72d060b6-ba20-46ef-b5e9-82eeab677f3d",
+    "account_type": "business",
+    "balance": 25268.9,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T14:01:10.375846"
+  },
+  {
+    "account_id": "833d9040-6b2a-4597-b95f-c24c51077381",
+    "customer_id": "ece1f1dd-bf2c-40d4-8035-aab966e78b99",
+    "account_type": "checking",
+    "balance": 32753.67,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-11T12:32:34.700515"
+  },
+  {
+    "account_id": "b997e41e-6797-4781-a2fc-b983a87a8e44",
+    "customer_id": "5971d7c6-e396-4a9d-ab1f-891e44208ec9",
+    "account_type": "checking",
+    "balance": 41516.36,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-20T07:31:20.631509"
+  },
+  {
+    "account_id": "d0a79b2d-d18d-41be-8c7e-af94b03d732f",
+    "customer_id": "487ac813-e1ad-4071-8ddf-34330723735c",
+    "account_type": "business",
+    "balance": 28801.48,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-19T05:12:32.564386"
+  },
+  {
+    "account_id": "2e46cd38-7fe3-426a-8497-451b8945fac3",
+    "customer_id": "6283c8c9-dc65-439a-bd01-52728433ba90",
+    "account_type": "checking",
+    "balance": 31976.19,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-08T18:56:31.969207"
+  },
+  {
+    "account_id": "5a27a586-a664-470e-bccc-f6d376a78d24",
+    "customer_id": "1080a8a5-6c16-41e8-9596-7bea4324beda",
+    "account_type": "savings",
+    "balance": 40534.72,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-01T15:45:53.795327"
+  },
+  {
+    "account_id": "f29eb803-ddb5-4075-a7f1-b239d11b75b0",
+    "customer_id": "4183d1b8-334d-44ca-bdf5-a4d7608fcee1",
+    "account_type": "checking",
+    "balance": 6306.43,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-30T22:12:07.129018"
+  },
+  {
+    "account_id": "94a37859-8354-4e81-a463-83ed258a5990",
+    "customer_id": "da2c5061-077a-470c-9f4a-a58c128f6707",
+    "account_type": "checking",
+    "balance": 9070.08,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-25T17:40:39.021386"
+  },
+  {
+    "account_id": "4ad65082-d481-4337-a139-917b08c8c754",
+    "customer_id": "c6bca460-9a2b-4801-9940-3d35418b7038",
+    "account_type": "checking",
+    "balance": 16568.79,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-13T20:15:18.307679"
+  },
+  {
+    "account_id": "a0269cf6-fc51-4daf-9ad9-32e4eee7c22a",
+    "customer_id": "037aa1ce-5e58-40bf-8318-58764d1a93ba",
+    "account_type": "checking",
+    "balance": 44060.82,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-03T03:01:45.642313"
+  },
+  {
+    "account_id": "6d2afd79-b74c-444a-9c84-715625867d76",
+    "customer_id": "decaf2b4-a59c-4f28-9f5a-91a955b40098",
+    "account_type": "business",
+    "balance": 23884.53,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-23T08:02:01.887544"
+  },
+  {
+    "account_id": "0bbcd7b3-fc53-4565-8722-3fecfa00349f",
+    "customer_id": "401560ed-733e-4763-9fa6-54c2a8a38609",
+    "account_type": "business",
+    "balance": 10111.55,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-19T09:58:30.832529"
+  },
+  {
+    "account_id": "8cba2bde-7276-44eb-8ea6-46dc346543ab",
+    "customer_id": "2291b1af-c38c-4741-993a-27388f96fd96",
+    "account_type": "business",
+    "balance": 15446.62,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-15T12:16:57.656549"
+  },
+  {
+    "account_id": "6b1f97d2-3417-4029-be22-e439dd641f7d",
+    "customer_id": "4076dc59-bd69-44ca-9987-8d0dce1871e0",
+    "account_type": "business",
+    "balance": 44187.38,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-10T14:04:59.086012"
+  },
+  {
+    "account_id": "83599928-f0bd-492a-a1f3-d6bb17e07a99",
+    "customer_id": "c916cef9-b716-4c52-bc89-0646e0094c37",
+    "account_type": "savings",
+    "balance": 31214.06,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-22T23:49:31.046263"
+  },
+  {
+    "account_id": "202f08e1-6b0c-4e8b-9a9c-3ae2ddce0cb9",
+    "customer_id": "0b646722-e363-40a1-8111-f54f298956bd",
+    "account_type": "checking",
+    "balance": 41137.09,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-28T02:23:15.398639"
+  },
+  {
+    "account_id": "c31d2db8-c4f0-4e67-b9c6-2ba7b809c67f",
+    "customer_id": "6f882352-7b52-4406-9727-1f28d36a77aa",
+    "account_type": "savings",
+    "balance": 5879.81,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-27T03:53:45.840449"
+  },
+  {
+    "account_id": "f6797514-644b-479e-93fa-b948e9e15503",
+    "customer_id": "7af0b21f-3c8c-4299-af58-85a93d6a6b74",
+    "account_type": "business",
+    "balance": 49302.34,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-17T00:44:43.614548"
+  },
+  {
+    "account_id": "562dece3-0b8d-4d96-9d55-1739aa4440d3",
+    "customer_id": "01fbe1ca-0060-43eb-942b-669e87f2ca3e",
+    "account_type": "business",
+    "balance": 31781.75,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-08T11:05:27.613300"
+  },
+  {
+    "account_id": "cc10fc2e-0cea-4097-8485-aae57b9a567e",
+    "customer_id": "262ba967-625a-45a9-abb2-c874f6f89371",
+    "account_type": "savings",
+    "balance": 12398.19,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-12T21:46:39.788967"
+  },
+  {
+    "account_id": "718d3361-55c3-4de7-9a8f-ff22ed6f9f09",
+    "customer_id": "8d7b7a2e-a689-48c7-9146-e338cf366c51",
+    "account_type": "business",
+    "balance": 33356.13,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-31T13:53:26.649800"
+  },
+  {
+    "account_id": "081c9c3e-7eb1-4e3f-9559-da52cd81ad87",
+    "customer_id": "f51c88b3-14ca-4a0e-b9fa-962c4cf54505",
+    "account_type": "savings",
+    "balance": 24723.03,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T05:04:15.506854"
+  },
+  {
+    "account_id": "4588c94c-e091-440a-80d8-6349075ce992",
+    "customer_id": "8b9b3232-8b89-4f0e-ae25-996373cc0209",
+    "account_type": "business",
+    "balance": 9399.61,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-23T10:01:57.523831"
+  },
+  {
+    "account_id": "227c5cf1-2491-4f38-a6ea-c3bedb71fbe0",
+    "customer_id": "1643fd30-d394-49e7-be66-3c9551f3a986",
+    "account_type": "savings",
+    "balance": 48106.16,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T19:47:21.789575"
+  },
+  {
+    "account_id": "d6ccda6d-6541-4afb-9196-504681df9446",
+    "customer_id": "863f9a99-330e-408c-80b5-53c8c2f55074",
+    "account_type": "savings",
+    "balance": 7038.03,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-25T10:37:59.689712"
+  },
+  {
+    "account_id": "f9b5bff0-96d9-47fb-a109-41735ec33410",
+    "customer_id": "77612789-659c-4abc-bc35-096c9d22a00c",
+    "account_type": "business",
+    "balance": 9948.51,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-04T11:43:47.942627"
+  },
+  {
+    "account_id": "424f8ec9-d611-455c-b5fe-835eff207248",
+    "customer_id": "e1c7b38f-9107-4cf2-bb7c-52ea1703872d",
+    "account_type": "business",
+    "balance": 38182.45,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-19T05:33:11.421638"
+  },
+  {
+    "account_id": "31f013ca-1286-4076-9625-ccd82dd026df",
+    "customer_id": "cf002a11-4223-4ef5-b1ea-306e9c6010b8",
+    "account_type": "savings",
+    "balance": 43743.89,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-20T21:24:19.763148"
+  },
+  {
+    "account_id": "e23a5137-9a44-4eb4-8321-19a6ede5b242",
+    "customer_id": "7a3774c2-37cf-4ba0-ab14-f59e539bc099",
+    "account_type": "checking",
+    "balance": 13019.96,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-13T06:22:41.130254"
+  },
+  {
+    "account_id": "fe6a358d-2c62-4295-94da-8ee0773077d5",
+    "customer_id": "66c73778-2364-4c0e-a81d-c56df3f1b760",
+    "account_type": "business",
+    "balance": 23036.95,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-07T19:25:34.097034"
+  },
+  {
+    "account_id": "18110d01-da80-4124-aa9c-a094372935c0",
+    "customer_id": "a2692b88-e29a-456e-b430-24bc646d9620",
+    "account_type": "checking",
+    "balance": 2681.39,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-06T22:25:53.381852"
+  },
+  {
+    "account_id": "3770b1eb-384a-46e4-ab32-1b853e6a4d81",
+    "customer_id": "06d07f5d-d2e6-40c8-b366-88ef8b0f61f4",
+    "account_type": "business",
+    "balance": 32803.86,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-17T16:48:03.262000"
+  },
+  {
+    "account_id": "87b9777c-12e1-4079-b25d-1fca1ef0f044",
+    "customer_id": "399f0521-5761-4bb3-ac91-d91ce5832c50",
+    "account_type": "savings",
+    "balance": 11191.53,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T04:56:20.085057"
+  },
+  {
+    "account_id": "4858ada6-7e45-4639-bf15-9bc1f71b5a9e",
+    "customer_id": "3a4d422f-61b7-4b6c-a8db-f3a18b556aab",
+    "account_type": "business",
+    "balance": 43848.93,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-08T04:18:30.731382"
+  },
+  {
+    "account_id": "c8da7ed4-5b80-403b-8831-5a7380f7a668",
+    "customer_id": "f7bc7445-88ad-4bb7-b2bc-779a03ff94ac",
+    "account_type": "business",
+    "balance": 17641.43,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-27T19:33:59.090226"
+  },
+  {
+    "account_id": "6413a79e-0922-4512-ba7a-79aa38d3b306",
+    "customer_id": "9d2d04d4-7b6e-4940-ad9a-0e2259d105c7",
+    "account_type": "savings",
+    "balance": 1125.95,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-12T19:17:45.695050"
+  },
+  {
+    "account_id": "58190b1d-2f12-4db4-a491-bdc6ffb3c569",
+    "customer_id": "783e8d25-29bc-46b8-b440-9163a43eb0f2",
+    "account_type": "savings",
+    "balance": 2260.67,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T19:45:51.620339"
+  },
+  {
+    "account_id": "18df6875-ab59-4496-ab3e-53dddeddecbb",
+    "customer_id": "390eec04-82e9-417f-9812-47e999984740",
+    "account_type": "checking",
+    "balance": 30761.15,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-06T08:58:15.224194"
+  },
+  {
+    "account_id": "62b30c5e-11d3-46be-8a68-6aedcf905424",
+    "customer_id": "a8fdd518-7973-4efa-9941-fa47583baad8",
+    "account_type": "savings",
+    "balance": 11372.78,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-18T14:01:03.063414"
+  },
+  {
+    "account_id": "f5e08ef0-3ad0-43ea-8f95-98ac923ab9ce",
+    "customer_id": "52aba3a2-c640-45e2-acb0-6ee6be773b3c",
+    "account_type": "business",
+    "balance": 24217.71,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-03T20:00:58.933597"
+  },
+  {
+    "account_id": "880f701d-a5fb-40f9-a0dd-585922e176bc",
+    "customer_id": "53b650b0-d20a-470d-9b83-b56687f9661a",
+    "account_type": "business",
+    "balance": 32132.58,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-18T06:53:36.092383"
+  },
+  {
+    "account_id": "119a5bd1-d7d4-46fb-8b17-0b5d08087107",
+    "customer_id": "caf5c685-2e8b-4644-b2b9-9f42dac3a3f4",
+    "account_type": "checking",
+    "balance": 9233.07,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-12T15:20:12.249522"
+  },
+  {
+    "account_id": "d8482b7e-6d4d-4502-90dd-96f902be7737",
+    "customer_id": "387e1a06-9dd8-499c-8c6e-43ebb5e7dea8",
+    "account_type": "savings",
+    "balance": 2568.14,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-13T10:44:21.091731"
+  },
+  {
+    "account_id": "7288bc38-fb15-46ca-9edf-ff41be1fe0ff",
+    "customer_id": "9bc1c16f-666b-41aa-9e22-0ee4e2438c91",
+    "account_type": "savings",
+    "balance": 14615.61,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-02T11:54:03.339281"
+  },
+  {
+    "account_id": "0820e6fc-8701-47cc-9714-cbd50c2eb058",
+    "customer_id": "343c04fb-02ad-4a23-86bb-479596d70a00",
+    "account_type": "savings",
+    "balance": 43325.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-27T22:43:07.561536"
+  },
+  {
+    "account_id": "9cb4593a-6e27-4bb5-8e31-ddd659d08e73",
+    "customer_id": "7617855e-e080-45b4-b93f-f04f56e22ef7",
+    "account_type": "business",
+    "balance": 18241.25,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-18T12:20:17.207114"
+  },
+  {
+    "account_id": "480ae564-d377-4115-94f4-54a89504cdcf",
+    "customer_id": "09d26c70-22fc-4b66-bc02-400ea7ba53c4",
+    "account_type": "business",
+    "balance": 46664.18,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-20T11:35:18.353725"
+  },
+  {
+    "account_id": "be717c9a-62a4-44e5-badb-9423cbd6664b",
+    "customer_id": "a8e52447-a972-456a-942e-57d3917ad71c",
+    "account_type": "checking",
+    "balance": 17686.51,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-07T03:12:26.322161"
+  },
+  {
+    "account_id": "8ffd401a-8b27-4289-aa12-4c3c39ee8190",
+    "customer_id": "8fe0fe05-6447-42eb-950c-ac8d15df242c",
+    "account_type": "business",
+    "balance": 24454.35,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-18T01:09:37.859399"
+  },
+  {
+    "account_id": "7e14b822-abdd-4b6d-b9fa-f43eff988552",
+    "customer_id": "18c3f192-7eee-40ca-ae9d-b3b4e08cf523",
+    "account_type": "business",
+    "balance": 13972.06,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-23T20:52:48.231721"
+  },
+  {
+    "account_id": "027dfb59-9a7c-46e8-98ab-3c3d0523400a",
+    "customer_id": "2c0be77d-5ac3-422c-b0d5-ca7187b6ef23",
+    "account_type": "savings",
+    "balance": 3025.82,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-01T20:09:42.766692"
+  },
+  {
+    "account_id": "1f7fab79-7718-4649-b45b-c0bfbecbfc04",
+    "customer_id": "9af4ac03-d897-4c44-a206-c92713d285d4",
+    "account_type": "checking",
+    "balance": 41421.45,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-05T16:29:33.423954"
+  },
+  {
+    "account_id": "fc282c29-85e3-4176-bd2f-1697da06dd3f",
+    "customer_id": "2728cc14-2e9e-43c7-93a8-e7702cb792b7",
+    "account_type": "checking",
+    "balance": 32766.06,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-11T13:28:55.108663"
+  },
+  {
+    "account_id": "87ed21a6-de42-48ae-9ee4-ba481179a05a",
+    "customer_id": "f329baaf-e121-4adb-a49f-75f05574a8db",
+    "account_type": "checking",
+    "balance": 34474.94,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-05T18:34:46.030621"
+  },
+  {
+    "account_id": "e867ff9b-665e-4e3e-bd7d-99d744e54e83",
+    "customer_id": "00d9fc62-c891-4642-a7e8-90aa18ba84fa",
+    "account_type": "savings",
+    "balance": 27347.36,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-04T10:42:51.566497"
+  },
+  {
+    "account_id": "2218cd81-04c4-46e9-a34b-920f3c6341fd",
+    "customer_id": "d23fd2ae-f078-4931-9769-8518bf34bb0a",
+    "account_type": "checking",
+    "balance": 37737.87,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-08T11:11:48.458357"
+  },
+  {
+    "account_id": "32c1b011-76b1-4233-9c74-ecab662c79bd",
+    "customer_id": "c59701e6-2fb0-4c1d-9b9c-46f599bf1b67",
+    "account_type": "business",
+    "balance": 5695.26,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-01T22:33:20.662728"
+  },
+  {
+    "account_id": "a250801e-c2c4-4cb5-ad50-7756e18c057f",
+    "customer_id": "77e101a8-14c3-4378-8a8b-2607f2b1849a",
+    "account_type": "checking",
+    "balance": 32204.33,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-18T14:11:37.443046"
+  },
+  {
+    "account_id": "c71a9e42-626b-4c75-b44f-63a74110eb40",
+    "customer_id": "18dc424e-2d17-420d-9b2b-5aa6bf573fa3",
+    "account_type": "business",
+    "balance": 30700.17,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-16T19:59:18.845646"
+  },
+  {
+    "account_id": "20961129-2099-4b08-89c2-3774cfd7a5f9",
+    "customer_id": "e864f8ea-783f-4e4c-8c27-91bde4989adf",
+    "account_type": "savings",
+    "balance": 14245.61,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-21T19:29:00.827846"
+  },
+  {
+    "account_id": "4caa88db-69b2-4b8b-b18e-034ffe2fa5e8",
+    "customer_id": "8d370cb8-2d18-4b3b-bc9e-ea868609bd68",
+    "account_type": "checking",
+    "balance": 11492.38,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-29T21:46:32.296810"
+  },
+  {
+    "account_id": "a48af4b9-9894-4ac7-a9e3-2ad5648d9fa4",
+    "customer_id": "bed1a732-d5ac-4233-b4e7-6ca6444b7c70",
+    "account_type": "business",
+    "balance": 49305.62,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-13T09:09:40.830076"
+  },
+  {
+    "account_id": "bd1d0681-7608-418c-a9f7-48b8d0f43e71",
+    "customer_id": "28075089-1f3a-4b08-aa6a-dc7277da9e15",
+    "account_type": "savings",
+    "balance": 13033.38,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-21T13:32:28.903991"
+  },
+  {
+    "account_id": "c5780040-e339-4121-b0b1-7317670f4f12",
+    "customer_id": "0446ff0d-841c-478c-b57e-60e42e1d938f",
+    "account_type": "savings",
+    "balance": 9830.69,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T10:26:57.538726"
+  },
+  {
+    "account_id": "5099a09a-0d0b-495e-90e5-43862573034f",
+    "customer_id": "5ad0701e-d413-4462-873e-d130fea318b3",
+    "account_type": "checking",
+    "balance": 40920.7,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-23T17:43:29.972780"
+  },
+  {
+    "account_id": "49c6ac94-62a9-45bd-90af-e4acbbb2fac8",
+    "customer_id": "ad010518-0733-4fa5-8210-9e1a469481f2",
+    "account_type": "business",
+    "balance": 8784.3,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-17T16:48:08.395506"
+  },
+  {
+    "account_id": "9554010b-740d-4b8b-ba01-8fcf7c51cd49",
+    "customer_id": "8427d0f2-3d66-44eb-90e3-6d9e13a2880e",
+    "account_type": "checking",
+    "balance": 37807.1,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-14T12:48:11.653661"
+  },
+  {
+    "account_id": "173a672c-4cff-453a-bddf-58b62b2a2f18",
+    "customer_id": "1792cac2-d6c3-4b9f-84f3-b61dd8abb7ae",
+    "account_type": "savings",
+    "balance": 2447.45,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-27T15:11:04.113999"
+  },
+  {
+    "account_id": "bc784a93-431e-43b5-a9d1-16e7b4800b97",
+    "customer_id": "cce386ee-e5a1-420b-ad52-1f2579704e5c",
+    "account_type": "business",
+    "balance": 25910.05,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-05T02:15:18.103670"
+  },
+  {
+    "account_id": "bea45558-f784-4dde-8440-d27799166e2f",
+    "customer_id": "906561ed-d290-4db7-a7e7-bc67d3667ce3",
+    "account_type": "business",
+    "balance": 248.28,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-22T01:53:14.557156"
+  },
+  {
+    "account_id": "c409cb27-f05c-4c16-84c6-55f05f17a143",
+    "customer_id": "c1ab37dd-c639-4063-abff-5a5c89bbee0b",
+    "account_type": "checking",
+    "balance": 69.74,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-01T01:12:11.954701"
+  },
+  {
+    "account_id": "cbacec6b-7345-418e-a127-60e455181f6d",
+    "customer_id": "501f08aa-e4ca-4d00-ab46-f4c385210909",
+    "account_type": "savings",
+    "balance": 40212.39,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-02T03:47:46.818400"
+  },
+  {
+    "account_id": "aceee955-8c2a-4040-b2b4-6b5fc07f8cd7",
+    "customer_id": "2583306e-75fc-41d1-ae58-16e9013e77fb",
+    "account_type": "business",
+    "balance": 10274.65,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-06T13:28:13.216080"
+  },
+  {
+    "account_id": "fd058fba-0b04-4638-93d5-8730fb8f9bc4",
+    "customer_id": "8f27aac7-c037-4c87-8ee4-1873edef6333",
+    "account_type": "savings",
+    "balance": 26400.55,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-06T15:18:36.202661"
+  },
+  {
+    "account_id": "2feccd0c-c483-489d-beca-13ba83d88fc0",
+    "customer_id": "ef25f0e5-485a-448b-a608-59a1fd228988",
+    "account_type": "savings",
+    "balance": 37904.93,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-11T13:49:58.409424"
+  },
+  {
+    "account_id": "dbe16722-c48e-42a6-83de-2790e2939daa",
+    "customer_id": "77053bb5-c091-453b-9f17-bb96d67868fa",
+    "account_type": "checking",
+    "balance": 5286.2,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-07T17:02:04.462798"
+  },
+  {
+    "account_id": "53471a7a-100d-40cf-8ec2-4d225e5a6a19",
+    "customer_id": "690cd184-1434-4b70-a52d-145ecf091f69",
+    "account_type": "business",
+    "balance": 14180.84,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-03T00:49:09.713269"
+  },
+  {
+    "account_id": "c850e9d8-6855-41f2-8768-29c735ce7dd9",
+    "customer_id": "d8394977-dc12-40d6-8f49-00deb3855730",
+    "account_type": "checking",
+    "balance": 7461.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-07T15:09:19.692579"
+  },
+  {
+    "account_id": "d5ec7843-e993-41ff-9b26-c7cbd25c2315",
+    "customer_id": "4162280c-ac37-4185-8d1f-45e73a6ed4ba",
+    "account_type": "savings",
+    "balance": 14488.21,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-23T10:00:23.982526"
+  },
+  {
+    "account_id": "5919b647-d126-48db-b47b-367cada8627a",
+    "customer_id": "c2354c82-c386-4810-9e20-8a7657a40818",
+    "account_type": "savings",
+    "balance": 41360.71,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-20T00:43:44.794013"
+  },
+  {
+    "account_id": "127864ba-4b1e-4d00-ae6a-81cbf90b4678",
+    "customer_id": "dcf5d0d6-5797-4c83-b910-faaa02737919",
+    "account_type": "savings",
+    "balance": 15008.12,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-03T10:46:40.016541"
+  },
+  {
+    "account_id": "86a35bba-36c8-4f9a-8c0e-4a3192d891e9",
+    "customer_id": "b079b9ae-fe92-4da2-bbb3-c39058e38ceb",
+    "account_type": "business",
+    "balance": 29622.18,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-11T03:52:55.140378"
+  },
+  {
+    "account_id": "742d870d-df8f-425d-8b33-bac9c2901553",
+    "customer_id": "1459a7ff-7982-4671-8396-bd49f1e54914",
+    "account_type": "savings",
+    "balance": 46216.22,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-14T21:41:00.043184"
+  },
+  {
+    "account_id": "0c1d087d-d889-402f-b96d-0563308ecda7",
+    "customer_id": "5a6486fa-f17c-4ed7-bdd8-7478e243539a",
+    "account_type": "checking",
+    "balance": 31429.7,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-14T07:21:04.213627"
+  },
+  {
+    "account_id": "d7802d95-9f5b-41a9-b27b-c0f02ee4a08f",
+    "customer_id": "01c1f1aa-a05e-4783-aebc-4d6786deb8ff",
+    "account_type": "checking",
+    "balance": 5326.63,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-04T08:44:53.604245"
+  },
+  {
+    "account_id": "4baa34c2-0bf0-45c8-b2c4-cc19f398932c",
+    "customer_id": "2dad292d-3a5a-4764-9d8c-240feafec206",
+    "account_type": "checking",
+    "balance": 43555.65,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-25T19:16:01.714599"
+  },
+  {
+    "account_id": "0675a575-7861-4a70-a14e-4bd00cb8a46e",
+    "customer_id": "ab8bd557-f907-429b-9f1d-edbabc0ac637",
+    "account_type": "checking",
+    "balance": 18076.74,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-18T23:58:41.823163"
+  },
+  {
+    "account_id": "43bf6e31-dcaf-4cf3-883a-8744d642f86e",
+    "customer_id": "27097fd7-ffdf-4bb9-a856-4367acf9f13b",
+    "account_type": "savings",
+    "balance": 12391.49,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-07T02:13:38.200513"
+  },
+  {
+    "account_id": "22fe0dab-fc1c-4cf9-8ff4-5cc77910b348",
+    "customer_id": "07418cd8-13e3-4634-8e38-e3b7c7cb80b7",
+    "account_type": "checking",
+    "balance": 702.3,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-26T03:02:39.780046"
+  },
+  {
+    "account_id": "77ea29bb-bd4f-4d73-b182-c8c068305292",
+    "customer_id": "effed73f-6016-4abc-801f-d14152536183",
+    "account_type": "savings",
+    "balance": 43168.48,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-09T18:45:43.910592"
+  },
+  {
+    "account_id": "e5490cf2-e687-4f03-b7aa-d44025dccc3c",
+    "customer_id": "eb22e7da-adc4-4dee-b11f-bde61006eb07",
+    "account_type": "savings",
+    "balance": 41105.75,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-01T04:46:23.760430"
+  },
+  {
+    "account_id": "142fb1b5-32c8-4596-92c0-94607df66b1d",
+    "customer_id": "7b0347fa-b46e-4d87-805a-692343250e1b",
+    "account_type": "checking",
+    "balance": 36535.2,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-06T03:07:48.157490"
+  },
+  {
+    "account_id": "3aa8d1ff-696e-4b2c-a95e-1eb6683156d0",
+    "customer_id": "fc578c76-51d8-4432-86cf-240a3f78700e",
+    "account_type": "business",
+    "balance": 9432.36,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-30T17:29:01.793926"
+  },
+  {
+    "account_id": "02f0726c-fb43-4062-be5d-60e4163a0bd3",
+    "customer_id": "2c7fd95e-daa3-41fe-aa80-c140062e3c14",
+    "account_type": "business",
+    "balance": 25511.31,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-23T13:48:17.988561"
+  },
+  {
+    "account_id": "a8553b97-4ef6-48e2-86dd-1fa7147a6f8e",
+    "customer_id": "86607ad6-4d60-4231-9d28-e8049723e469",
+    "account_type": "business",
+    "balance": 38586.52,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-10T03:40:39.009641"
+  },
+  {
+    "account_id": "5a68e54c-d016-4394-bb20-9e8f28ee5520",
+    "customer_id": "dc301fb6-eda3-4135-9d0f-49a01a25e2a9",
+    "account_type": "savings",
+    "balance": 49571.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-10T15:22:22.676852"
+  },
+  {
+    "account_id": "0c77b8e1-4700-4dd1-a8c2-72164406bf18",
+    "customer_id": "531543fc-a956-4712-ad26-8035500016fe",
+    "account_type": "savings",
+    "balance": 33989.67,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-22T05:43:19.823556"
+  },
+  {
+    "account_id": "1600c409-81db-44e7-ba11-1885e4866a53",
+    "customer_id": "f5c8d856-dba1-4c00-b43c-386f29ca43ba",
+    "account_type": "business",
+    "balance": 13427.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-07T05:22:27.264368"
+  },
+  {
+    "account_id": "730e47f1-fef3-4039-affc-0363416dc83e",
+    "customer_id": "1fadd3cc-265f-4b84-8306-c4f1b60a1cd3",
+    "account_type": "savings",
+    "balance": 36546.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-19T13:02:43.521415"
+  },
+  {
+    "account_id": "f73a948a-c8fe-4fd8-8804-6c84c2aa903a",
+    "customer_id": "15bed8dd-f38b-440d-882b-4f4c69db46f6",
+    "account_type": "savings",
+    "balance": 9382.08,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-05T21:50:02.367505"
+  },
+  {
+    "account_id": "013a090f-b040-4743-ac14-a27d3e54bad2",
+    "customer_id": "85c31070-f71b-426d-b208-1d0949bcbb81",
+    "account_type": "checking",
+    "balance": 4905.62,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-20T04:53:53.719906"
+  },
+  {
+    "account_id": "aaa8fe42-b83f-4b89-85aa-dbaa8e3a6ba6",
+    "customer_id": "eb98df1d-778c-41c3-b2c6-ab2efc8839d1",
+    "account_type": "checking",
+    "balance": 6729.59,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-17T15:34:11.221152"
+  },
+  {
+    "account_id": "1f24355f-805b-429d-9047-741cd53f4f31",
+    "customer_id": "682c4797-4bc8-4f02-a258-6e496951ab58",
+    "account_type": "checking",
+    "balance": 48576.86,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-13T05:14:38.795239"
+  },
+  {
+    "account_id": "43a23773-3602-4489-9f0a-48f204da7be7",
+    "customer_id": "e658da2b-456d-4948-b29f-734769c8cd60",
+    "account_type": "savings",
+    "balance": 20175.51,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-18T19:03:10.263219"
+  },
+  {
+    "account_id": "e75fd774-5541-4b33-b2dc-d2357eee1e27",
+    "customer_id": "af3a794d-ffde-4778-8fcd-b175f85a70d8",
+    "account_type": "savings",
+    "balance": 6155.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-16T03:57:24.682731"
+  },
+  {
+    "account_id": "c01314e0-05a4-4e08-b3e4-f2e8e2633c03",
+    "customer_id": "2758fbed-f54d-448d-b049-8c1f2ac48942",
+    "account_type": "business",
+    "balance": 16315.71,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-04T13:18:14.612977"
+  },
+  {
+    "account_id": "805427d3-bcc1-49e8-9bad-abeca124c1d4",
+    "customer_id": "73a658da-efa5-4bad-af43-6d2781a76a1c",
+    "account_type": "business",
+    "balance": 1088.64,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-28T03:15:46.620567"
+  },
+  {
+    "account_id": "485142d0-0509-4b27-a7cf-af3057be78bb",
+    "customer_id": "2f326849-a136-42e5-9067-b9a86441e588",
+    "account_type": "checking",
+    "balance": 36347.07,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-07T18:30:31.054279"
+  },
+  {
+    "account_id": "2fb965d0-b4cd-4b33-a401-5d4b0864983d",
+    "customer_id": "80068d34-fe99-4299-b6ac-07ebbe0d4aa7",
+    "account_type": "checking",
+    "balance": 2546.89,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-18T11:32:56.363762"
+  },
+  {
+    "account_id": "64c3e6f3-e39b-40be-876a-4e71e7c9fed4",
+    "customer_id": "d34cacaf-9944-45a8-936a-c5e36bfe3bc1",
+    "account_type": "business",
+    "balance": 32457.36,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-07T12:39:01.804027"
+  },
+  {
+    "account_id": "0a55782e-3aa5-4658-b8a4-a3403637587f",
+    "customer_id": "f8f5ca63-e18d-4f9d-9d1e-27f0a15e6a10",
+    "account_type": "checking",
+    "balance": 41700.32,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-08T05:53:49.856396"
+  },
+  {
+    "account_id": "7d689993-19b5-4a22-918f-1f435f942009",
+    "customer_id": "56ef2245-e4f0-40df-8e62-624f8575f8e0",
+    "account_type": "savings",
+    "balance": 15688.63,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-19T16:52:20.759783"
+  },
+  {
+    "account_id": "c1d34fdb-8885-4df0-b6ea-daf023a3c02f",
+    "customer_id": "251fb7dc-35e6-46f8-99ff-5fb684531f0b",
+    "account_type": "savings",
+    "balance": 47574.77,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-29T21:00:55.968497"
+  },
+  {
+    "account_id": "a0506171-26bf-48ba-8dfe-766167085512",
+    "customer_id": "5c56a460-d386-451a-97a8-8d7020be2101",
+    "account_type": "savings",
+    "balance": 43418.49,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-03T17:21:19.857647"
+  },
+  {
+    "account_id": "34db499b-43b4-4bd1-8f0c-64827bd52afb",
+    "customer_id": "0799ac24-fb2f-4d51-9abb-69ecf00ba33d",
+    "account_type": "checking",
+    "balance": 17294.83,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-12T21:05:10.699662"
+  },
+  {
+    "account_id": "891687b7-d65a-4a0e-89c1-8e49f65ef9bf",
+    "customer_id": "8453f58c-0e53-45be-a27e-d54a9ebb8969",
+    "account_type": "business",
+    "balance": 2668.79,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-13T20:21:52.933290"
+  },
+  {
+    "account_id": "f7add99a-33ea-484a-84a4-1eab860d7287",
+    "customer_id": "5d1e3175-255a-4d27-aad6-bc1de32d9b06",
+    "account_type": "savings",
+    "balance": 34873.42,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-14T19:34:34.482665"
+  },
+  {
+    "account_id": "3fc90326-4309-491b-ae4f-b1eeeaab7491",
+    "customer_id": "b2b7e015-6079-4bc0-8d3a-dfc63caa0055",
+    "account_type": "checking",
+    "balance": 36314.97,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-03T22:12:39.368331"
+  },
+  {
+    "account_id": "30b5f1d2-479b-4df7-972d-d0aef43f7db9",
+    "customer_id": "50b18976-0ae9-451d-9665-47c8d13a7f83",
+    "account_type": "checking",
+    "balance": 5108.54,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-28T16:45:57.642443"
+  },
+  {
+    "account_id": "02429a2f-9eec-402a-b228-20c8a997a5c8",
+    "customer_id": "3d98eb54-2f1f-41af-8fab-addd444bb3f7",
+    "account_type": "business",
+    "balance": 48246.17,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-19T07:47:21.436714"
+  },
+  {
+    "account_id": "86193aa2-cd92-4994-ae84-e4ed409989e8",
+    "customer_id": "4552a0ec-5e91-4f37-8693-22b7d6a77c7e",
+    "account_type": "savings",
+    "balance": 19448.39,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-21T16:35:46.809354"
+  },
+  {
+    "account_id": "1a14360b-3b8f-451d-b25d-326dd3938655",
+    "customer_id": "962b4b65-cba1-41c2-898c-5fbd91ef2b3d",
+    "account_type": "business",
+    "balance": 33092.99,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T18:55:43.131124"
+  },
+  {
+    "account_id": "edf20e6c-4c08-45b4-811d-7f0c5171df7f",
+    "customer_id": "23393f3e-b08d-42d8-9e98-97e3e5f7f585",
+    "account_type": "business",
+    "balance": 30170.0,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-24T22:47:59.504378"
+  },
+  {
+    "account_id": "a29a2f4e-39b4-4d1a-8c02-a14153af44db",
+    "customer_id": "1a669c33-3ae3-45c0-a0c0-d0638e969bc0",
+    "account_type": "business",
+    "balance": 33030.09,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-25T05:09:11.429263"
+  },
+  {
+    "account_id": "f252a671-cb04-49ab-b64f-8d5ccea3ed57",
+    "customer_id": "27132b67-4850-4336-ad83-f661219a9e3e",
+    "account_type": "savings",
+    "balance": 43621.83,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-19T20:14:58.858462"
+  },
+  {
+    "account_id": "76274440-5bae-4da7-918f-e6e5972622b6",
+    "customer_id": "1e088d4b-b78d-4c3b-8453-1a1384101979",
+    "account_type": "checking",
+    "balance": 12994.66,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-27T05:28:16.570102"
+  },
+  {
+    "account_id": "a1eb7189-e9f3-418a-a237-de5a744ae542",
+    "customer_id": "47930d88-e38a-4674-a23a-65acef6db80a",
+    "account_type": "business",
+    "balance": 49817.16,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-11T15:40:32.692436"
+  },
+  {
+    "account_id": "f7eb113b-917f-46c7-8405-81a2a4a0f73f",
+    "customer_id": "9db58b5c-e84d-45e4-b8ab-698fcd3e1c46",
+    "account_type": "savings",
+    "balance": 13132.35,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-23T01:46:16.630135"
+  },
+  {
+    "account_id": "9978eb8e-f025-4d78-864a-710eda476c8d",
+    "customer_id": "c14d2f2b-d400-4da1-8e73-153cedcf2d04",
+    "account_type": "savings",
+    "balance": 31932.49,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-12T07:30:20.772012"
+  },
+  {
+    "account_id": "367de48e-f5bc-4993-9cef-776b1086fea8",
+    "customer_id": "4f861404-a6ae-4da4-8999-562ad2b2f1f0",
+    "account_type": "savings",
+    "balance": 47282.7,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-12T00:25:27.315352"
+  },
+  {
+    "account_id": "8ba39f08-316a-4d75-9068-3285cce5b18c",
+    "customer_id": "ec605387-c753-4b38-be4e-065e6e1193fc",
+    "account_type": "checking",
+    "balance": 38643.19,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-13T04:15:49.526940"
+  },
+  {
+    "account_id": "f934b031-a36e-476a-bce9-ac6e3e9d81e4",
+    "customer_id": "f44d2c16-9739-4645-9534-e7fa4dcf179f",
+    "account_type": "savings",
+    "balance": 48985.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-13T03:16:51.878288"
+  },
+  {
+    "account_id": "f734aa20-7ccc-495a-ac22-36d867c2ce28",
+    "customer_id": "0be613a7-6a96-4a8a-8369-9469ca91e870",
+    "account_type": "checking",
+    "balance": 2306.63,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-17T13:19:04.682286"
+  },
+  {
+    "account_id": "344274b8-9752-4830-93da-3a4cccf9a041",
+    "customer_id": "95452af6-b7ec-4fbc-b359-64c9359c1904",
+    "account_type": "savings",
+    "balance": 24699.24,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-01T06:32:48.367076"
+  },
+  {
+    "account_id": "84c64857-4a79-4de3-88bf-d5829e63a864",
+    "customer_id": "bf7b24e4-0a77-4e33-a915-1ffb10a35169",
+    "account_type": "business",
+    "balance": 49111.97,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-20T06:56:38.358158"
+  },
+  {
+    "account_id": "4136eb8f-27a2-4eb0-8389-d371abd6ba13",
+    "customer_id": "09ea3e88-89db-4cb7-9fb4-cdc8496d4ba7",
+    "account_type": "business",
+    "balance": 33663.43,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-09T21:41:33.552364"
+  },
+  {
+    "account_id": "ace1f5b8-6340-4ede-8c6f-4634df94dd5c",
+    "customer_id": "c05d8984-cca0-4a3e-bdc1-00e6816777d4",
+    "account_type": "checking",
+    "balance": 19342.94,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T14:32:30.029714"
+  },
+  {
+    "account_id": "1891b804-2691-4af5-b625-aade41bc67cc",
+    "customer_id": "cbbbc556-3a4c-4dfb-a533-1b3842151ada",
+    "account_type": "savings",
+    "balance": 37452.98,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-05T01:09:22.870443"
+  },
+  {
+    "account_id": "d67c6bbf-4b2d-46c5-9fd3-a4e2fe00c379",
+    "customer_id": "f0df7fd9-9d58-4b5b-b279-774afe5a2915",
+    "account_type": "checking",
+    "balance": 27520.42,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-07T22:33:39.348030"
+  },
+  {
+    "account_id": "7d887916-6cf9-4314-bd86-ad07a164787d",
+    "customer_id": "18cb9122-f94d-4a1d-a0ce-626c2280c15e",
+    "account_type": "savings",
+    "balance": 41708.41,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-31T12:05:32.589467"
+  },
+  {
+    "account_id": "1e02005f-b8d4-4ba1-bb67-5dfca304c546",
+    "customer_id": "66b4de21-882f-43d3-9326-7e7a9bb40398",
+    "account_type": "savings",
+    "balance": 15703.69,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-08T12:40:26.501385"
+  },
+  {
+    "account_id": "aa1b0c43-1e2c-4dbe-95b7-0f324cca233e",
+    "customer_id": "3732f417-0614-4499-80cc-6118efb528ef",
+    "account_type": "business",
+    "balance": 42296.17,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-09T19:57:43.707267"
+  },
+  {
+    "account_id": "c76fc6f4-999f-4903-8d9f-34548e868f88",
+    "customer_id": "9fdcab31-440f-450e-87e5-490acb3c4cf4",
+    "account_type": "checking",
+    "balance": 32023.32,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-11T19:06:11.739597"
+  },
+  {
+    "account_id": "0fe67ac0-97c4-48fd-a86f-c8820cc759e6",
+    "customer_id": "e948cb3e-1c85-4daf-9d61-604871299c59",
+    "account_type": "savings",
+    "balance": 34644.04,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-09T19:56:49.495543"
+  },
+  {
+    "account_id": "ca2ffa70-259f-40fe-ba05-3a00585c91fc",
+    "customer_id": "0b3510b0-6e0d-4147-8944-aa8aa9850a45",
+    "account_type": "savings",
+    "balance": 781.15,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-21T07:19:06.848813"
+  },
+  {
+    "account_id": "2f313266-e471-4abb-ab97-e379528e38b8",
+    "customer_id": "b7f3443c-000d-4fcb-b1d2-0f5ae09f0435",
+    "account_type": "savings",
+    "balance": 13761.91,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-25T07:54:01.111072"
+  },
+  {
+    "account_id": "1bf2b486-ee90-4e3f-b9ad-41193ce846be",
+    "customer_id": "37da1840-87c6-44a6-9cd6-0b7a48ca90e1",
+    "account_type": "savings",
+    "balance": 27580.65,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-04T10:18:13.220120"
+  },
+  {
+    "account_id": "40656c7c-020c-4e7a-a0c3-b4a59368cfb5",
+    "customer_id": "c82f8f91-791f-467e-b427-4496384cb8d9",
+    "account_type": "savings",
+    "balance": 30654.65,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-03T19:54:50.813130"
+  },
+  {
+    "account_id": "656c7f58-af22-4267-9e5a-af263ebe194d",
+    "customer_id": "836b3ef2-a7d6-4426-8bca-c55eaa9c6f01",
+    "account_type": "savings",
+    "balance": 22407.45,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-13T11:30:02.329736"
+  },
+  {
+    "account_id": "e8f26848-cfaf-4988-84ac-e5c328593de4",
+    "customer_id": "6a6306e9-6e67-4d49-9a13-0036df281cd0",
+    "account_type": "business",
+    "balance": 1526.02,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-10T02:12:55.338421"
+  },
+  {
+    "account_id": "d12bdf56-d5c4-444b-8f67-aedd0a4435ba",
+    "customer_id": "5110d39c-4158-4960-9155-c8d719fbfed7",
+    "account_type": "checking",
+    "balance": 5698.57,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T16:01:58.267086"
+  },
+  {
+    "account_id": "b5f49855-e1cf-4b02-93a2-cdfa6c8364ef",
+    "customer_id": "39018263-6a15-412a-a715-537fdfde7cc2",
+    "account_type": "savings",
+    "balance": 27983.41,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-28T03:09:56.893516"
+  },
+  {
+    "account_id": "1d1b6118-217d-4ebd-b91f-0ac3eb644642",
+    "customer_id": "654ceac7-ccea-40b7-8fff-dbcd033daab8",
+    "account_type": "checking",
+    "balance": 17090.56,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-17T22:19:11.893803"
+  },
+  {
+    "account_id": "d059e791-ac31-4e5c-9aa1-bf296a66e926",
+    "customer_id": "581a1d29-ca02-47c4-a36c-1436d79880ea",
+    "account_type": "business",
+    "balance": 4002.03,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-11T16:35:19.143151"
+  },
+  {
+    "account_id": "5d2810f8-3d55-457b-9a50-092c5a6346c5",
+    "customer_id": "cec7169d-88bd-43cd-a5a1-28b730508433",
+    "account_type": "checking",
+    "balance": 20628.67,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T23:33:05.662598"
+  },
+  {
+    "account_id": "d2e092c8-1fc8-4fd3-95f7-b4dab1d30d42",
+    "customer_id": "0426be5d-42f6-4cf8-9c71-eef200c9087b",
+    "account_type": "business",
+    "balance": 1767.75,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-19T23:55:11.153135"
+  },
+  {
+    "account_id": "1e8d9eb3-3c3b-4e86-81c8-9b495e2bcbea",
+    "customer_id": "6d22f7d9-b404-49d3-8a35-f9e13f464f52",
+    "account_type": "savings",
+    "balance": 4083.15,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-23T07:23:36.162937"
+  },
+  {
+    "account_id": "b4679894-70d8-4d29-a550-29746f53f0af",
+    "customer_id": "82419453-db60-4a4b-9b76-086a3d4f7258",
+    "account_type": "business",
+    "balance": 15576.71,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-11T09:47:01.764924"
+  },
+  {
+    "account_id": "65f4686e-6602-49ca-8d59-bc56618ff650",
+    "customer_id": "c84eb788-ac96-4ec9-b602-bbfe14f63fe7",
+    "account_type": "checking",
+    "balance": 10744.46,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-28T19:25:55.014522"
+  },
+  {
+    "account_id": "d5faa0b1-002f-4943-ab7b-bc2dd2ec9119",
+    "customer_id": "2cda3aa2-264e-4a9e-bb90-e0710e31d378",
+    "account_type": "savings",
+    "balance": 13613.6,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-13T17:50:21.412011"
+  },
+  {
+    "account_id": "75c8b30d-6634-48d8-8f76-aff1b29fac17",
+    "customer_id": "8c91ac78-1532-47fe-b6bf-d7e0c47dc64c",
+    "account_type": "business",
+    "balance": 3589.34,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-13T01:04:41.470058"
+  },
+  {
+    "account_id": "d0c7cd23-f917-462e-ada4-6c788d92696e",
+    "customer_id": "12f4d0a8-a2a5-44fb-80d9-9832bb012c9e",
+    "account_type": "savings",
+    "balance": 32660.94,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-25T01:24:09.614215"
+  },
+  {
+    "account_id": "6a53710d-24c4-44be-b47e-ff5d6399bcae",
+    "customer_id": "63739840-8c0f-472e-94df-c810eb1255bb",
+    "account_type": "savings",
+    "balance": 40814.95,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-30T21:48:10.952715"
+  },
+  {
+    "account_id": "e2f8051b-f6d1-48df-af37-b447a5328e27",
+    "customer_id": "3be24fb8-49d8-4b6f-8102-daa49e5f9fc3",
+    "account_type": "checking",
+    "balance": 25737.31,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-28T17:41:08.901819"
+  },
+  {
+    "account_id": "1698cb32-48a8-49ac-8299-a05ac0460307",
+    "customer_id": "4c2ab6d5-dbde-4028-b03c-18d47ef06e8e",
+    "account_type": "savings",
+    "balance": 20219.19,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-27T17:38:20.801641"
+  },
+  {
+    "account_id": "9a67321a-b0ed-494f-a4c1-18aa042ca4df",
+    "customer_id": "cddd3094-9d65-4dbb-ba12-122cf24203e9",
+    "account_type": "business",
+    "balance": 13796.24,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-28T18:43:26.363617"
+  },
+  {
+    "account_id": "0dc53b75-1c0f-4cf2-b7ec-527a1c77db80",
+    "customer_id": "3822fef3-2207-43f0-99f0-81344093b3a2",
+    "account_type": "savings",
+    "balance": 38211.01,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-10T07:12:26.816469"
+  },
+  {
+    "account_id": "667ea780-7d3a-40ec-90f2-9ecdedaadd4e",
+    "customer_id": "1285b923-2845-47bb-b71f-950ad6602ee9",
+    "account_type": "business",
+    "balance": 26189.87,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-28T17:56:50.709980"
+  },
+  {
+    "account_id": "2c0b8f0f-6e18-4d1a-9d88-d6e2c49e30de",
+    "customer_id": "7334ddca-f9ba-4007-94a0-7f3554a1a006",
+    "account_type": "checking",
+    "balance": 10486.12,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-25T16:31:36.207116"
+  },
+  {
+    "account_id": "440e5f8d-8e87-4be3-ac24-5b8253d20742",
+    "customer_id": "9a505007-d5b7-49b7-95e2-bf7bdad2a399",
+    "account_type": "business",
+    "balance": 31866.52,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-08T15:20:29.273309"
+  },
+  {
+    "account_id": "9334510b-e198-430f-a3e4-735955710440",
+    "customer_id": "55c4c317-9a43-40cd-a7a8-cd7d426a8705",
+    "account_type": "savings",
+    "balance": 49392.09,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-10T03:27:10.555121"
+  },
+  {
+    "account_id": "caa565a6-1fcd-4288-9691-f46439078e08",
+    "customer_id": "2ab481bc-4f46-4478-bc78-42c3420bb0ba",
+    "account_type": "checking",
+    "balance": 40006.16,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-24T22:39:13.026776"
+  },
+  {
+    "account_id": "7b27748d-8b62-4b62-9cd0-06bd1ca5e899",
+    "customer_id": "2bd12849-fa49-4696-9d78-051ef9e7f950",
+    "account_type": "savings",
+    "balance": 34624.22,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-04T19:47:10.279558"
+  },
+  {
+    "account_id": "2adbfd27-e935-4ad0-9831-db5a8909957f",
+    "customer_id": "10aae6f3-8b63-4699-908e-cdedb534ea9c",
+    "account_type": "business",
+    "balance": 5062.21,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-14T03:22:34.838628"
+  },
+  {
+    "account_id": "a4eed817-9d71-43b2-91b1-48027e802659",
+    "customer_id": "da144cc3-ddaf-4389-969c-64905844f478",
+    "account_type": "savings",
+    "balance": 25127.34,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-23T08:59:28.788551"
+  },
+  {
+    "account_id": "f24e0a40-145e-46ae-a2cc-5fa29464f2f4",
+    "customer_id": "4cbb7d98-fb54-402c-a546-5068623476fd",
+    "account_type": "savings",
+    "balance": 39636.52,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-07T04:59:07.598255"
+  },
+  {
+    "account_id": "8e370f47-0894-47d9-ab96-9e3075583e1d",
+    "customer_id": "ca80ec54-17fa-4704-a8a6-d0a18d6df44b",
+    "account_type": "business",
+    "balance": 23296.27,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-19T03:42:05.835251"
+  },
+  {
+    "account_id": "e76819ce-5d0e-43d0-b230-f97e13ed0ade",
+    "customer_id": "399cfd26-f74e-4265-8e24-e687b8c14bcb",
+    "account_type": "savings",
+    "balance": 2916.57,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-14T16:02:20.287848"
+  },
+  {
+    "account_id": "a50ac289-2ed2-4383-a3c8-ffd82652ca12",
+    "customer_id": "752f25ff-6f0c-4943-ac62-d1285cd6a1f1",
+    "account_type": "business",
+    "balance": 9754.06,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-29T13:37:30.584998"
+  },
+  {
+    "account_id": "6a7f3786-56ce-4ea3-82d9-41a80e7784a7",
+    "customer_id": "34034c74-1613-4cd6-93ae-6764d4c588ee",
+    "account_type": "checking",
+    "balance": 14834.91,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-26T19:06:28.394108"
+  },
+  {
+    "account_id": "ffe80da2-9ae1-4c27-b74a-477fb81181c3",
+    "customer_id": "090e8429-1cd8-4f0b-b5dc-2866b9e69924",
+    "account_type": "checking",
+    "balance": 19048.88,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-07T17:08:36.418797"
+  },
+  {
+    "account_id": "cf73e793-d56f-46af-b451-aba97361db90",
+    "customer_id": "52672b1c-d363-4a3a-bb9b-80689215aff8",
+    "account_type": "business",
+    "balance": 17361.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-22T02:50:34.050920"
+  },
+  {
+    "account_id": "298a65c6-3a9b-40c3-89de-1c847ec2d6b8",
+    "customer_id": "b0df2f17-a0df-43ac-adb2-17bc6ce378f5",
+    "account_type": "savings",
+    "balance": 20647.04,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-07T00:15:20.538678"
+  },
+  {
+    "account_id": "ca08035b-02e0-436d-97d9-a21eb117af8a",
+    "customer_id": "e2240884-c4d4-4c31-8c58-011d2b48d003",
+    "account_type": "business",
+    "balance": 22782.56,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-20T08:33:37.313386"
+  },
+  {
+    "account_id": "755c8e2b-d9bf-4bdf-9cb6-69c46919927e",
+    "customer_id": "c56828f7-dd74-45da-8d7e-729d6996cbae",
+    "account_type": "checking",
+    "balance": 12675.56,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-04T07:32:07.091874"
+  },
+  {
+    "account_id": "6870b185-7d04-4629-8bd1-a160d74d0338",
+    "customer_id": "7708619c-d5b7-4e76-baa7-0b75c2e8b7ce",
+    "account_type": "business",
+    "balance": 30204.51,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-22T23:12:18.646322"
+  },
+  {
+    "account_id": "805b8afe-339e-41bb-8cab-d4bd536a8377",
+    "customer_id": "ebdd01dd-e526-4e1f-a4eb-419dfc3789d0",
+    "account_type": "checking",
+    "balance": 49152.3,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-09T14:00:56.379232"
+  },
+  {
+    "account_id": "593a99b1-b9be-44c6-af7d-7a53259b2a3c",
+    "customer_id": "da9fb76c-998b-45ec-934b-802c2108dcd7",
+    "account_type": "business",
+    "balance": 18943.32,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-22T20:35:37.994854"
+  },
+  {
+    "account_id": "4509af2e-ccfd-4c75-870b-60d93cf09adc",
+    "customer_id": "acc17932-42ea-49f4-b937-939b06b4f51f",
+    "account_type": "savings",
+    "balance": 24055.52,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-02T13:21:18.699361"
+  },
+  {
+    "account_id": "ad8cb9f2-6bbb-4d51-ba1c-04647d196997",
+    "customer_id": "5cf1da2c-7de5-4828-9af1-cf0f1f031653",
+    "account_type": "savings",
+    "balance": 44407.29,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-15T01:36:52.224713"
+  },
+  {
+    "account_id": "85fe9aa0-6f77-45ab-ae08-ad8ebc28fe8d",
+    "customer_id": "280da24d-00d1-4aeb-be6d-d1f9b7429dac",
+    "account_type": "checking",
+    "balance": 7946.59,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-01T10:07:39.508561"
+  },
+  {
+    "account_id": "ae61445c-255c-4315-b7d7-3000bb190d37",
+    "customer_id": "ee87d6ae-a990-46dd-a605-ef42b5fe2b71",
+    "account_type": "savings",
+    "balance": 12925.18,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-30T17:01:45.647449"
+  },
+  {
+    "account_id": "f411c782-cd9e-4210-ad27-c323a457667c",
+    "customer_id": "cb3e9aed-0fcc-4329-8be1-eaaafec64b86",
+    "account_type": "checking",
+    "balance": 21999.92,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-19T11:47:49.955866"
+  },
+  {
+    "account_id": "196b5051-8450-4078-994d-882842904b8e",
+    "customer_id": "4151a38b-c7ca-4218-9434-7e4ef203410a",
+    "account_type": "checking",
+    "balance": 45838.66,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-04T15:15:26.413359"
+  },
+  {
+    "account_id": "7cac7410-fedc-432d-8147-a1c2ac9d5872",
+    "customer_id": "213f6886-1bf3-4871-9b58-406668d8d0d9",
+    "account_type": "checking",
+    "balance": 34632.46,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-11T07:57:22.493709"
+  },
+  {
+    "account_id": "dc0ade21-2adb-400c-8525-7c798f95b46e",
+    "customer_id": "7a57664e-7132-4455-80d2-941e634ac611",
+    "account_type": "business",
+    "balance": 42166.22,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-21T18:45:57.553394"
+  },
+  {
+    "account_id": "f6aa9b69-4c26-4af0-9e70-de818d836abb",
+    "customer_id": "566da978-d16c-46a8-91b6-f500e0e059dc",
+    "account_type": "checking",
+    "balance": 43020.07,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-13T19:33:15.490409"
+  },
+  {
+    "account_id": "07cad14d-5a7b-4dda-90ac-757f012f4d15",
+    "customer_id": "c0d1dfd4-e0cb-4ec0-a015-c037910eef7f",
+    "account_type": "savings",
+    "balance": 30245.32,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-09T23:32:02.447690"
+  },
+  {
+    "account_id": "4142b224-a52e-43cd-a038-7ded65cdf7c2",
+    "customer_id": "39bd92e4-7402-4da7-935d-943572f0c461",
+    "account_type": "checking",
+    "balance": 13638.36,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-24T15:09:53.347665"
+  },
+  {
+    "account_id": "d0a5c775-d08a-4f84-acdb-1a384f29d63f",
+    "customer_id": "82494bdc-3139-4a3c-9c44-c42ffd970d1b",
+    "account_type": "savings",
+    "balance": 30985.22,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-04T21:35:06.875988"
+  },
+  {
+    "account_id": "ccdcec92-3a9d-449b-a533-99b5ec654fa7",
+    "customer_id": "4c9e554c-fe39-460b-9aa3-babd1c8a9c53",
+    "account_type": "business",
+    "balance": 4140.19,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-17T21:34:41.227117"
+  },
+  {
+    "account_id": "2abd3c2c-85a5-4c8b-ae9f-89b4d26c53dd",
+    "customer_id": "d08b1413-a4ff-4021-9808-1ab1781b2184",
+    "account_type": "checking",
+    "balance": 32880.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-01T20:13:08.132927"
+  },
+  {
+    "account_id": "bc410d67-5b9f-4f5b-9ab4-3cf4df7d13ab",
+    "customer_id": "17502115-f95d-47c6-94e9-31e4db5b8d37",
+    "account_type": "checking",
+    "balance": 4458.96,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-27T15:53:05.658991"
+  },
+  {
+    "account_id": "12b94ab8-8047-474c-a0d8-afbf9845b01d",
+    "customer_id": "5db699cd-dce0-4f3b-a74a-249443c6c5ff",
+    "account_type": "savings",
+    "balance": 36145.76,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-04T05:41:01.082356"
+  },
+  {
+    "account_id": "0ad50654-12ff-4668-ada5-224054022690",
+    "customer_id": "8791227d-52f6-42e3-8a4d-c383c7847e35",
+    "account_type": "checking",
+    "balance": 36412.84,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-13T20:58:14.801170"
+  },
+  {
+    "account_id": "62acecba-baac-462e-b734-fd4a45594bac",
+    "customer_id": "c4c668b4-4581-492c-8b51-783285309efe",
+    "account_type": "checking",
+    "balance": 13093.99,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-10T18:11:19.212868"
+  },
+  {
+    "account_id": "16574994-1ccf-48fe-85d2-a937649e1d18",
+    "customer_id": "c879ee8e-1722-41fb-8da3-db2c0c04f236",
+    "account_type": "savings",
+    "balance": 20236.82,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-20T18:16:51.478139"
+  },
+  {
+    "account_id": "b25a33ab-2872-4230-bf03-0e2123c88be0",
+    "customer_id": "889bf3b4-cce5-4269-b29b-7f5829ef1afc",
+    "account_type": "savings",
+    "balance": 41383.6,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-22T15:45:01.545408"
+  },
+  {
+    "account_id": "922aa78f-a10e-4a4e-8f97-07725e6ea9b5",
+    "customer_id": "585593a9-6075-47a9-b0b3-9505377384f3",
+    "account_type": "checking",
+    "balance": 26747.0,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-21T11:11:27.561531"
+  },
+  {
+    "account_id": "6a6959c3-8bf5-4eeb-8ab1-63a81d789f38",
+    "customer_id": "2ac28d0a-6f50-422a-b6ce-08e5438188e7",
+    "account_type": "business",
+    "balance": 2047.76,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-20T14:07:05.878226"
+  },
+  {
+    "account_id": "6ebc9507-bc91-4217-8afd-7d75fb491263",
+    "customer_id": "860e8b9c-64e7-4286-99a6-9fa3fb919d79",
+    "account_type": "checking",
+    "balance": 5549.83,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-08T04:58:46.153303"
+  },
+  {
+    "account_id": "e3f1e819-9a4c-41de-b316-2c82debfbe53",
+    "customer_id": "f57660ae-5667-44d9-b7cc-1c34516fd253",
+    "account_type": "checking",
+    "balance": 24362.5,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-23T00:56:04.121844"
+  },
+  {
+    "account_id": "a74e0204-e4e0-4959-9110-6531111cfd76",
+    "customer_id": "75cda9db-d1be-4ebd-8a32-11a19c4bd24e",
+    "account_type": "savings",
+    "balance": 48076.34,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-12T13:29:04.103265"
+  },
+  {
+    "account_id": "b1449d7b-b592-41c6-b200-8e62e99283f5",
+    "customer_id": "e73f2962-e437-4e96-8731-49f15c317e17",
+    "account_type": "business",
+    "balance": 18560.23,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-04T07:13:26.602794"
+  },
+  {
+    "account_id": "7b27a68a-b9d4-477b-8abd-bea86a446ac4",
+    "customer_id": "7538ea95-9880-485c-9aca-c8f6c43f354c",
+    "account_type": "savings",
+    "balance": 5728.23,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-16T21:43:12.076550"
+  },
+  {
+    "account_id": "b7a43e92-5bbe-4ee3-a6dc-a117b31c69d2",
+    "customer_id": "5c948d66-b4e7-48f0-9866-5c2a4a9c9c01",
+    "account_type": "business",
+    "balance": 10417.45,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-07T19:40:08.445094"
+  },
+  {
+    "account_id": "3f3f3c58-ffdb-4b68-a4e9-6c6b1df16710",
+    "customer_id": "b17eb187-1508-4b70-b981-799fe3223fcd",
+    "account_type": "checking",
+    "balance": 47077.98,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-18T15:49:57.701650"
+  },
+  {
+    "account_id": "babc6234-d242-49e3-a9a8-defca2016218",
+    "customer_id": "d25c08e6-0abb-42a5-93d8-c33d5d0839fe",
+    "account_type": "business",
+    "balance": 36814.24,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-01T19:59:40.148916"
+  },
+  {
+    "account_id": "7cba30ee-2127-4c9e-8a97-4fdd1b5a7343",
+    "customer_id": "1063c2b0-bc89-4ae7-b465-cb101e248581",
+    "account_type": "business",
+    "balance": 39661.64,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-10T05:20:11.323761"
+  },
+  {
+    "account_id": "be938ca6-611f-4030-b8b8-52558822ecb9",
+    "customer_id": "8663de61-2217-4f80-8522-12c2ae78263f",
+    "account_type": "savings",
+    "balance": 10302.35,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-14T04:12:13.475053"
+  },
+  {
+    "account_id": "00c0eb5a-21ed-46be-9db3-82c8a432b610",
+    "customer_id": "5bda6cf8-28a6-4c89-b7ce-d6b425cb7bcf",
+    "account_type": "savings",
+    "balance": 9640.99,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-01T11:22:52.506443"
+  },
+  {
+    "account_id": "bf45f5d9-eb4f-4061-80d7-610378bebd0d",
+    "customer_id": "40972939-feaa-4335-886f-c9cbbd958b14",
+    "account_type": "savings",
+    "balance": 10326.47,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-22T12:43:44.384358"
+  },
+  {
+    "account_id": "be35832b-f48a-4546-9afe-e68396a3ec83",
+    "customer_id": "d422ecee-431f-48bb-8e03-78769a822a22",
+    "account_type": "checking",
+    "balance": 3228.56,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-14T21:14:06.304947"
+  },
+  {
+    "account_id": "e182e42a-d023-41a3-a4fa-74605f5a8022",
+    "customer_id": "d7f0262e-fe79-47c7-bdc5-a4a81a2c6a3d",
+    "account_type": "checking",
+    "balance": 9103.29,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-14T07:55:23.425027"
+  },
+  {
+    "account_id": "8615f0d1-9438-4f05-9628-4fc8c773b384",
+    "customer_id": "a551c997-9103-4b90-8916-1b5ec439c52c",
+    "account_type": "checking",
+    "balance": 17673.06,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T06:51:23.383645"
+  },
+  {
+    "account_id": "0295fe61-4094-46a8-a21b-b0d9fb5be294",
+    "customer_id": "431d3fba-ca1a-4314-bbde-890c3ee68ecd",
+    "account_type": "checking",
+    "balance": 49810.74,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-22T11:50:54.279225"
+  },
+  {
+    "account_id": "da8a7495-f887-4532-b049-d56611ccfe27",
+    "customer_id": "eae4165a-fe52-4b53-a3eb-157c8539293f",
+    "account_type": "savings",
+    "balance": 48810.38,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-17T13:18:17.887249"
+  },
+  {
+    "account_id": "94c53e02-a035-41b7-aa73-6177171484f6",
+    "customer_id": "b685ede7-1b46-441d-99ad-10b8b63a7c41",
+    "account_type": "savings",
+    "balance": 32634.37,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-28T04:26:55.966951"
+  },
+  {
+    "account_id": "979d698e-304e-4c89-9473-bcb2361a8546",
+    "customer_id": "a8d68e97-d22b-4df1-bb35-85ffc3e4d5ea",
+    "account_type": "checking",
+    "balance": 781.04,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-01T02:12:36.192474"
+  },
+  {
+    "account_id": "b078a399-8140-4a58-a8f0-47070a9e0e28",
+    "customer_id": "e81c0a74-b809-41c3-aa8b-349950c1bdca",
+    "account_type": "checking",
+    "balance": 22458.73,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-25T09:15:15.596570"
+  },
+  {
+    "account_id": "8666a844-15cd-4087-9e3f-7e4e59320287",
+    "customer_id": "161b6cf3-b8a4-4be6-a1a1-9d8e917294b2",
+    "account_type": "savings",
+    "balance": 26722.91,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-17T20:54:48.042822"
+  },
+  {
+    "account_id": "ecc4a34d-489f-4e6d-a11a-7a1da6aa005e",
+    "customer_id": "3a7a6f54-fc07-4c80-b531-0877da766c03",
+    "account_type": "checking",
+    "balance": 12803.47,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-02T20:29:43.823898"
+  },
+  {
+    "account_id": "28ec8d6f-e322-42c8-ba1e-5c45a491e55a",
+    "customer_id": "a01d74c7-6cec-4190-97da-3651197a8fc4",
+    "account_type": "savings",
+    "balance": 21495.69,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-25T02:51:12.114836"
+  },
+  {
+    "account_id": "5bdb3af0-ad47-4580-9e41-4fedb19fc332",
+    "customer_id": "5831bf53-0665-4b96-8186-56d1b3b0cb43",
+    "account_type": "savings",
+    "balance": 33195.51,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-02T15:19:38.535475"
+  },
+  {
+    "account_id": "f06f63da-8ba6-4b66-85cd-8c194b4048f1",
+    "customer_id": "77586003-a830-480e-a77e-c99fd47c6dbb",
+    "account_type": "business",
+    "balance": 12437.55,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T22:30:30.177628"
+  },
+  {
+    "account_id": "7182ad9a-494f-4b35-9da7-b9f796e5d09f",
+    "customer_id": "58d6e5d0-5d4e-48ce-87b8-0d9e07d37370",
+    "account_type": "business",
+    "balance": 24609.59,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-16T13:57:31.904467"
+  },
+  {
+    "account_id": "36506c32-a2c0-42df-afe3-fe31c09fa495",
+    "customer_id": "f0a95adf-c148-426f-8d00-e6fd1d4ef1cc",
+    "account_type": "business",
+    "balance": 40103.62,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-20T11:36:43.265839"
+  },
+  {
+    "account_id": "e89a402c-e0f2-429d-afbd-cb056e9f2140",
+    "customer_id": "c9175bee-a816-4dfe-a37a-740a1c7c22e4",
+    "account_type": "savings",
+    "balance": 694.33,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-06T02:10:14.806408"
+  },
+  {
+    "account_id": "a69da6f7-7f63-41df-92a3-3de59ff73888",
+    "customer_id": "cfaf556b-b9d6-4d12-b739-de0fb6b85e35",
+    "account_type": "business",
+    "balance": 1652.59,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-02T19:24:53.648680"
+  },
+  {
+    "account_id": "e74ad24a-a8e5-4551-96a2-afba1fbecb69",
+    "customer_id": "ad8c5499-e9b0-4f91-adf8-27cb732a723b",
+    "account_type": "business",
+    "balance": 32743.51,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-16T14:16:48.383098"
+  },
+  {
+    "account_id": "61923286-d7cd-46b6-930d-1ff3f745ba4f",
+    "customer_id": "d539d742-2d0d-42de-9449-ee09b4cd80d4",
+    "account_type": "business",
+    "balance": 47648.52,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-11T09:35:02.106108"
+  },
+  {
+    "account_id": "01ed3f7f-9c23-4c43-955b-b1387f78653f",
+    "customer_id": "e7433228-f633-4727-a046-a41faf883f9c",
+    "account_type": "savings",
+    "balance": 3437.26,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-11T07:09:22.355729"
+  },
+  {
+    "account_id": "79b07a63-3496-43ad-bb95-535f58a3f780",
+    "customer_id": "ea535f96-7948-4168-9f9a-b8c5454809ef",
+    "account_type": "checking",
+    "balance": 6174.22,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-17T06:04:58.244547"
+  },
+  {
+    "account_id": "204ee318-d52c-40a4-96ea-9c26a098d79a",
+    "customer_id": "5bf1e632-5c42-4a48-a726-9b818a43162d",
+    "account_type": "business",
+    "balance": 32452.62,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-06T14:40:40.003721"
+  },
+  {
+    "account_id": "9f48a381-dbe5-4277-9005-9b8b4a7a7b25",
+    "customer_id": "683ca9ed-9e35-41f1-aa39-7c80c91a6c07",
+    "account_type": "savings",
+    "balance": 29510.65,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-03T23:20:15.327155"
+  },
+  {
+    "account_id": "5dd969d1-f626-4190-b343-0e4cd78b5f12",
+    "customer_id": "0d6fd75a-f021-46fa-8948-314c53b3fa4a",
+    "account_type": "business",
+    "balance": 1196.51,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-13T11:33:38.732528"
+  },
+  {
+    "account_id": "7a7f4cd2-c9cd-409d-9790-c386f60d4ffb",
+    "customer_id": "e82e773b-61f7-46ec-817e-39c68031de6f",
+    "account_type": "business",
+    "balance": 13671.59,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-22T20:31:06.030555"
+  },
+  {
+    "account_id": "61a72a80-25f9-498a-a645-c4f03ade1bf1",
+    "customer_id": "f29a45ce-e0a6-4e0e-bee5-7040cb016e25",
+    "account_type": "savings",
+    "balance": 36180.58,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-11T20:29:48.547333"
+  },
+  {
+    "account_id": "41785c1e-5c15-4937-b25b-2508fe4906b0",
+    "customer_id": "a4d2b892-009c-4a9e-9f52-be1aba021738",
+    "account_type": "checking",
+    "balance": 45218.39,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-10T14:21:36.432516"
+  },
+  {
+    "account_id": "14b4212f-a6e8-43be-a63a-b7de7cc436c1",
+    "customer_id": "1c70cf56-a251-4f42-a655-489c7e9813ca",
+    "account_type": "savings",
+    "balance": 33702.1,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-06T01:22:55.721971"
+  },
+  {
+    "account_id": "6c4ad898-faa1-45f9-9dfc-78ebde6ce2f1",
+    "customer_id": "d7fe0687-c723-491e-990d-f3acf6aeb88f",
+    "account_type": "checking",
+    "balance": 44524.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-14T06:44:48.194810"
+  },
+  {
+    "account_id": "c41175ee-76b6-4b89-b75b-329e807cc4d2",
+    "customer_id": "15ac87e7-229c-4314-b453-2031e185c1aa",
+    "account_type": "savings",
+    "balance": 6316.62,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-08T07:00:52.387033"
+  },
+  {
+    "account_id": "c9e01f0f-986b-4b83-9581-3be0fc3fcac6",
+    "customer_id": "5eed616f-c07e-4e14-8487-f107cad28ace",
+    "account_type": "business",
+    "balance": 46757.49,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-05T05:03:43.620146"
+  },
+  {
+    "account_id": "f0164b05-5dcb-430c-94ee-b608747e9150",
+    "customer_id": "940124ca-9dbb-454d-ad09-6e8963a3baeb",
+    "account_type": "checking",
+    "balance": 13062.2,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-01T07:59:27.591022"
+  },
+  {
+    "account_id": "b812214b-ed50-4dfd-b351-d3edfb851c8a",
+    "customer_id": "2c25494a-39f4-4f6e-b4a2-5c2ed60555a7",
+    "account_type": "savings",
+    "balance": 20019.78,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-11T14:24:29.823812"
+  },
+  {
+    "account_id": "7ac563f1-9e21-4821-82d8-8e719b0e0c8c",
+    "customer_id": "a4f4b4b5-3f37-49c5-a154-93159bd328a2",
+    "account_type": "savings",
+    "balance": 48650.57,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-03T01:07:49.717113"
+  },
+  {
+    "account_id": "9b0c9237-fa9b-4907-8135-4f19a8a7ec33",
+    "customer_id": "f0516b7a-6050-433c-b6da-842822365e35",
+    "account_type": "checking",
+    "balance": 26853.82,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-12T06:06:02.503425"
+  },
+  {
+    "account_id": "7d9194ae-399c-4ebf-9362-42bc4925ff5e",
+    "customer_id": "d5881de5-3de1-46c7-ae99-32985d477af9",
+    "account_type": "business",
+    "balance": 42223.94,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-15T22:41:09.530319"
+  },
+  {
+    "account_id": "14ec5929-2b88-431a-b5c9-91908ee49d3c",
+    "customer_id": "e78a3520-63e8-4201-8eed-507c1dde2d25",
+    "account_type": "savings",
+    "balance": 14277.56,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-19T11:14:17.578452"
+  },
+  {
+    "account_id": "38497cc5-d45f-4f01-b3e3-0edd901149c5",
+    "customer_id": "c0cb32d5-2887-4996-988b-795061cfad92",
+    "account_type": "checking",
+    "balance": 5162.32,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-14T03:10:04.436189"
+  },
+  {
+    "account_id": "95c4b24f-0334-4b8b-bbfe-e2d574c41f8f",
+    "customer_id": "3f16c008-b031-4899-8ce9-8a2c7eb1bb18",
+    "account_type": "checking",
+    "balance": 14443.81,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-10T13:02:30.608905"
+  },
+  {
+    "account_id": "c686a42c-2e5a-461f-a0ad-0ecbae3a1a06",
+    "customer_id": "a82aedd9-e2fb-41b9-b3c6-fc1a12ec2261",
+    "account_type": "business",
+    "balance": 6848.56,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-22T10:31:03.027246"
+  },
+  {
+    "account_id": "438c5500-a549-4324-a74b-927bf6107212",
+    "customer_id": "a1650004-7187-41e7-9c38-7312b012aa6b",
+    "account_type": "savings",
+    "balance": 35753.45,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-30T19:34:50.793583"
+  },
+  {
+    "account_id": "da4240e0-5b8b-4130-8c5a-be149e7604c3",
+    "customer_id": "13e1ea75-fc0a-4e79-a1d8-a76af2219e73",
+    "account_type": "business",
+    "balance": 40700.43,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-21T16:42:55.577658"
+  },
+  {
+    "account_id": "fca38222-5faf-4634-bd6a-cfab910c51f8",
+    "customer_id": "3fcc4ef6-f30f-460a-b997-8fa177467168",
+    "account_type": "savings",
+    "balance": 35319.49,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-03T10:44:32.180574"
+  },
+  {
+    "account_id": "f79b9ca4-bc52-4bbe-83c3-5e75669523e3",
+    "customer_id": "7e74ff70-0773-43f5-b39b-b004a67969d6",
+    "account_type": "savings",
+    "balance": 5021.74,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-02T23:46:25.150284"
+  },
+  {
+    "account_id": "d63d7f17-fe58-47c1-bc87-3d2357fd1475",
+    "customer_id": "59fe4ebf-0e5a-4498-9c96-99715a35298c",
+    "account_type": "savings",
+    "balance": 43196.96,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-02T04:46:31.303735"
+  },
+  {
+    "account_id": "c7753437-9cb4-4306-a07d-8be946127e09",
+    "customer_id": "a19ea965-0287-4d60-8814-acc086f6a5a2",
+    "account_type": "checking",
+    "balance": 30244.87,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-26T19:56:02.967765"
+  },
+  {
+    "account_id": "11579a9d-f2e4-4259-9080-7d092dabea96",
+    "customer_id": "d8b5d782-7758-45ca-a06e-cd10a4fa8138",
+    "account_type": "savings",
+    "balance": 29129.11,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T05:09:33.527977"
+  },
+  {
+    "account_id": "f298e116-7481-419e-b4ba-86917565c8d3",
+    "customer_id": "6827fe90-b294-4461-a700-09fb5f051270",
+    "account_type": "checking",
+    "balance": 35904.7,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-08T07:36:10.025085"
+  },
+  {
+    "account_id": "e7958406-48ef-444a-b973-e50841a25149",
+    "customer_id": "75c8f660-4287-45e1-95d6-f504b63c6e87",
+    "account_type": "savings",
+    "balance": 5983.08,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T13:04:34.459273"
+  },
+  {
+    "account_id": "5e762909-2c6e-4f0e-961b-40470d591364",
+    "customer_id": "b2a11254-addd-4868-9871-62d8eeb373d5",
+    "account_type": "business",
+    "balance": 32489.73,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-05T04:19:48.596244"
+  },
+  {
+    "account_id": "5a9a2655-31d2-4417-9a97-e5a8e3883605",
+    "customer_id": "abe55bb1-963b-420c-ba71-f1f9562e8963",
+    "account_type": "checking",
+    "balance": 19912.43,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T20:06:12.226873"
+  },
+  {
+    "account_id": "627d0e9c-1abb-408c-b911-677263720d20",
+    "customer_id": "ef0bfb11-c975-4a22-89b2-490f1a3ac374",
+    "account_type": "business",
+    "balance": 6687.17,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-02T21:49:22.672373"
+  },
+  {
+    "account_id": "dd52c076-5712-44db-91a2-b3fbde7e0888",
+    "customer_id": "2d3ded26-f888-4227-ab43-90747a961663",
+    "account_type": "business",
+    "balance": 30400.06,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-13T13:44:36.770869"
+  },
+  {
+    "account_id": "9807900b-8393-4e8d-80ee-03e10d7d0302",
+    "customer_id": "2b1fafe0-c966-4c4e-a0dd-b8cda7dd2f9f",
+    "account_type": "business",
+    "balance": 3466.02,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-02T00:49:15.995621"
+  },
+  {
+    "account_id": "124681e0-b65b-4001-8315-e0c50ef34d13",
+    "customer_id": "de1d6ca0-7f7b-4df9-aa60-80c54c08651d",
+    "account_type": "checking",
+    "balance": 47279.03,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-17T23:20:15.764256"
+  },
+  {
+    "account_id": "fcf5dc0d-ad5c-4b36-85ee-038098080b43",
+    "customer_id": "944f9ee3-050d-4650-af24-85371b8ff40a",
+    "account_type": "checking",
+    "balance": 8958.79,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-09T06:15:35.238584"
+  },
+  {
+    "account_id": "185f5b7a-b006-405a-988d-b32da7d22156",
+    "customer_id": "f99fd494-d027-4b70-8c70-7568e4616ba7",
+    "account_type": "checking",
+    "balance": 24583.05,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T07:22:02.097952"
+  },
+  {
+    "account_id": "d50209cc-c829-48ac-994e-cbf385514e67",
+    "customer_id": "6f33d1f4-523b-4f12-a5b6-ab500c5884ea",
+    "account_type": "business",
+    "balance": 9416.25,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-24T07:04:51.493676"
+  },
+  {
+    "account_id": "46cd82a3-52a4-4a4c-b6c7-0cfa65cc875b",
+    "customer_id": "3ed0e139-574b-41ff-a561-9964da544c62",
+    "account_type": "business",
+    "balance": 45485.55,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T05:28:57.104872"
+  },
+  {
+    "account_id": "91d208bd-6b5b-4666-a7ee-dfdf38b17a01",
+    "customer_id": "74f999ef-58f6-4df9-9aec-985c7488bfa8",
+    "account_type": "savings",
+    "balance": 8880.93,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-23T08:26:32.859599"
+  },
+  {
+    "account_id": "7b935798-41c2-4f27-9b37-be94e68177aa",
+    "customer_id": "e54610be-b0f2-4795-a032-f7aa7810da64",
+    "account_type": "savings",
+    "balance": 6795.07,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-23T16:52:36.565909"
+  },
+  {
+    "account_id": "3bb455d1-1ca8-480d-8c55-cc3f025edabb",
+    "customer_id": "4030503d-fff1-4ec8-be62-ff2ce198e1f6",
+    "account_type": "business",
+    "balance": 21441.87,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-07T15:55:04.444424"
+  },
+  {
+    "account_id": "2d86e2c7-f89d-4c33-bfba-72fb18911d7f",
+    "customer_id": "7e037f7e-0c3d-4f96-a103-6f7381c5391e",
+    "account_type": "business",
+    "balance": 2741.94,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-21T13:49:12.920628"
+  },
+  {
+    "account_id": "bf8aaf85-a7c2-4a75-bddf-e9f168e308ae",
+    "customer_id": "fd6e13c7-2fc9-4d8c-b676-ab45e9d064ff",
+    "account_type": "savings",
+    "balance": 23461.05,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-02T16:49:04.099797"
+  },
+  {
+    "account_id": "40cff75b-9702-4cea-b3c2-8a90ecd7f648",
+    "customer_id": "869e3de0-e1bc-4e61-82cd-76515129d5bc",
+    "account_type": "checking",
+    "balance": 5884.2,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-22T20:46:13.618797"
+  },
+  {
+    "account_id": "4c706bfd-bf55-48cd-be41-23a6bce809cd",
+    "customer_id": "3c5de1ec-c70c-4a97-8c15-1630dfeec5ea",
+    "account_type": "business",
+    "balance": 11420.38,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-04T02:57:47.544611"
+  },
+  {
+    "account_id": "ff9a15fd-288b-4567-adb4-2590544ef7b2",
+    "customer_id": "fee019a4-a026-41aa-aa85-037a981e0386",
+    "account_type": "checking",
+    "balance": 2437.86,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-09T22:52:00.862987"
+  },
+  {
+    "account_id": "c98e4471-9eb6-48b7-8379-32d15afe3534",
+    "customer_id": "60350764-0fcb-4fbc-8859-e76046751a00",
+    "account_type": "checking",
+    "balance": 28805.93,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-05T19:20:08.684052"
+  },
+  {
+    "account_id": "eef99e1c-0780-4bec-9e98-470c4c01e35f",
+    "customer_id": "94850d89-1d4c-4e2f-8a36-bca51dde98f3",
+    "account_type": "checking",
+    "balance": 11252.03,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-22T19:32:34.478575"
+  },
+  {
+    "account_id": "8b8794c4-b665-4eff-80f2-42f29c1ca5d1",
+    "customer_id": "d03629e4-53eb-495b-a1e7-e07eb7fb5f7e",
+    "account_type": "savings",
+    "balance": 27983.95,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-20T19:56:57.124674"
+  },
+  {
+    "account_id": "b25f107b-5e46-4628-9abf-01b7542022fd",
+    "customer_id": "00ebdf55-e787-4b52-8888-1a99de024f91",
+    "account_type": "savings",
+    "balance": 9960.62,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-02T21:21:11.222911"
+  },
+  {
+    "account_id": "841dce3a-b95f-45d9-be5e-8b552dffc779",
+    "customer_id": "ef1e9d7a-4244-43d8-855d-f6d4cacd7e92",
+    "account_type": "savings",
+    "balance": 37759.61,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-19T13:36:46.707368"
+  },
+  {
+    "account_id": "394f74e2-5fa4-4bd9-bbda-10572c7c063e",
+    "customer_id": "cacf1cc8-5f66-423a-adc5-3dab5a1fe4ed",
+    "account_type": "checking",
+    "balance": 34984.52,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-17T17:17:20.385725"
+  },
+  {
+    "account_id": "0706ef56-6f4e-47ad-9363-b8c2454b5bf9",
+    "customer_id": "8aa9a4ac-f10f-4450-aaf1-d4ba7a6a8643",
+    "account_type": "checking",
+    "balance": 14897.98,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-23T19:41:55.741184"
+  },
+  {
+    "account_id": "a3306d9a-f936-451c-9661-6f41ea54c902",
+    "customer_id": "74a8dfdc-a56a-48f4-a624-64d01b24e02b",
+    "account_type": "checking",
+    "balance": 22071.49,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-19T10:08:07.003762"
+  },
+  {
+    "account_id": "83585d15-773b-4bf9-874c-499773ae8c99",
+    "customer_id": "6565ee14-92cb-4ba5-9204-2b3ad2e7073c",
+    "account_type": "savings",
+    "balance": 1724.9,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-28T15:59:19.535146"
+  },
+  {
+    "account_id": "9cd2f3c0-4d0a-4a47-9ada-7e05607de520",
+    "customer_id": "76397ece-a5a7-4ff7-b0c6-886ef1772372",
+    "account_type": "checking",
+    "balance": 728.14,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-19T05:42:55.212129"
+  },
+  {
+    "account_id": "d1cb3537-d1bb-4226-ada4-f69ee50f6a69",
+    "customer_id": "c1671762-42e5-4587-b7fb-b4fbc518997c",
+    "account_type": "checking",
+    "balance": 24359.39,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-18T09:44:18.781630"
+  },
+  {
+    "account_id": "1ae393c5-9ec9-4d13-8733-cc35e2756923",
+    "customer_id": "fef9f1bf-d1d0-4de0-b90b-bcad1d26611e",
+    "account_type": "savings",
+    "balance": 14831.69,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-11T10:11:05.932198"
+  },
+  {
+    "account_id": "c7eeaa5e-21ec-4c96-a28e-ad2f8a0f64d1",
+    "customer_id": "498f791d-3a9b-480b-aadb-515e16dc6991",
+    "account_type": "savings",
+    "balance": 38453.67,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-12T15:49:46.528286"
+  },
+  {
+    "account_id": "7970b0de-eacc-42db-9e0f-dc3e13a99a0e",
+    "customer_id": "337c9675-d3da-4eb8-ad42-ecef8660bde4",
+    "account_type": "checking",
+    "balance": 13680.97,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-08T19:25:09.552974"
+  },
+  {
+    "account_id": "67bf248f-4b55-49be-81f1-7c5eed51ebbb",
+    "customer_id": "fa51f879-ff8f-4454-831f-4c7f8e81f252",
+    "account_type": "business",
+    "balance": 33709.93,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-06T17:47:46.471646"
+  },
+  {
+    "account_id": "26f65370-a24a-4fe3-8262-1b8c4f26fc1d",
+    "customer_id": "9606fbb1-656d-4032-8149-400aa710ce2f",
+    "account_type": "business",
+    "balance": 41834.3,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-09T09:50:21.209162"
+  },
+  {
+    "account_id": "3976d08a-5a09-4149-bebd-ccc3cbed98ba",
+    "customer_id": "685f3c35-d53a-4b6c-80a2-73194653ea3e",
+    "account_type": "savings",
+    "balance": 39325.65,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-24T22:13:54.567114"
+  },
+  {
+    "account_id": "8e687396-9c01-4733-a7ac-6509e8a6367f",
+    "customer_id": "74b4d2ae-cc82-4d65-946a-53eb5393deb5",
+    "account_type": "business",
+    "balance": 15137.47,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-16T02:03:47.500786"
+  },
+  {
+    "account_id": "5f3abd2a-4005-48f0-9dfe-90d2ce26d237",
+    "customer_id": "9063e4d9-d7c2-4790-ae6f-b4a0ce7739a4",
+    "account_type": "business",
+    "balance": 14646.68,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-15T17:51:24.429822"
+  },
+  {
+    "account_id": "8bf70588-743d-4d73-aa32-1aceae653b98",
+    "customer_id": "2d5275a9-0658-4e6f-81dd-7af3a91dd1a5",
+    "account_type": "savings",
+    "balance": 6077.11,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-17T08:21:47.748314"
+  },
+  {
+    "account_id": "7edb9a14-e939-4f70-8ea9-ef44672513d0",
+    "customer_id": "ca1b24a4-8a55-4a6a-8d71-bad81c24b45c",
+    "account_type": "business",
+    "balance": 14485.65,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-15T15:26:19.530815"
+  },
+  {
+    "account_id": "761bdee3-1814-4479-ab09-2f89e305b5b6",
+    "customer_id": "13768150-71f4-4502-b9b4-95a28a2eddf5",
+    "account_type": "business",
+    "balance": 33625.33,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T00:41:40.870922"
+  },
+  {
+    "account_id": "24bdadbd-cdab-43ae-a473-55cd38013955",
+    "customer_id": "9d086a91-ff1c-40cb-ae85-511aad9f8c5b",
+    "account_type": "savings",
+    "balance": 8699.49,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T23:42:22.814491"
+  },
+  {
+    "account_id": "38a77179-d13e-467b-9f08-6bbab901617b",
+    "customer_id": "c890fd51-fc0a-437e-8104-ce390dc206d7",
+    "account_type": "checking",
+    "balance": 45523.01,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-23T08:09:30.384335"
+  },
+  {
+    "account_id": "310eda66-5963-4531-811c-a912a95d9985",
+    "customer_id": "3d4f79a2-5d9e-451b-8e1f-fc1543515620",
+    "account_type": "savings",
+    "balance": 10650.0,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-08T16:38:35.789209"
+  },
+  {
+    "account_id": "77ea8c06-0b96-4971-9a84-13dab3e54271",
+    "customer_id": "f5b52109-cc5e-4820-b2e2-491c7fefd851",
+    "account_type": "checking",
+    "balance": 25635.91,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-02T23:04:50.121426"
+  },
+  {
+    "account_id": "d12242d6-f29c-49dc-9bbc-c452c466310a",
+    "customer_id": "ab82dfa7-a2cc-4ccd-9714-2e2ee168e031",
+    "account_type": "business",
+    "balance": 32127.08,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T03:28:38.960940"
+  },
+  {
+    "account_id": "7bb18ffc-68b3-4b6b-a1b0-e0516826da39",
+    "customer_id": "b306b702-41d8-41b7-8152-d24799ab9d67",
+    "account_type": "savings",
+    "balance": 11173.09,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-15T05:04:10.045361"
+  },
+  {
+    "account_id": "3d3d4d1e-425e-4940-9fa6-5c0aee20f5ee",
+    "customer_id": "8d22a837-dd10-4ed3-b022-b5bc74611da2",
+    "account_type": "business",
+    "balance": 42991.38,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-19T10:02:01.086930"
+  },
+  {
+    "account_id": "3877a641-8fae-49f6-b6e7-8ec47c99b54f",
+    "customer_id": "4a771671-1a52-440d-9016-a6b392a6adb5",
+    "account_type": "savings",
+    "balance": 17376.13,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-27T10:19:53.167971"
+  },
+  {
+    "account_id": "d622c7ea-862d-4894-9422-46b24adb3611",
+    "customer_id": "d0f7b6a4-78bd-49b4-a943-f932390c46f7",
+    "account_type": "checking",
+    "balance": 40066.6,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-04T05:00:21.952844"
+  },
+  {
+    "account_id": "396d7dda-1bb2-4977-acc0-0226ecff5891",
+    "customer_id": "839a9d5b-62fe-46a2-80a9-078c9a975771",
+    "account_type": "business",
+    "balance": 46916.07,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-29T05:54:40.352352"
+  },
+  {
+    "account_id": "6361a132-7eb9-4d6d-88c8-3b380ba8c8ab",
+    "customer_id": "6a0c3eb8-ce6c-4f62-b3d9-f3ff5b961bab",
+    "account_type": "business",
+    "balance": 24323.17,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-19T14:54:57.482432"
+  },
+  {
+    "account_id": "75ded6cc-6b81-404c-81aa-b7538fe2a453",
+    "customer_id": "83e30e66-890b-46fd-a9f3-aa1631fc8f15",
+    "account_type": "savings",
+    "balance": 22428.91,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-26T18:13:19.154021"
+  },
+  {
+    "account_id": "7d842f76-f753-40cd-b26c-4154a0f3893b",
+    "customer_id": "3d705601-38e6-46fb-bc58-a6a390bf4278",
+    "account_type": "business",
+    "balance": 27796.84,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-08T08:59:24.781647"
+  },
+  {
+    "account_id": "da3fb158-2c83-40fd-a1d8-bce84ce340d7",
+    "customer_id": "62813bed-7a04-4edc-9b8c-39df5ade2506",
+    "account_type": "savings",
+    "balance": 43104.52,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-17T14:14:33.279197"
+  },
+  {
+    "account_id": "99cb0a00-5b13-4132-a9ca-4ff89b4990e8",
+    "customer_id": "b38bf7dd-88de-47e1-9097-b27676cd76d2",
+    "account_type": "business",
+    "balance": 14442.96,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-28T17:03:22.982246"
+  },
+  {
+    "account_id": "dd548b85-d5a0-44af-8c14-b06fae07563f",
+    "customer_id": "8092ef17-0f29-4b65-ab51-70c47f675fc0",
+    "account_type": "checking",
+    "balance": 35224.48,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-09T03:15:36.214444"
+  },
+  {
+    "account_id": "3e637ce5-7f9f-4ace-8375-1df216d3a385",
+    "customer_id": "a260151c-0ecd-4959-9603-70b0b970abf0",
+    "account_type": "checking",
+    "balance": 32870.14,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-01T08:14:31.420151"
+  },
+  {
+    "account_id": "abd8441d-5896-42e1-bf0f-2ef6a5ae1b95",
+    "customer_id": "53ce5c88-d16a-46e5-bcf5-15091b045e4e",
+    "account_type": "savings",
+    "balance": 25720.55,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-21T22:57:25.396732"
+  },
+  {
+    "account_id": "73052f1f-ac30-42a7-8ab2-afb41da9571c",
+    "customer_id": "e11b1120-c3fb-4e97-b4da-e1d2f1605644",
+    "account_type": "checking",
+    "balance": 27362.09,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-24T13:46:36.939572"
+  },
+  {
+    "account_id": "4ae73f87-473d-4260-a47c-8448d21b9125",
+    "customer_id": "056c53ce-ad49-40c9-bba0-ffe78b04eae8",
+    "account_type": "savings",
+    "balance": 3760.08,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-07T00:14:45.093147"
+  },
+  {
+    "account_id": "24ff6a23-fbe2-4739-9cbb-9e5095fc4b56",
+    "customer_id": "7c508e98-fc04-49a2-a760-d4ca635c55e4",
+    "account_type": "checking",
+    "balance": 7879.44,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T19:56:12.070734"
+  },
+  {
+    "account_id": "d272a93b-3e72-4009-8e78-78c774e2455f",
+    "customer_id": "025be6f2-e94d-4d72-bdf1-e28d584d9f5f",
+    "account_type": "business",
+    "balance": 16574.06,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-18T04:20:11.007219"
+  },
+  {
+    "account_id": "c225dbb0-ac97-417c-b8d1-87b153a88665",
+    "customer_id": "f460837b-c62b-48e5-a5e7-a1a759e1f9af",
+    "account_type": "business",
+    "balance": 20902.35,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-01T05:07:31.265756"
+  },
+  {
+    "account_id": "a00913c1-5f50-4305-88b0-a3839ad4470a",
+    "customer_id": "2eb64817-66bc-4c3c-9a35-4e917dd527f2",
+    "account_type": "savings",
+    "balance": 27371.18,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-15T01:26:33.278283"
+  },
+  {
+    "account_id": "fe5141c9-ff62-4114-8460-c61ed6ea39e9",
+    "customer_id": "73f4ce09-74f7-4ae0-abb7-66cf89c83bfb",
+    "account_type": "checking",
+    "balance": 3212.65,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-24T17:00:31.974342"
+  },
+  {
+    "account_id": "060e353b-423e-4cb4-be6f-294adba17124",
+    "customer_id": "d7754ac2-d3d4-4d7b-b559-6eedec1d3c11",
+    "account_type": "savings",
+    "balance": 10822.7,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-02T16:45:22.794201"
+  },
+  {
+    "account_id": "b2248542-83fa-4f0a-9a31-ddeeb62e68df",
+    "customer_id": "605301af-8a0c-4229-a2d5-6a636b9876ca",
+    "account_type": "checking",
+    "balance": 13649.53,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-22T17:54:38.284439"
+  },
+  {
+    "account_id": "e6872487-69e2-43a9-a545-38e1c5084d99",
+    "customer_id": "2c20e0f0-17a8-4d74-87c6-436f756e69d8",
+    "account_type": "savings",
+    "balance": 27054.81,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-07T07:47:20.058569"
+  },
+  {
+    "account_id": "2ebc55f4-c5cf-41e2-a7dd-a6ec422990d2",
+    "customer_id": "40f9fd18-09d4-41aa-a980-904c3a34ffa2",
+    "account_type": "business",
+    "balance": 9893.24,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-04T17:01:44.015185"
+  },
+  {
+    "account_id": "99228d5a-9bc4-4920-9dca-e558d7ee3660",
+    "customer_id": "f848212f-b8af-4cbc-ba39-da1767c683e8",
+    "account_type": "savings",
+    "balance": 3842.29,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-26T12:15:02.644039"
+  },
+  {
+    "account_id": "b8cb9725-1bd9-40c4-af38-6e33d12e53a0",
+    "customer_id": "8d0b93ef-1b3f-4641-be40-7d5d51ad4bcc",
+    "account_type": "checking",
+    "balance": 38030.55,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-22T21:55:09.965569"
+  },
+  {
+    "account_id": "bea43bd2-e6f9-4823-a1bd-b4aed62c62d7",
+    "customer_id": "31190f0f-ba07-4c12-bd8c-dda6ae6621c4",
+    "account_type": "checking",
+    "balance": 20800.75,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-19T15:18:19.033519"
+  },
+  {
+    "account_id": "acc85c69-1257-41b9-a634-dec18a77fe59",
+    "customer_id": "ffafceae-64f3-4a9a-b247-54db9796327d",
+    "account_type": "savings",
+    "balance": 48428.75,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-30T07:01:39.422874"
+  },
+  {
+    "account_id": "113a456b-89e0-401e-b336-510b72e77ceb",
+    "customer_id": "5d43d01d-c071-4dcc-ac5d-2f682f14fa39",
+    "account_type": "business",
+    "balance": 20997.56,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-21T00:53:06.821589"
+  },
+  {
+    "account_id": "ab39c7e7-0719-4458-a2ea-d3bb0fcce9b6",
+    "customer_id": "e53137b4-e70b-4e88-9162-92c4be849ad5",
+    "account_type": "business",
+    "balance": 20292.41,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-27T19:16:06.141511"
+  },
+  {
+    "account_id": "ada37067-17c0-47cd-b6fc-a809c6019bfa",
+    "customer_id": "4b6d5cc0-9bfc-4206-8353-786f1ecffd8c",
+    "account_type": "savings",
+    "balance": 36980.51,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-04-06T23:45:23.189925"
+  },
+  {
+    "account_id": "be484897-d655-4585-a7d7-8622bc0b69e7",
+    "customer_id": "38980fcf-1962-4b0a-9da5-27969fe1cbc2",
+    "account_type": "checking",
+    "balance": 17667.77,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-20T05:27:19.160966"
+  },
+  {
+    "account_id": "2cd57f3d-8d8b-47ac-85fb-4732158f8120",
+    "customer_id": "1ea45ef0-690f-49b8-86ed-bce0b15e380c",
+    "account_type": "checking",
+    "balance": 24054.63,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-08T21:42:53.079322"
+  },
+  {
+    "account_id": "264785c2-ddc7-4f29-9576-5447de16db16",
+    "customer_id": "0632da77-afa8-427a-89d0-3ac81d7d1ce0",
+    "account_type": "checking",
+    "balance": 34398.02,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-02T11:55:08.652078"
+  },
+  {
+    "account_id": "72835a75-240b-4cab-aaaf-ecc94241c25e",
+    "customer_id": "21893f95-1d12-439e-828c-ec725fe7f739",
+    "account_type": "checking",
+    "balance": 28616.2,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-17T20:12:31.674098"
+  },
+  {
+    "account_id": "9a5a54fc-dd77-41cb-a746-63f8bd40c54a",
+    "customer_id": "71803f6b-4ff5-4e39-82e9-041ab04a047d",
+    "account_type": "checking",
+    "balance": 31459.68,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-27T19:51:52.620645"
+  },
+  {
+    "account_id": "e356796b-eb2a-4077-a1d6-5435000db50f",
+    "customer_id": "3bd87286-7b07-4841-afb4-c9c5ed856707",
+    "account_type": "business",
+    "balance": 1645.64,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-23T11:27:11.404491"
+  },
+  {
+    "account_id": "365cef07-c72e-44b8-a9b5-5d2f96497396",
+    "customer_id": "2fb5073f-a479-4e55-ac7b-e1bf72e7381b",
+    "account_type": "business",
+    "balance": 41823.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-15T06:23:03.994377"
+  },
+  {
+    "account_id": "dd830a43-ec6c-4725-8370-a5240e4c643c",
+    "customer_id": "077baeb6-05fa-42b6-a64f-f4ee4d5dce20",
+    "account_type": "savings",
+    "balance": 4969.75,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-06T09:58:21.646849"
+  },
+  {
+    "account_id": "b10e693e-3262-4844-a710-0bd10fccd051",
+    "customer_id": "223c73e5-c69b-4c54-b3d3-099cc44e56eb",
+    "account_type": "checking",
+    "balance": 27914.1,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-23T08:50:30.521462"
+  },
+  {
+    "account_id": "b6714b71-6f10-473f-9b8e-771ab44e1085",
+    "customer_id": "125fd489-7f67-4810-afaf-aec8f3c67ee7",
+    "account_type": "savings",
+    "balance": 29211.31,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-22T23:31:14.083456"
+  },
+  {
+    "account_id": "2338a7ae-fed7-41ce-a2b5-0ca6a00adf6d",
+    "customer_id": "733e70f8-9d4b-4a48-a3ce-09c3f3647321",
+    "account_type": "savings",
+    "balance": 1742.79,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-17T23:26:10.568926"
+  },
+  {
+    "account_id": "75b44190-a3e9-4050-b6e9-bf1df8b45e99",
+    "customer_id": "04efb544-9a86-448c-9015-b52e5f24f33a",
+    "account_type": "business",
+    "balance": 17835.73,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-20T04:44:36.417765"
+  },
+  {
+    "account_id": "05744a04-9247-4e25-96d5-4335e2360a0e",
+    "customer_id": "5bc901ef-cd65-48b3-bf4f-41544fa65178",
+    "account_type": "business",
+    "balance": 27245.8,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-24T09:26:58.962829"
+  },
+  {
+    "account_id": "b0725c42-ed2c-4912-bd29-fd221cf968ad",
+    "customer_id": "0899ec8e-6a80-4030-9714-cbb2a719f9ba",
+    "account_type": "business",
+    "balance": 32687.35,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-11T01:00:23.409394"
+  },
+  {
+    "account_id": "09e45f7b-22e2-491f-92a6-50b18ab61712",
+    "customer_id": "29b8ed1b-22c2-4fd0-b463-1384903796e9",
+    "account_type": "savings",
+    "balance": 24989.42,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-13T10:01:09.281723"
+  },
+  {
+    "account_id": "3d7d0ddf-f136-4de7-9445-9c7ded2f04ee",
+    "customer_id": "2a284cd7-e3bb-441a-8a8e-6c9b99879459",
+    "account_type": "business",
+    "balance": 46472.4,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-19T19:49:34.269645"
+  },
+  {
+    "account_id": "62738dd0-64ef-4fe9-a988-49f02e4604c9",
+    "customer_id": "e81b85ed-9cac-4350-af8b-21aaaffaa959",
+    "account_type": "savings",
+    "balance": 22859.35,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-09T07:09:09.521024"
+  },
+  {
+    "account_id": "fe61a473-9b44-42f5-a08d-1efd7dd4403d",
+    "customer_id": "cfaddaca-e301-4af7-9cd4-ad40bcff8113",
+    "account_type": "checking",
+    "balance": 21278.68,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-06T21:29:03.871467"
+  },
+  {
+    "account_id": "21759e64-6336-4461-8fdf-57fbef6f05b9",
+    "customer_id": "1cbea535-e180-4ce4-aacd-45bea0443b7e",
+    "account_type": "savings",
+    "balance": 35171.32,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-11T17:09:29.462217"
+  },
+  {
+    "account_id": "8f2d755b-d647-4d58-a38b-e4d77b0f4deb",
+    "customer_id": "6590064e-3e64-4a8c-bc2a-d741ee2ee083",
+    "account_type": "savings",
+    "balance": 32604.07,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-23T06:55:44.575821"
+  },
+  {
+    "account_id": "98bb9c4a-4700-4e70-9cc1-2066b99915f4",
+    "customer_id": "296cae2a-0f31-4691-8003-d27341342985",
+    "account_type": "checking",
+    "balance": 5348.68,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-11T04:10:39.098820"
+  },
+  {
+    "account_id": "debff962-3940-4e5b-8589-b860a26aed25",
+    "customer_id": "3c74d4d0-baa1-4ecd-813a-279be16b0beb",
+    "account_type": "business",
+    "balance": 12484.46,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-02T14:49:13.601178"
+  },
+  {
+    "account_id": "7cd2a4cf-77da-4b99-bb29-ae062f895a8a",
+    "customer_id": "6f14b632-b788-45e2-8fed-43ba69990123",
+    "account_type": "business",
+    "balance": 13729.41,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-14T01:38:31.498750"
+  },
+  {
+    "account_id": "110f3ad3-0be2-41e3-b38c-1564b854a044",
+    "customer_id": "a83e1939-5bc1-42e2-89dc-bd7939226676",
+    "account_type": "business",
+    "balance": 22207.59,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-05T11:34:21.069342"
+  },
+  {
+    "account_id": "b90b384d-9b15-444e-808e-b43273d03a41",
+    "customer_id": "b1b89447-36e7-4bdc-b1b8-0b459a10484c",
+    "account_type": "business",
+    "balance": 14543.43,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-25T19:21:02.737757"
+  },
+  {
+    "account_id": "fda06b08-cfc7-4737-9827-1b5b937565d4",
+    "customer_id": "1b0201fa-98f7-4381-b8c0-5be665b0a53b",
+    "account_type": "checking",
+    "balance": 15182.12,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-06T00:06:52.250533"
+  },
+  {
+    "account_id": "0b857be6-637c-41db-b5bc-c3275a7096f9",
+    "customer_id": "c48b7962-e6c3-4562-8c16-16f428d69755",
+    "account_type": "checking",
+    "balance": 1998.45,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-03-18T05:17:15.458426"
+  },
+  {
+    "account_id": "639a17c7-9b2f-4fc7-98ce-6dbbb87ae0e5",
+    "customer_id": "64c6b29c-ebd0-45b9-836b-d6dd50e8e282",
+    "account_type": "business",
+    "balance": 43797.19,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-05T02:39:29.440865"
+  },
+  {
+    "account_id": "453641cf-5486-4f67-ad61-bec0488f08d3",
+    "customer_id": "cb2a807e-cd7a-4c28-8d59-1188daa09530",
+    "account_type": "checking",
+    "balance": 2273.5,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-04T15:31:13.829596"
+  },
+  {
+    "account_id": "af0c1c7e-b33d-48ea-b379-1c7040f9177c",
+    "customer_id": "07012e61-445a-47a7-a41a-95cde8f766e3",
+    "account_type": "checking",
+    "balance": 3738.24,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-02T12:50:03.780760"
+  },
+  {
+    "account_id": "9499f423-9643-4e08-9ee7-ab5fc1246fa1",
+    "customer_id": "dd43e34f-e31b-43da-9f74-1068954e376c",
+    "account_type": "business",
+    "balance": 1943.89,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-05T15:36:01.181493"
+  },
+  {
+    "account_id": "e097487d-74a4-4a2f-a6f9-1b5f37b23d1f",
+    "customer_id": "0b25d592-c518-452e-931f-9ad67e539558",
+    "account_type": "business",
+    "balance": 10642.63,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-02T08:52:14.568899"
+  },
+  {
+    "account_id": "2372bd52-21f2-4ab0-b646-5da2dbaabeb5",
+    "customer_id": "ed835cad-15c0-4377-b2f9-b947d1900fea",
+    "account_type": "savings",
+    "balance": 18246.55,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-22T22:10:52.223756"
+  },
+  {
+    "account_id": "29d684e4-1db9-41e3-b8cb-7a27761a74fb",
+    "customer_id": "ca131db5-18fc-43ff-9944-f9011e18c837",
+    "account_type": "savings",
+    "balance": 12534.21,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-02T07:53:23.960428"
+  },
+  {
+    "account_id": "6ca49c8b-5d2b-44af-928c-0ada4a9fbbd9",
+    "customer_id": "a1c5ef37-fe81-4013-b2f3-3ec5d89e6a70",
+    "account_type": "checking",
+    "balance": 34288.29,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-10T12:14:36.095441"
+  },
+  {
+    "account_id": "2addbb53-e8e5-4816-a590-c981137caed5",
+    "customer_id": "417cd29b-4b75-40a5-98f6-0e436c00ecfe",
+    "account_type": "business",
+    "balance": 29588.23,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-04-04T12:44:07.931903"
+  },
+  {
+    "account_id": "c26211ef-467a-4c9f-a1d2-8562cd33bc93",
+    "customer_id": "d57c1f23-dbc9-4a13-be01-762f720cb606",
+    "account_type": "business",
+    "balance": 5077.22,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-12T08:54:45.368347"
+  },
+  {
+    "account_id": "30589ee1-ac9f-4465-8a37-83e01c8abf29",
+    "customer_id": "7a5e29b6-00dc-4dac-a545-2f6515880a76",
+    "account_type": "savings",
+    "balance": 13159.18,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-12T00:09:54.467225"
+  },
+  {
+    "account_id": "8250a98a-3ca1-4833-b9fd-00d0c214be61",
+    "customer_id": "cc4e2363-4179-41a8-b887-6c184eecc5d0",
+    "account_type": "checking",
+    "balance": 1709.3,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-02T22:14:53.618847"
+  },
+  {
+    "account_id": "46802c9e-51a2-46db-bf3e-5c9f6a0bca14",
+    "customer_id": "f5ec08a5-c721-47ac-9622-4011508f6907",
+    "account_type": "checking",
+    "balance": 143.58,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-22T15:39:43.636587"
+  },
+  {
+    "account_id": "c501df12-d808-492c-8136-b97243119a4d",
+    "customer_id": "e65f160b-99aa-4542-90d8-7e5096aa4736",
+    "account_type": "savings",
+    "balance": 20335.44,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-25T08:22:44.516606"
+  },
+  {
+    "account_id": "c8af7081-acdf-414a-b7c0-4e8fd2912f1a",
+    "customer_id": "13018a78-dee0-4f29-87e8-d5c3eacea371",
+    "account_type": "checking",
+    "balance": 17997.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-08T16:26:22.700142"
+  },
+  {
+    "account_id": "543e0f01-f664-4b67-a36f-ad2e540df10d",
+    "customer_id": "d4e3c4ce-9a2c-4164-b731-15c2ccf531e4",
+    "account_type": "savings",
+    "balance": 42737.86,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-25T03:34:01.239781"
+  },
+  {
+    "account_id": "c33b9c47-d8fd-4b51-9060-334106979840",
+    "customer_id": "1cdeadc5-83d0-4caf-acb5-9d3581ec6e0f",
+    "account_type": "checking",
+    "balance": 8126.25,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-05T13:48:23.452522"
+  },
+  {
+    "account_id": "8a4b1225-aec8-414f-a98d-64f5be4be121",
+    "customer_id": "65fb7e6d-491f-46c7-b004-e153f796313e",
+    "account_type": "business",
+    "balance": 43195.12,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-31T21:43:56.270842"
+  },
+  {
+    "account_id": "e9aa8cbb-eb29-4bb3-9f63-f938c65654e8",
+    "customer_id": "664ebf95-4a0b-4a07-84ad-48bf2397e922",
+    "account_type": "business",
+    "balance": 18640.99,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-12T16:33:06.827219"
+  },
+  {
+    "account_id": "db09d7a5-58ca-4cfe-96f7-32ecdcbf9830",
+    "customer_id": "f060c535-6a50-4471-88e8-f9dc10632bb2",
+    "account_type": "business",
+    "balance": 10745.73,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-04T21:15:54.095221"
+  },
+  {
+    "account_id": "f59e52d4-2642-445d-a7d2-e991fd1fe782",
+    "customer_id": "52aa9cc7-fa9a-43e4-a11a-dd4755b8a23c",
+    "account_type": "checking",
+    "balance": 20589.81,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-21T21:45:30.058778"
+  },
+  {
+    "account_id": "93bfe6f9-2f34-44fd-ab96-df86bd78a737",
+    "customer_id": "bd6ad085-18cc-4a7b-b58e-dcfc3c6c7451",
+    "account_type": "business",
+    "balance": 20410.44,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-09T01:15:39.273849"
+  },
+  {
+    "account_id": "32c93e34-f8b6-499d-9041-fc1f3037623b",
+    "customer_id": "81c9d551-83c4-44d9-8c5d-63f605226683",
+    "account_type": "savings",
+    "balance": 23476.16,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-06T08:38:44.540281"
+  },
+  {
+    "account_id": "0020385c-32e4-4d5d-b9bc-7562ede2319c",
+    "customer_id": "fd5cdfdf-61a0-4f61-863e-29000f687fab",
+    "account_type": "savings",
+    "balance": 7355.31,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-17T00:14:54.153083"
+  },
+  {
+    "account_id": "d6c4a676-6e64-4b54-95f4-5e33a2efc257",
+    "customer_id": "94dacbfd-85a5-4e58-a884-250fa422e1d9",
+    "account_type": "business",
+    "balance": 1213.46,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-10T21:50:22.757549"
+  },
+  {
+    "account_id": "5d95ce7c-10e0-48a7-803e-48e36f3c62f7",
+    "customer_id": "2767620b-4e16-4798-be99-164ae932a08e",
+    "account_type": "checking",
+    "balance": 36145.06,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-02-10T23:08:29.434347"
+  },
+  {
+    "account_id": "f35214f6-5d23-4a72-958f-eb3d940f703d",
+    "customer_id": "d8b3a29d-21d3-4b6a-8465-31f6b4ede95a",
+    "account_type": "savings",
+    "balance": 26990.34,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-11T05:45:16.759031"
+  },
+  {
+    "account_id": "1409698b-baca-490f-9535-82e0935b0c73",
+    "customer_id": "0cf7f087-81c3-4fb1-b8d6-ed6ff34196e8",
+    "account_type": "business",
+    "balance": 47805.86,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-02-20T10:57:31.996239"
+  },
+  {
+    "account_id": "40991f8f-8702-4708-8ba0-1cd3b01873d0",
+    "customer_id": "d2b0d45c-352f-40ea-a0b3-e83c46af787e",
+    "account_type": "checking",
+    "balance": 39458.67,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-09T08:52:13.540854"
+  },
+  {
+    "account_id": "36710ca9-e32e-42c5-838c-dc40df3d5e70",
+    "customer_id": "40d1f59b-999b-4ea8-b92b-68f76bf582dc",
+    "account_type": "business",
+    "balance": 18599.22,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-20T00:49:22.417015"
+  },
+  {
+    "account_id": "9961953b-fc03-4797-8b5f-f72565e60d55",
+    "customer_id": "e2621386-8d72-43b7-946a-89a387b17466",
+    "account_type": "checking",
+    "balance": 24256.42,
+    "currency": "EUR",
+    "status": "frozen",
+    "opened_at": "2026-01-09T15:34:37.427972"
+  },
+  {
+    "account_id": "0e6c69d0-caaf-4753-a59c-70fe9ee9ea5a",
+    "customer_id": "6bc6d02e-8303-4486-80ea-a7363e84bb13",
+    "account_type": "savings",
+    "balance": 33157.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-16T10:12:53.503109"
+  },
+  {
+    "account_id": "62a27758-b34f-4d0c-bdf0-e33b2163ca28",
+    "customer_id": "77d7cd0a-d47b-4e46-8c2c-d9f1d1f9c4f0",
+    "account_type": "checking",
+    "balance": 37027.02,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-16T13:14:12.779970"
+  },
+  {
+    "account_id": "a6ad5770-b915-4341-90a2-0dfe54f7452e",
+    "customer_id": "5696917f-3016-4d83-9ec4-76a8c45e9bdd",
+    "account_type": "savings",
+    "balance": 29985.22,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-23T05:25:54.131789"
+  },
+  {
+    "account_id": "20b76bfe-3b77-441c-8fc8-77510d9fb5c2",
+    "customer_id": "01631eaa-6b3e-437e-9b4a-6a58a944c9b1",
+    "account_type": "business",
+    "balance": 34896.76,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-22T08:05:55.525895"
+  },
+  {
+    "account_id": "fed1efb0-bafd-4e7c-9517-6fdc41f35e56",
+    "customer_id": "ecb6bf9f-9d25-4213-80d2-a1b76be7f201",
+    "account_type": "checking",
+    "balance": 16981.25,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-30T08:16:57.802577"
+  },
+  {
+    "account_id": "30415711-ac1d-447f-939e-126bf067f044",
+    "customer_id": "03d4c0a4-aba5-4aa0-814c-6da004217bf9",
+    "account_type": "savings",
+    "balance": 46575.86,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-06T17:39:00.533010"
+  },
+  {
+    "account_id": "c0e86922-3501-48a3-a741-85b34faca4ef",
+    "customer_id": "757db88a-b3be-4d7e-b79a-e7e749dc873d",
+    "account_type": "checking",
+    "balance": 24005.27,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-04-06T17:18:54.034482"
+  },
+  {
+    "account_id": "867f1ae5-2604-402d-8ee3-a52a27818c2f",
+    "customer_id": "33c5ceed-c5c4-415b-9429-2e28952ad4b7",
+    "account_type": "savings",
+    "balance": 4421.64,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-02T23:18:50.283334"
+  },
+  {
+    "account_id": "ac1bd5c4-603f-46b8-ba1b-694f7e7d9679",
+    "customer_id": "ad4c2c88-0485-4a51-9a95-b970fe38a16d",
+    "account_type": "business",
+    "balance": 34507.61,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-12T02:41:51.538522"
+  },
+  {
+    "account_id": "b3746841-7ea0-493e-ae89-d109dda9e87c",
+    "customer_id": "6a8afeb4-2faf-4974-90df-f7732dfa3a06",
+    "account_type": "business",
+    "balance": 38407.19,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-24T04:17:45.854069"
+  },
+  {
+    "account_id": "9fc3d34d-7243-4ee7-abc0-f39b35b197f0",
+    "customer_id": "52a703a1-d260-4b42-be67-b34da5edf7e5",
+    "account_type": "checking",
+    "balance": 4680.2,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-01-21T14:53:58.964888"
+  },
+  {
+    "account_id": "b39a698d-ec82-43d4-8738-5208238e695e",
+    "customer_id": "ed3a0e56-1dc5-49df-973d-a35fbe46bac6",
+    "account_type": "checking",
+    "balance": 3082.21,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-02T01:13:04.066489"
+  },
+  {
+    "account_id": "dc96e8ad-4fb6-4a3d-88d2-a395b1dc7877",
+    "customer_id": "cd5eb953-be54-43d6-87d5-639d7a7607d0",
+    "account_type": "checking",
+    "balance": 36902.11,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-30T02:36:05.176141"
+  },
+  {
+    "account_id": "2038211b-59eb-4fb1-8440-793743e0a47d",
+    "customer_id": "ceca4ef8-110d-43b5-9a0a-45a5c2594b46",
+    "account_type": "business",
+    "balance": 16711.8,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-07T02:36:00.146860"
+  },
+  {
+    "account_id": "d311a7f2-686a-4f84-867e-8b2a6296cad4",
+    "customer_id": "3de44c6f-4007-4ea3-a64a-d2529e765ee5",
+    "account_type": "business",
+    "balance": 7672.93,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-01-15T07:04:11.364061"
+  },
+  {
+    "account_id": "99468b0f-7f36-4bfa-ad17-9fbabd45627a",
+    "customer_id": "8d26dd28-dfe9-4f6a-9180-3b10313f5e6f",
+    "account_type": "savings",
+    "balance": 6054.93,
+    "currency": "EUR",
+    "status": "closed",
+    "opened_at": "2026-03-07T02:47:18.035211"
+  },
+  {
+    "account_id": "fcd7eb8d-902b-4d52-b87c-11e06527556d",
+    "customer_id": "a64aba1f-0a12-4440-b2b7-afc37c6f7317",
+    "account_type": "business",
+    "balance": 31241.54,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-03-05T18:39:29.102401"
+  },
+  {
+    "account_id": "84e210ef-c151-4c88-b41d-c32f021eb63f",
+    "customer_id": "0a941640-73f0-4046-941d-bd6b7e79aa9f",
+    "account_type": "savings",
+    "balance": 32029.78,
+    "currency": "EUR",
+    "status": "active",
+    "opened_at": "2026-02-28T14:40:04.037021"
+  }
+]
