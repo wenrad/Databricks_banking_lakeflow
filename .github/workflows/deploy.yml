@@ -1,0 +1,159 @@
+# ═══════════════════════════════════════════════════════════
+# GitHub Actions — Databricks Bundle CI/CD
+# ═══════════════════════════════════════════════════════════
+#
+# Workflow :
+#   push main     → validate + test + deploy staging
+#   push prod     → validate + test + deploy prod
+#   pull_request  → validate + test only (no deploy)
+#
+# Secrets requis dans GitHub :
+
+name: Databricks Bundle CI/CD
+
+on:
+  push:
+    branches:
+      - main
+      - prod
+  pull_request:
+    branches:
+      - main
+
+jobs:
+
+  # ── Job 1 : Validate & Test ──────────────────────────────
+  validate:
+    name: Validate & Test
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install faker pytest
+
+      - name: Install Databricks CLI
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/databricks/setup-cli/main/install.sh \
+            | sh
+
+      - name: Configure Databricks CLI
+        run: |
+          cat > ~/.databrickscfg << EOF
+          [DEFAULT]
+          host  = ${{ secrets.DATABRICKS_HOST }}
+          token = ${{ secrets.DATABRICKS_TOKEN }}
+          EOF
+
+      - name: Validate bundle
+        run: databricks bundle validate
+
+      - name: Run unit tests
+        run: pytest tests/ -v
+
+
+  # ── Job 2 : Deploy Staging ───────────────────────────────
+  deploy_staging:
+    name: Deploy to Staging
+    runs-on: ubuntu-latest
+    needs: validate          # attend que validate soit OK
+    if: github.ref == 'refs/heads/main'   # seulement sur main
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Databricks CLI
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/databricks/setup-cli/main/install.sh \
+            | sh
+
+      - name: Configure Databricks CLI
+        run: |
+          cat > ~/.databrickscfg << EOF
+          [DEFAULT]
+          host  = ${{ secrets.DATABRICKS_HOST }}
+          token = ${{ secrets.DATABRICKS_TOKEN }}
+          EOF
+
+      - name: Deploy to staging
+        run: databricks bundle deploy --target staging
+
+      - name: Notify success
+        run: |
+          echo "✅ Successfully deployed to staging"
+          echo "Workspace : ${{ secrets.DATABRICKS_HOST }}"
+          echo "Branch    : ${{ github.ref }}"
+          echo "Commit    : ${{ github.sha }}"
+
+
+  # ── Job 3 : Deploy Prod ──────────────────────────────────
+  deploy_prod:
+    name: Deploy to Production
+    runs-on: ubuntu-latest
+    needs: validate          # attend que validate soit OK
+    if: github.ref == 'refs/heads/prod'   # seulement sur prod
+    environment: production  # nécessite approbation manuelle
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install Databricks CLI
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/databricks/setup-cli/main/install.sh \
+            | sh
+
+      - name: Configure Databricks CLI
+        run: |
+          cat > ~/.databrickscfg << EOF
+          [DEFAULT]
+          host  = ${{ secrets.DATABRICKS_HOST }}
+          token = ${{ secrets.DATABRICKS_TOKEN }}
+          EOF
+
+      - name: Deploy to production
+        run: databricks bundle deploy --target prod
+
+      - name: Notify success
+        run: |
+          echo "🚀 Successfully deployed to production"
+          echo "Workspace : ${{ secrets.DATABRICKS_HOST }}"
+          echo "Commit    : ${{ github.sha }}"
+```
+
+---
+
+## 🔍 Points clés à retenir
+
+**`needs: validate`** — le déploiement ne démarre **jamais** si les tests échouent. C'est le principe du CI/CD — on ne déploie que du code validé.
+
+**`environment: production`** — GitHub bloque le déploiement prod et attend une **approbation manuelle**. Tu configures ça dans GitHub → Settings → Environments → production → Required reviewers.
+
+**`secrets.DATABRICKS_HOST` et `secrets.DATABRICKS_TOKEN`** — les credentials ne sont jamais écrits en clair dans le code. Ils sont stockés dans GitHub Secrets → Settings → Secrets and variables → Actions.
+
+**`if: github.ref == 'refs/heads/main'`** — le déploiement staging ne se déclenche que sur la branche `main`, pas sur les PRs ni les autres branches.
+
+---
+
+## 🔐 Configurer les secrets GitHub
+
+Une fois ton repo sur GitHub :
+```
+GitHub repo
+  → Settings
+  → Secrets and variables
+  → Actions
+  → New repository secret
