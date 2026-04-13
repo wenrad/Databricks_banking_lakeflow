@@ -10,7 +10,12 @@ from pyspark.sql import functions as F
 @dlt.table(
     name="customer_360",
     comment="Unified customer view with account and transaction metrics",
-    table_properties={"quality": "gold"}
+    table_properties={
+        "quality": "gold",
+        "pipelines.autoOptimize.managed": "true",
+        "delta.enableDeletionVectors": "true"
+    },
+    cluster_by=["customer_id", "risk_score"]  # liquid clustering
 )
 def customer_360():
 
