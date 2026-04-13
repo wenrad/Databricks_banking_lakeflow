@@ -1,0 +1,83 @@
+bundle:
+  name: databricks-lakehouse-banking
+
+variables:
+  catalog_name:
+    default: banking_lakehouse_dev
+  schema_bronze:
+    default: bronze
+  schema_silver:
+    default: silver
+  schema_gold:
+    default: gold
+
+resources:
+  pipelines:
+    banking_pipeline:
+      name: "[${bundle.target}] Banking Lakehouse Pipeline"
+      catalog: ${var.catalog_name}
+      target: ${var.catalog_name}
+      channel: CURRENT
+      continuous: false
+
+      libraries:
+        - file:
+            path: ./src/bronze/ingest_transactions.py
+        - file:
+            path: ./src/silver/clean_transactions.py
+        - file:
+            path: ./src/gold/customer_360.py
+        - file:
+            path: ./src/gold/fraud_alerts.py
+
+      clusters:
+        - label: default
+          num_workers: 1
+          spark_conf:
+            spark.databricks.photon.enabled: "true"
+
+      configuration:
+        catalog_name:  ${var.catalog_name}
+        schema_bronze: ${var.schema_bronze}
+        schema_silver: ${var.schema_silver}
+        schema_gold:   ${var.schema_gold}
+
+  jobs:
+    banking_job:
+      name: "[${bundle.target}] Banking Pipeline Job"
+
+      schedule:
+        quartz_cron_expression: "0 0 6 * * ?"
+        timezone_id: "Europe/Paris"
+
+      tasks:
+        - task_key: run_pipeline
+          pipeline_task:
+            pipeline_id: ${resources.pipelines.banking_pipeline.id}
+
+      tags:
+        project: banking-lakehouse
+        env: ${bundle.target}
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://dbc-93ff2903-0fde.cloud.databricks.com
+    variables:
+      catalog_name: banking_lakehouse_dev
+
+  staging:
+    mode: development
+    workspace:
+      host: https://dbc-93ff2903-0fde.cloud.databricks.com
+    variables:
+      catalog_name: banking_lakehouse_staging
+
+  prod:
+    mode: production
+    workspace:
+      host: https://dbc-93ff2903-0fde.cloud.databricks.com
+    variables:
+      catalog_name: banking_lakehouse_prod
